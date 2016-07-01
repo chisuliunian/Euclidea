@@ -255,7 +255,7 @@
 - Level 3.3
 - ![3.3](images/level/a-tr-by-circumcenter.png) 
 - 英文标题: Intersection of Perpendicular Bisectors
-- 中文标题: 垂直平分线的交点
+- 中文标题: 垂直平分线的交点（外心）
 - 英文描述: Construct a segment connecting the sides of the angle to get a triangle whose perpendicular bisectors are intersected in the point O.
 - 中文描述: 构造一条线段，使其连接角的两边，获得一个三条垂直平分线相交于点 O 的三角形。
 - 英文谚语: Knowledge exists to be imparted.
@@ -336,11 +336,11 @@
 - Level 4.1
 - ![4.1](images/level/c-double-seg.png) 
 - 英文标题: Double Segment
-- 中文标题: 二倍线段
+- 中文标题: 翻倍线段
 - 英文描述: Construct a point C on the line AB such that |AC|=2|AB| using only a compass.
 - 中文描述: 仅使用圆规在直线 AB 上构造点 C，使得 |AC|=2|AB|。
 - 英文谚语: A mathematical truth is neither simple nor complicated in itself, it is.
-- 中文谚语: 数学事实本身既不简单也不复杂，的确是这样。
+- 中文谚语: 数学事实本身既不简单，也不复杂，的确是这样。
 - 英文谚语作者: Emile Lemoine
 - 中文谚语作者: 埃米尔·勒穆瓦纳（法国数学家、土木工程师）
 
@@ -362,9 +362,9 @@
 - Level 4.3
 - ![4.3](images/level/equilateral-about-circle.png) 
 - 英文标题: Circumscribed Equilateral Triangle
-- 中文标题: 外接等边三角形
+- 中文标题: 外切等边三角形
 - 英文描述: Construct an equilateral triangle that is circumscribed about the circle and contains the given point.
-- 中文描述: 构造一个等边三角形，使其与圆外接，且包含已知点。
+- 中文描述: 构造一个等边三角形，使其与圆外切，已知点为切点之一。
 - 英文谚语: Logic is the anatomy of thought.
 - 中文谚语: 逻辑就是思想的解剖学。
 - 英文谚语作者: John Locke
@@ -405,7 +405,7 @@
 - 英文描述: Let |AB|=1. Construct a point C on the ray AB such that the length of AC is equal to the square root of 2.
 - 中文描述: 假设 |AB|=1。在射线 AB 上构造点 C，使 AC 的长度等于 √2。
 - 英文谚语: The square root of 2 is also known as Pythagoras' constant.
-- 中文谚语: 根号2也被认为是毕达哥拉斯常数。
+- 中文谚语: 根号2也被称为毕达哥拉斯常数。
 - 英文谚语作者: Wikipedia
 - 中文谚语作者: 维基百科
 
@@ -442,9 +442,9 @@
 - 英文标题: Square by Opposite Midpoints
 - 中文标题: 根据对边中点构造正方形
 - 英文描述: Construct a square, given two midpoints of opposite sides.
-- 中文描述: 已知两个对边的中点，构造一个正方形。
+- 中文描述: 已知两条对边的中点，构造一个正方形。
 - 英文谚语: For the first condition to be fulfilled in Mathematics is to be exact; the second is to be as clear and simple as possible.
-- 中文谚语: 数学全能的首要条件是精确无误；次要条件则是尽量简洁明了。
+- 中文谚语: 要在数学中有所成就的首要条件是精确无误；次要条件则是尽量简洁明了。
 - 英文谚语作者: Lazare Carnot
 - 中文谚语作者: 拉扎尔·卡诺（法国数学家、政治家、工程师）
 
@@ -455,7 +455,7 @@
 - 英文标题: Square by Adjacent Midpoints
 - 中文标题: 根据邻边中点构造正方形
 - 英文描述: Construct a square, given two midpoints of adjacent sides.
-- 中文描述: 已知两个邻边的中点，构造一个正方形。
+- 中文描述: 已知两条邻边的中点，构造一个正方形。
 - 英文谚语: Thinking is the hardest work there is, which is probably the reason so few engage in it.
 - 中文谚语: 思考是已知最艰难的工作，这大概就是很少人愿意投身其中的原因。
 - 英文谚语作者: Henry Ford
