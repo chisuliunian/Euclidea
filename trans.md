@@ -73,7 +73,7 @@
 - 英文谚语: Nature is an infinite sphere of which the center is everywhere and the circumference nowhere.
 - 中文谚语:
 - 英文谚语作者: Blaise Pascal
-- 中文谚语作者:
+- 中文谚语作者: 布莱士·帕斯卡
 
 
 #### SquareInCircle
@@ -86,7 +86,7 @@
 - 英文谚语: Where there is matter, there is geometry.
 - 中文谚语:
 - 英文谚语作者: Johannes Kepler
-- 中文谚语作者:
+- 中文谚语作者: 约翰尼斯·开普勒
 
 
 
@@ -102,7 +102,7 @@
 - 英文谚语: The description of right lines and circles, upon which geometry is founded, belongs to mechanics. Geometry does not teach us to draw these lines, but requires them to be drawn.
 - 中文谚语:
 - 英文谚语作者: Isaac Newton
-- 中文谚语作者:
+- 中文谚语作者: 艾萨克·牛顿
 
 
 #### RhombusInTriangle
@@ -141,7 +141,7 @@
 - 英文谚语: Contradiction is not a sign of falsity, nor the lack of contradiction a sign of truth.
 - 中文谚语:
 - 英文谚语作者: Blaise Pascal
-- 中文谚语作者:
+- 中文谚语作者: 布莱士·帕斯卡
 
 
 #### CutRectangle
@@ -475,7 +475,7 @@
 - 英文谚语: It is ignorance alone that could lead anyone to try to prove the axiom.
 - 中文谚语:
 - 英文谚语作者: Aristotle
-- 中文谚语作者:
+- 中文谚语作者: 亚里士多德
 
 
 #### Parallelogram3V
@@ -621,7 +621,7 @@
 - 英文谚语: Symmetry is what we see at a glance; based on the fact that there is no reason for any difference...
 - 中文谚语:
 - 英文谚语作者: Blaise Pascal
-- 中文谚语作者:
+- 中文谚语作者: 布莱士·帕斯卡
 
 
 #### ShiftSegment
@@ -660,7 +660,7 @@
 - 英文谚语: There is nothing strange in the circle being the origin of any and every marvel.
 - 中文谚语:
 - 英文谚语作者: Aristotle
-- 中文谚语作者:
+- 中文谚语作者: 亚里士多德
 
 
 #### TranslateSegment
@@ -712,7 +712,7 @@
 - 英文谚语: The subject of mathematics is so serious that nobody should miss an opportunity to make it a little bit entertaining.
 - 中文谚语:
 - 英文谚语作者: Blaise Pascal
-- 中文谚语作者:
+- 中文谚语作者: 布莱士·帕斯卡
 
 
 
@@ -728,7 +728,7 @@
 - 英文谚语: The whole is greater than the sum of its parts.
 - 中文谚语:
 - 英文谚语作者: Aristotle
-- 中文谚语作者:
+- 中文谚语作者: 亚里士多德
 
 
 #### Annulus
@@ -991,7 +991,7 @@
 - 英文谚语: The roots of education are bitter, but the fruit is sweet.
 - 中文谚语:
 - 英文谚语作者: Aristotle
-- 中文谚语作者:
+- 中文谚语作者: 亚里士多德
 
 
 #### HarmonicMean
@@ -1046,7 +1046,7 @@
 - 英文谚语: It is the glory of geometry that from so few principles, fetched from without, it is able to accomplish so much.
 - 中文谚语:
 - 英文谚语作者: Isaac Newton
-- 中文谚语作者:
+- 中文谚语作者: 艾萨克·牛顿
 
 
 #### InnerTangent
@@ -1072,7 +1072,7 @@
 - 英文谚语: Imagination decides everything.
 - 中文谚语:
 - 英文谚语作者: Blaise Pascal
-- 中文谚语作者:
+- 中文谚语作者: 布莱士·帕斯卡
 
 
 #### 60RotationCW
@@ -1176,7 +1176,7 @@
 - 英文谚语: Education is the best provision for the journey to old age.
 - 中文谚语:
 - 英文谚语作者: Aristotle
-- 中文谚语作者:
+- 中文谚语作者: 亚里士多德
 
 
 
@@ -1257,7 +1257,7 @@
 - 英文谚语: The mathematical sciences particularly exhibit order symmetry and limitations; and these are the greatest forms of the beautiful.
 - 中文谚语:
 - 英文谚语作者: Aristotle
-- 中文谚语作者:
+- 中文谚语作者: 亚里士多德
 
 
 #### TrapezoidGeomMean
@@ -1458,7 +1458,7 @@
 - 英文谚语: The very smallest errors in mathematical matters are not to be neglected.
 - 中文谚语:
 - 英文谚语作者: Isaac Newton
-- 中文谚语作者:
+- 中文谚语作者: 艾萨克·牛顿
 
 
 #### RTrByHypAndTangentPt
@@ -1471,7 +1471,7 @@
 - 英文谚语: Since we cannot know all that there is to be known about anything, we ought to know a little about everything.
 - 中文谚语:
 - 英文谚语作者: Blaise Pascal
-- 中文谚语作者:
+- 中文谚语作者: 布莱士·帕斯卡
 
 
 
@@ -1487,7 +1487,7 @@
 - 英文谚语: Don't spoil my circles!
 - 中文谚语:
 - 英文谚语作者: Archimedes
-- 中文谚语作者:
+- 中文谚语作者: 阿基米德
 
 
 #### CTranslateCircle
@@ -1500,7 +1500,7 @@
 - 英文谚语: Nothing new had been done in Logic since Aristotle!
 - 中文谚语:
 - 英文谚语作者: Kurt Godel
-- 中文谚语作者:
+- 中文谚语作者: 库尔特·哥德尔
 
 
 #### CIntersectCL
@@ -1513,7 +1513,7 @@
 - 英文谚语: A mathematician, like a painter or a poet, is a maker of patterns. If his patterns are more permanent than theirs, it is because they are made with ideas.
 - 中文谚语:
 - 英文谚语作者: Godfrey Hardy
-- 中文谚语作者:
+- 中文谚语作者: 高德菲·哈罗德·哈代
 
 
 #### EqualSegments3
@@ -1526,7 +1526,7 @@
 - 英文谚语: We do not know a truth without knowing its cause.
 - 中文谚语:
 - 英文谚语作者: Aristotle
-- 中文谚语作者:
+- 中文谚语作者: 亚里士多德
 
 
 #### LTangent
@@ -1539,7 +1539,7 @@
 - 英文谚语: Projective geometry is all geometry.
 - 中文谚语:
 - 英文谚语作者: Arthur Cayley
-- 中文谚语作者:
+- 中文谚语作者: 阿瑟・凯利
 
 
 #### Napoleon
@@ -1552,7 +1552,7 @@
 - 英文谚语: The advancement and perfection of mathematics are intimately connected with the prosperity of the state.
 - 中文谚语:
 - 英文谚语作者: Napoléon Bonaparte
-- 中文谚语作者:
+- 中文谚语作者: 拿破仑·波拿巴
 
 
 #### LDropPerp2
@@ -1565,7 +1565,7 @@
 - 英文谚语: The only way to get at the truth about our imaginations is to use our imaginations, and that is hard work.
 - 中文谚语:
 - 英文谚语作者: Paul Lockhart
-- 中文谚语作者:
+- 中文谚语作者: 保罗·洛克哈特
 
 
 #### CIntersectX
