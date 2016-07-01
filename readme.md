@@ -45,7 +45,7 @@
 - 英文描述: Inscribe a circle in the square.
 - 中文描述: 在正方形中内切一个圆。
 - 英文谚语: You can't fit a round peg in a square hole.
-- 中文谚语: 格格不入/你是没法用圆木钉塞满方形孔的。
+- 中文谚语: 圆枘方凿（圆的榫头，方的卯眼，比喻格格不入）。
 - 英文谚语作者: American proverb
 - 中文谚语作者: 美国谚语
 
