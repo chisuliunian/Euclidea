@@ -4,7 +4,7 @@
 - 英文标题: Angle of 60°
 - 中文标题: 60° 角
 - 英文描述: Construct an angle of 60° with the given side.
-- 中文描述: 以指定射线为一边，作一个60° 角。
+- 中文描述: 以指定射线为一边，作一个 60° 角。
 - 英文谚语: Let no one ignorant of geometry enter here.
 - 中文谚语: 几何启蒙，由此入门。（其实是：只有懂几何的人才能入我的门）
 - 英文谚语作者: Plato
@@ -124,7 +124,7 @@
 - 英文标题: Angle of 30°
 - 中文标题: 30° 角
 - 英文描述: Construct an angle of 30° with the given side.
-- 中文描述: 以指定射线为一边，构造一个30° 角。
+- 中文描述: 以指定射线为一边，构造一个 30° 角。
 - 英文谚语: Inspiration is needed in geometry, just as much as in poetry.
 - 中文谚语: 几何学与诗歌一样需要的是灵感。
 - 英文谚语作者: Alexander Pushkin
@@ -351,7 +351,7 @@
 - 英文标题: Angle of 60° - 2
 - 中文标题: 60° 角 - 2
 - 英文描述: Construct a straight line through the given point that makes an angle of 60° with the given line.
-- 中文描述: 过指定点构造一条直线，使其与已知直线成 60° 角。
+- 中文描述: 过指定点构造一条直线，使其与已知直线呈 60° 角。
 - 英文谚语: The best angle from which to approach any problem is the try-angle.
 - 中文谚语: 着手处理任何难题的最佳切入角度就是“尝试的角度”（谐音：三角形）。
 - 英文谚语作者: Author Unknown
@@ -883,7 +883,7 @@
 - 英文标题: Minimum Perimeter - 1
 - 中文标题: 最小周长 - 1
 - 英文描述: Construct a triangle whose perimeter is the minimum possible whose vertices lie on the two sides of the angle and the third vertex is in the point A.
-- 中文描述: 构造一个三角形，使周长尽可能最短，其中两个顶点位于角的两边上且第三个顶点是点 A。
+- 中文描述: 构造一个三角形，使周长尽可能最短，其中两个顶点位于已知角的两边上且第三个顶点是点 A。
 - 英文谚语: Geometry is frozen music.
 - 中文谚语: 几何是凝固的音乐。
 - 英文谚语作者: Johann Goethe
@@ -935,7 +935,7 @@
 - 英文标题: Midpoint*
 - 中文标题: 中点*
 - 英文描述: Construct the midpoint of the segment using only a straightedge. To help you, a line parallel to the segment is given.
-- 中文描述: 仅使用直尺构造线段中点。为了帮助你，我们提供了一条与该线段平行的直线。
+- 中文描述: 仅使用直尺构造指定线段的中点。为了帮助你，我们提供了一条与该线段平行的直线。
 - 英文谚语: Everything should be made as simple as possible, but not simpler.
 - 中文谚语: 凡事都该弄得尽量简便，但绝不能简陋。
 - 英文谚语作者: Albert Einstein
@@ -948,7 +948,7 @@
 - 英文标题: Interior Angles
 - 中文标题: 内角
 - 英文描述: Construct a line through the point that crosses the two lines so that the interior angles are equal.
-- 中文描述: 经过指定点作一条与两条已知直线相交的直线，使两个内角相等。
+- 中文描述: 经过指定点作一条与两已知直线相交的直线，并且使两个内角相等。
 - 英文谚语: I am ever more convinced that the necessity of our (Euclidean) geometry cannot be proved — at least not by human reason for human reason.
 - 中文谚语: 我曾经相信我们欧几里得几何的必要性是无法证明的，至少不能为了人类的原因而用人类的理性去证明。
 - 英文谚语作者: Carl Friedrich Gauss
@@ -961,7 +961,7 @@
 - 英文标题: Regular Octagon
 - 中文标题: 正八边形
 - 英文描述: Construct a regular octagon with the given side.
-- 中文描述: 指定一条边，构造正八边形。
+- 中文描述: 以指定线段为一边，构造一个正八边形。
 - 英文谚语: The essence of mathematics is its freedom.
 - 中文谚语: 数学的本质在于它的自由。
 - 英文谚语作者: Georg Cantor
@@ -974,7 +974,7 @@
 - 英文标题: Trisection by Trapezoid Diagonals
 - 中文标题: 由梯形对角线三等分
 - 英文描述: Construct a line segment that is parallel to the bases of the trapezoid and is divided to three equal parts by its diagonals.
-- 中文描述: 构造一条线段，使其与梯形底边平行，且被梯形对角线分割成三个相等的部分。
+- 中文描述: 构造一条线段，使其与梯形底边平行，且被梯形的对角线分割成三个相等的部分。
 - 英文谚语: It is hard to convince a high-school student that he will encounter a lot of problems more difficult than those of algebra and geometry.
 - 中文谚语: 要说服一个高中生他以后将会遇到比代数和几何还困难的问题，确实是挺难的。
 - 英文谚语作者: Edgar Watson Howe
@@ -987,7 +987,7 @@
 - 英文标题: Minimum Perimeter - 2
 - 中文标题: 最小周长 - 2
 - 英文描述: Inscribe a triangle into the given whose perimeter is the minimum possible.
-- 中文描述: 在已知三角形中内接一个三角形，使其周长尽可能最短。
+- 中文描述: 在已知三角形中作一个内接三角形，使其周长尽可能最短。
 - 英文谚语: The roots of education are bitter, but the fruit is sweet.
 - 中文谚语: 教育的本质是苦涩的，但结出的果却实是甜蜜的。
 - 英文谚语作者: Aristotle
@@ -1000,7 +1000,7 @@
 - 英文标题: Harmonic Mean of Segments
 - 中文标题: 线段的调和平均数
 - 英文描述: Construct a point on the given ray to get a segment with length equal to the harmonic mean of the two adjacent segments.
-- 中文描述: 在指定射线上构造一个点，获得一条长度等于两条相邻线段调和平均数的线段。
+- 中文描述: 在指定射线上构造一个点，获得一条线段，其长度等于两条相邻线段的调和平均数。
 - 英文谚语: Geometry is knowledge of the eternally existent.
 - 中文谚语: 几何学是关于不朽的知识。
 - 英文谚语作者: Pythagoras
@@ -1013,7 +1013,7 @@
 - 英文标题: Triangle by Angle and Centroid
 - 中文标题: 由角和重心构造三角形
 - 英文描述: Construct a segment connecting the sides of the angle to get a triangle whose centroid is in the point O.
-- 中文描述: 构造一条线段，使其连接角的两边，获得一重心为点 O的三角形。
+- 中文描述: 构造一条线段，使其连接已知角的两边，并获得一个重心为点 O的三角形。
 - 英文谚语: I think, therefore I am.
 - 中文谚语: 我思故我在。
 - 英文谚语作者: Rene Descartes
