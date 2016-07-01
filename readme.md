@@ -656,7 +656,7 @@
 - 英文标题: Non-collapsing Compass
 - 中文标题: 非折叠圆规
 - 英文描述: Construct a circle with the given center and the radius equal to the length of the given segment.
-- 中文描述: 指定圆心，构造一个半径和已知线段长度相等的圆。
+- 中文描述: 以指定点为圆心，构造一个半径和已知线段长度相等的圆。
 - 英文谚语: There is nothing strange in the circle being the origin of any and every marvel.
 - 中文谚语: 圆是一切奇迹之源，这一点也不奇怪。
 - 英文谚语作者: Aristotle
@@ -669,7 +669,7 @@
 - 英文标题: Translate Segment
 - 中文标题: 平移线段
 - 英文描述: Construct a segment from the given point parallel and equal to the given segment.
-- 中文描述: 以指定点为端，构造一条与已知线段平行且相等的线段。
+- 中文描述: 以指定点为端点，构造一条与已知线段平行且相等的线段。
 - 英文谚语: Mathematics is a game played according to certain rules with meaningless marks on paper.
 - 中文谚语: 数学是一种按照特定规则在纸上作着各种无聊标记的游戏。
 - 英文谚语作者: David Hilbert
@@ -680,11 +680,11 @@
 - Level 6.7
 - ![6.7](images/level/triangle-by-sides.png) 
 - 英文标题: Triangle by Three Sides
-- 中文标题: 以三条边构造三角形
+- 中文标题: 由三条边构造三角形
 - 英文描述: Construct a triangle with the side AB and the two other sides equal to the given segments.
-- 中文描述: 以 AB为一边，构造一个三角形， 使其另两边分别与两已知线段长度相等。
+- 中文描述: 以 AB为一边，构造一个三角形，使其另外两边分别与两已知线段长度相等。
 - 英文谚语: One geometry cannot be more true than another; it can only be more convenient.
-- 中文谚语: 一种几何学并不显得比其他的更正确，它可能只是更方便。
+- 中文谚语: 任何一种几何学并不显得比其他的更正确，它可能只是更方便。
 - 英文谚语作者: Henri Poincaré
 - 中文谚语作者: 昂立·庞加莱（法国数学家）
 
@@ -695,7 +695,7 @@
 - 英文标题: Hypotenuse and Leg
 - 中文标题: 斜边和直角边
 - 英文描述: Construct a right triangle with the given hypotenuse AB and whose leg is equal to the given segment.
-- 中文描述: 指定斜边 AB，构造一个直角三角形，使一条直角边的长度与已知线段的长度相等。
+- 中文描述: 指定斜边 AB，构造一个直角三角形，使一条直角边的长度与已知线段相等。
 - 英文谚语: The best way to make mathematics interesting to students and laymen is to approach it in a spirit of play.
 - 中文谚语: 让数学对学生和外行来说更有意思的最好办法就是寓教于乐。
 - 英文谚语作者: Martin Gardner
@@ -708,7 +708,7 @@
 - 英文标题: Parallelogram
 - 中文标题: 平行四边形
 - 英文描述: Construct a parallelogram with the given side and the midpoint of the opposite side in the given point.
-- 中文描述: 以指定边和对边的中点，构造一个平行四边形。
+- 中文描述: 由指定边和对边的中点，构造一个平行四边形。
 - 英文谚语: The subject of mathematics is so serious that nobody should miss an opportunity to make it a little bit entertaining.
 - 中文谚语: 数学的主题太严肃了，所有人都不应错过任何让它变得有意思起来的机会。
 - 英文谚语作者: Blaise Pascal
@@ -724,7 +724,7 @@
 - 英文标题: Sum of Areas of Squares
 - 中文标题: 正方形的面积和
 - 英文描述: Construct a square whose area equals the sum of the areas of the two given squares and all three have the common angle.
-- 中文描述: 构造一个正方形，使其面积等于两个已知正方形的面积和，且三个正方形具有公共角。
+- 中文描述: 构造一个正方形，使其面积等于两个已知正方形的面积和，且三个正方形共享同一个公共角。
 - 英文谚语: The whole is greater than the sum of its parts.
 - 中文谚语: 整体胜于部分之和。
 - 英文谚语作者: Aristotle
@@ -737,7 +737,7 @@
 - 英文标题: Annulus
 - 中文标题: 环形
 - 英文描述: Construct a circle that is concentric with the given one and divides it into 2 parts of equal area.
-- 中文描述: 构造一个圆的同心圆，将指定圆分成 2 个面积相等的部分。
+- 中文描述: 构造一个圆的同心圆，使其平分成 2 个面积相等的部分。
 - 英文谚语: We must know, we will know!
 - 中文谚语: 我们必须了解，我们将知晓一切！
 - 英文谚语作者: David Hilbert
@@ -750,9 +750,9 @@
 - 英文标题: Angle of 75°
 - 中文标题: 75° 角
 - 英文描述: Construct an angle of 75° with the given side.
-- 中文描述: 指定一条边，构造 75° 角。
+- 中文描述: 以指定射线为一边，构造一个 75° 角。
 - 英文谚语: The human mind has first to construct forms, independently, before we can find them in things.
-- 中文谚语: 在从万物中发现形状之前，人类早已先在脑中独立创造出了形状。
+- 中文谚语: 在从万物中发现形状之前，人类早就在脑中独立创造出了形状。
 - 英文谚语作者: Albert Einstein
 - 中文谚语作者: 阿尔伯特·爱因斯坦（德国物理学家）
 
@@ -776,7 +776,7 @@
 - 英文标题: Heron's Problem
 - 中文标题: 海伦问题
 - 英文描述: Construct a point C and segments AC and BC such that the sum of their length is minimal.
-- 中文描述: 构造点 C 和线段 AC 和 BC，使两条线段的长度和最小。
+- 中文描述: 构造点 C 以及线段 AC 和 BC，使它们的长度之和最小。
 - 英文谚语: Life is good for only two things, discovering mathematics and teaching mathematics.
 - 中文谚语: 生活因两件事而美好：发现数学与教授数学。
 - 英文谚语作者: Simeon Poisson
@@ -789,9 +789,9 @@
 - 英文标题: Circumscribed Circle
 - 中文标题: 外接圆
 - 英文描述: Construct the circumcircle of the triangle.
-- 中文描述: 构造三角形的外接圆。
+- 中文描述: 构造指定三角形的外接圆。
 - 英文谚语: I should almost therefore put forward the proposal that the third hypothesis (angle sum of a triangle less than two right angles) holds on the surface of an imaginary sphere.
-- 中文谚语: 我几乎就此要发表第三假设（三角形内角和小于180°）在假想球面上也成立的提案了。
+- 中文谚语: 我几乎就此要发表第三假设（三角形内角和小于180°）在假想球面上也同样成立的提案了。
 - 英文谚语作者: Johann Lambert
 - 中文谚语作者: 约翰·兰伯特（德国数学家）
 
@@ -802,7 +802,7 @@
 - 英文标题: Inscribed Circle
 - 中文标题: 内切圆
 - 英文描述: Construct the incircle of the triangle.
-- 中文描述: 构造三角形的内切圆。
+- 中文描述: 构造指定三角形的内切圆。
 - 英文谚语: Circles to square and cubes to double would give a man exercise trouble.
 - 中文谚语: 钻研化圆为方和倍立方体只会让人无功而返。
 - 英文谚语作者: Matthew Prior
@@ -813,9 +813,9 @@
 - Level 7.8
 - ![7.8](images/level/angle-midpoint.png) 
 - 英文标题: Segment by Midpoint
-- 中文标题: 根据中点构造线段
+- 中文标题: 由中点构造线段
 - 英文描述: Construct a segment with the ends on the sides of the angle such that the given point is its midpoint.
-- 中文描述: 构造一条端点分别在指定角两边上的线段，使指定点为其中点。
+- 中文描述: 构造一条端点分别在指定角两边上的线段，并且使指定点为其中点。
 - 英文谚语: Do not worry about your difficulties in Mathematics: I can assure you mine are far greater.
 - 中文谚语: 不用担忧你在数学上碰到的难处：我保证我碰到的肯定比你更多。
 - 英文谚语作者: Albert Einstein
@@ -867,7 +867,7 @@
 - 英文标题: Perimeter Bisector
 - 中文标题: 周长平分线
 - 英文描述: Construct a straight line through a vertex of the triangle that divides its perimeter in half.
-- 中文描述: 经过三角形的顶点构造一条直线，使其将三边分成周长相等的两部分。
+- 中文描述: 经过三角形的顶点构造一条直线，使其周长平分成相等的两部分。
 - 英文谚语: He became a poet, he lacked imagination for a mathematician.
 - 中文谚语: 他成了诗人，是因为他缺乏成为数学家的想象力。
 - 英文谚语作者: David Hilbert
