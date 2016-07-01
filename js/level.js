@@ -17,7 +17,7 @@
  */
 (function () {
     "use strict";
-    var pack = {
+    window.pack = {
         "1.Alpha": [
             {
                 name: "Angle60",
@@ -1377,5 +1377,5 @@
             }
         ]
     };
-    module.exports = pack;
+   // module.exports = pack;
 }());
