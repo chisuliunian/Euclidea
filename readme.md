@@ -514,7 +514,7 @@
 - 英文谚语: Mathematics is the science of those things that are clear in and of themselves.
 - 中文谚语: 数学是能自洽的科学。
 - 英文谚语作者: Carl Jacobi
-- 中文谚语作者: 卡尔·雅可比（（德国数学家）
+- 中文谚语作者: 卡尔·雅可比（德国数学家）
 
 
 #### TrapezoidMedian
