@@ -1174,7 +1174,7 @@
 - 英文描述: Construct three circles tangent to each other at the given points.
 - 中文描述: 构造三个圆，使它们在指定点处彼此相切。
 - 英文谚语: Education is the best provision for the journey to old age.
-- 中文谚语: 教育是人生旅途最好的必需品。
+- 中文谚语: 教育是人生旅途最好的必备品。
 - 英文谚语作者: Aristotle
 - 中文谚语作者: 亚里士多德（古希腊哲学家、数学家）
 
@@ -1190,7 +1190,7 @@
 - 英文描述: Construct a point D on the ray OC such that the segment OD is the fourth proportional to the given segments.
 - 中文描述: 在射线 OC 上构造点 D，使线段 OD 为已知线段的第四比例项。
 - 英文谚语: Mathematics is concerned only with the enumeration and comparison of relations.
-- 中文谚语: 数学关注的只是数字的运算和关系的比较。
+- 中文谚语: 数学所关注的只是数字的运算和关系的比较。
 - 英文谚语作者: Friedrich Gauss
 - 中文谚语作者: 弗莱德里希·高斯（德国数学家）
 
@@ -1294,7 +1294,7 @@
 - 英文描述: Construct an angle of 3° with the given side.
 - 中文描述: 指定一条边，构造 3° 角。
 - 英文谚语: Like all other sciences, mathematics arose out of the needs of men: from the measurement of land and the content of vessels, from the computation of time and from mechanics.
-- 中文谚语: 如同其他学科一样，数学升华于人类的需求：始于丈量土地和测量容积，始于计量时间，始于机械力学。
+- 中文谚语: 如同其他学科一样，数学升华于人类自身的需求：始于丈量土地和测量容积，始于计量时间，始于机械力学。
 - 英文谚语作者: Friedrich Engels
 - 中文谚语作者:弗莱德里希·恩格斯（德国哲学家）
 
@@ -1404,7 +1404,7 @@
 - 英文描述: Construct an equilateral triangle whose one vertex is given and two others lie on the two parallel lines.
 - 中文描述: 指定一个顶点，另两个顶点位于两条平行线上，构造一个等边三角形。
 - 英文谚语: The only thing I am interested in using mathematics for is to have a good time and to help others do the same.
-- 中文谚语: 在使用数学时我唯一感兴趣的一点是感到快乐并帮助别人也享受快乐。
+- 中文谚语: 在使用数学时我唯一感兴趣的一点是自娱自乐并帮助别人也享受到快乐。
 - 英文谚语作者: Paul Lockhart
 - 中文谚语作者: 保罗·洛克哈特（美国宇航员）
 
@@ -1443,7 +1443,7 @@
 - 英文描述: Construct a circle that is tangent to the two given circles and touches one of them in the given point.
 - 中文描述: 构造一个圆，使其与两个已知圆相切，并与其中一个圆相切于指定点。
 - 英文谚语: There is still a difference between something and nothing, but it is purely geometrical and there is nothing behind the geometry.
-- 中文谚语: 在某物和无物之间仍有个不同点，某物总是纯粹符合几何学的，然而几何学背后则是无物的。
+- 中文谚语: 在某物和无物之间还有个不同点，某物总是纯粹契合几何学，然而几何学背后则是无物的。
 - 英文谚语作者: Martin Gardner
 - 中文谚语作者: 马丁·加德纳（美国科普作家）
 
@@ -1469,7 +1469,7 @@
 - 英文描述: Construct a right triangle with the given hypotenuse and the tangent point of its incircle.
 - 中文描述: 由指定的斜边和其上一个内切圆的切点，构造一个直角三角形。
 - 英文谚语: Since we cannot know all that there is to be known about anything, we ought to know a little about everything.
-- 中文谚语: 既然我们无法了解有关任何东西的所有事，我们就尽量去了解有关所有东西的一些事吧。
+- 中文谚语: 既然我们无法了解有关任何东西的所有事，我们就尽量去了解有关所有东西的些许事吧。
 - 英文谚语作者: Blaise Pascal
 - 中文谚语作者: 布莱士·帕斯卡（法国哲学家、数学家、概率论奠基人）
 
@@ -1498,7 +1498,7 @@
 - 英文描述: Construct a circle with the given center that is equal to the given circle.
 - 中文描述: 指定圆心，构造一个与已知圆半径相等的圆。
 - 英文谚语: Nothing new had been done in Logic since Aristotle!
-- 中文谚语: 自亚里士多德以来逻辑学并未增添任何新知。
+- 中文谚语: 自亚里士多德以来逻辑学竟并未增添任何新知。
 - 英文谚语作者: Kurt Godel
 - 中文谚语作者: 库尔特·哥德尔（美籍逻辑学家）
 
