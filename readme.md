@@ -73,7 +73,7 @@
 - 英文谚语: Nature is an infinite sphere of which the center is everywhere and the circumference nowhere.
 - 中文谚语: 自然就像个无穷大的球体，中心到处都是，边界却无处可寻。
 - 英文谚语作者: Blaise Pascal
-- 中文谚语作者: 布莱兹·帕斯卡（法国哲学家、数学家，概率论奠基人）
+- 中文谚语作者: 布莱士·帕斯卡（法国哲学家、数学家，概率论奠基人）
 
 
 #### SquareInCircle
@@ -139,9 +139,9 @@
 - 英文描述: Construct an angle equal to the given one so that they share one side.
 - 中文描述: 构造一个与已知角相等的角，使它们共用一条边。
 - 英文谚语: Contradiction is not a sign of falsity, nor the lack of contradiction a sign of truth.
-- 中文谚语:
+- 中文谚语: 矛盾不一定是假象，没有矛盾也不足以称为真相。
 - 英文谚语作者: Blaise Pascal
-- 中文谚语作者: 布莱士·帕斯卡
+- 中文谚语作者: 布莱士·帕斯卡（法国哲学家、数学家，概率论奠基人）
 
 
 #### CutRectangle
@@ -152,9 +152,9 @@
 - 英文描述: Construct a line through the given point that cuts the rectangle into two parts of equal area.
 - 中文描述: 经过已知点构造一条直线，将矩形分割成两个相等的部分。
 - 英文谚语: Measure twice, cut once!
-- 中文谚语:
+- 中文谚语: 三思而后行
 - 英文谚语作者: Proverb
-- 中文谚语作者:
+- 中文谚语作者: 谚语
 
 
 #### DropPerp
@@ -165,9 +165,9 @@
 - 英文描述: Drop a perpendicular from the point to the line.
 - 中文描述: 从点到直线引一条垂线段。
 - 英文谚语: The knowledge of which geometry aims is the knowledge of the eternal.
-- 中文谚语:
+- 中文谚语: 几何学所引领的知识是永恒的知识
 - 英文谚语作者: Plato
-- 中文谚语作者: 柏拉图
+- 中文谚语作者: 柏拉图（古希腊哲学家、数学家）
 
 
 #### ErectPerp
@@ -178,9 +178,9 @@
 - 英文描述: Erect a perpendicular from the point on the line.
 - 中文描述: 从直线上的一个点构造一条垂线段。
 - 英文谚语: What we know is not much. What we do not know is immense.
-- 中文谚语:
+- 中文谚语: 吾生也有涯，而知也无涯。
 - 英文谚语作者: Pierre-Simon Laplace
-- 中文谚语作者:
+- 中文谚语作者: 皮埃尔-西蒙·拉普拉斯（法国数学家、天文学家）
 
 
 #### Tangent1
@@ -191,9 +191,9 @@
 - 英文描述: Construct a tangent to the circle at the given point.
 - 中文描述: 构造一条切线，使其与圆在已知点相切。
 - 英文谚语: If a man's wit be wandering, let him study the mathematics.
-- 中文谚语:
+- 中文谚语: 如果某人精力不集中，就让他去学习数学吧。
 - 英文谚语作者: Francis Bacon
-- 中文谚语作者:
+- 中文谚语作者: 弗朗西斯·培根（英国哲学家）
 
 
 #### CircleTangentL
@@ -204,9 +204,9 @@
 - 英文描述: Construct a circle with the given center that is tangent to the given line.
 - 中文描述: 已知圆心构造一个圆，使其与已知直线相切。
 - 英文谚语: Intellectual labor in math lessons is the touchstone of thinking.
-- 中文谚语:
+- 中文谚语: 数学上的智力是思想的试金石。
 - 英文谚语作者: Vasili Sukhomlinsky
-- 中文谚语作者:
+- 中文谚语作者: 瓦西里·苏霍姆林斯基（俄国教育家）
 
 
 #### CircleInRhombus
@@ -217,9 +217,9 @@
 - 英文描述: Inscribe a circle in the rhombus.
 - 中文描述: 在菱形中内接一个圆。
 - 英文谚语: The mathematician's patterns, like the painter's or the poet's must be beautiful; the ideas like the colours or the words, must fit together in a harmonious way.
-- 中文谚语:
+- 中文谚语: 数学家的典型，就像画家和诗人必备的美学；思维就像颜色或词汇，必须以和谐的方式融合。
 - 英文谚语作者: Godfrey Hardy
-- 中文谚语作者:
+- 中文谚语作者: 高德菲·哈代（英国数学家）
 
 
 
@@ -1592,5 +1592,4 @@
 - 中文谚语:
 - 英文谚语作者: Plutarch
 - 中文谚语作者:
-
 
