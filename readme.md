@@ -8,7 +8,7 @@
 - 英文谚语: Let no one ignorant of geometry enter here.
 - 中文谚语: 几何启蒙，由此入门。
 - 英文谚语作者: Plato
-- 中文谚语作者: 柏拉图
+- 中文谚语作者: 柏拉图（古希腊哲学家、数学家）
 
 
 #### PerpBisector
@@ -19,9 +19,9 @@
 - 英文描述: Construct the perpendicular bisector of the segment.
 - 中文描述: 作线段的垂直平分线。
 - 英文谚语: Education is what remains after one has forgotten everything he learned in school.
-- 中文谚语: 教育就是一个人忘记他在学校里所学的一切知识之后所剩下的东西。
+- 中文谚语: 所谓教育，就是一个人抛开学校所学之后剩下的东西。
 - 英文谚语作者: Albert Einstein
-- 中文谚语作者: 阿尔伯特·爱因斯坦
+- 中文谚语作者: 阿尔伯特·爱因斯坦（德国物理学家）
 
 
 #### Midpoint
@@ -32,9 +32,9 @@
 - 英文描述: Construct the midpoint between two points.
 - 中文描述: 作给定两点的中点。
 - 英文谚语: Without geometry, life would be pointless.
-- 中文谚语: 没有几何，生活毫无意义。（双关语。字面意思为：没有几何，生活就没有了“点”。）
+- 中文谚语: 没有几何，生活将毫无意义。（双关语。字面意思为：没有几何，生活就没有了“点”。）
 - 英文谚语作者: Joke
-- 中文谚语作者: 俗语
+- 中文谚语作者: 俚语
 
 
 #### CircleInSquare
@@ -45,7 +45,7 @@
 - 英文描述: Inscribe a circle in the square.
 - 中文描述: 在正方形中内接一个圆。
 - 英文谚语: You can't fit a round peg in a square hole.
-- 中文谚语:
+- 中文谚语: 你是没法用圆木钉塞满方孔的。
 - 英文谚语作者: American proverb
 - 中文谚语作者: 美国谚语
 
@@ -58,9 +58,9 @@
 - 英文描述: Inscribe a rhombus in the rectangle so that they share a diagonal.
 - 中文描述: 在矩形中内接一个菱形，使它们共用一条对角线。
 - 英文谚语: Without mathematics there is no art.
-- 中文谚语:
+- 中文谚语: 没有数学，艺术将不复存在。
 - 英文谚语作者: Luca Pacioli
-- 中文谚语作者: 卢卡·帕乔利
+- 中文谚语作者: 卢卡·帕乔利（意大利数学家，现代会计之父）
 
 
 #### CircleCenter
@@ -71,9 +71,9 @@
 - 英文描述: Construct the center of the circle.
 - 中文描述: 构造圆的中心。
 - 英文谚语: Nature is an infinite sphere of which the center is everywhere and the circumference nowhere.
-- 中文谚语:
+- 中文谚语: 自然就像个无穷大的球体，中心到处都是，边界却无处可寻。
 - 英文谚语作者: Blaise Pascal
-- 中文谚语作者: 布莱士·帕斯卡
+- 中文谚语作者: 布莱兹·帕斯卡（法国哲学家、数学家，概率论奠基人）
 
 
 #### SquareInCircle
@@ -84,9 +84,9 @@
 - 英文描述: Inscribe a square in the circle. A vertex is given.
 - 中文描述: 顶点已知，在圆中内接一个正方形。
 - 英文谚语: Where there is matter, there is geometry.
-- 中文谚语:
+- 中文谚语: 哪里有物质，哪里就有几何。
 - 英文谚语作者: Johannes Kepler
-- 中文谚语作者: 约翰尼斯·开普勒
+- 中文谚语作者: 约翰尼斯·开普勒（德国天文学家）
 
 
 
@@ -100,9 +100,9 @@
 - 英文描述: Construct the line that bisects the given angle.
 - 中文描述: 构造一条直线，平分已知角。
 - 英文谚语: The description of right lines and circles, upon which geometry is founded, belongs to mechanics. Geometry does not teach us to draw these lines, but requires them to be drawn.
-- 中文谚语:
+- 中文谚语: 几何学的基石——直线与圆的描述，是经典力学的一部分。几何学并非会教我们怎样画线，而是制定怎样画线的规则。
 - 英文谚语作者: Isaac Newton
-- 中文谚语作者: 艾萨克·牛顿
+- 中文谚语作者: 艾萨克·牛顿（英国物理学家、数学家）
 
 
 #### RhombusInTriangle
@@ -113,9 +113,9 @@
 - 英文描述: Inscribe a rhombus in the triangle so that they share the common angle A.
 - 中文描述: 在三角形中内接一个菱形，使它们共用一个公共角 A。
 - 英文谚语: The moving power of mathematical invention is not reasoning but imagination.
-- 中文谚语:
+- 中文谚语: 推动数学前进的动力并非来自理性，而是来自想象力。
 - 英文谚语作者: Augustus de Morgan
-- 中文谚语作者:
+- 中文谚语作者: 奥古斯都·德·摩根（英国数学家、逻辑学家）
 
 
 #### Angle30
@@ -126,9 +126,9 @@
 - 英文描述: Construct an angle of 30° with the given side.
 - 中文描述: 已知一条边，构造 30° 角。
 - 英文谚语: Inspiration is needed in geometry, just as much as in poetry.
-- 中文谚语:
+- 中文谚语: 几何学需要创造力，正如诗歌也一样。
 - 英文谚语作者: Alexander Pushkin
-- 中文谚语作者:
+- 中文谚语作者: 亚历山大·普希金（俄国诗人、散文家、剧作家）
 
 
 #### DoubleAngle
@@ -1592,6 +1592,5 @@
 - 中文谚语:
 - 英文谚语作者: Plutarch
 - 中文谚语作者:
-
 
 
