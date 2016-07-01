@@ -56,7 +56,7 @@
 - 英文标题: Rhombus in Rectangle
 - 中文标题: 矩形的内接菱形
 - 英文描述: Inscribe a rhombus in the rectangle so that they share a diagonal.
-- 中文描述: 在矩形中内接一个菱形，使它们共享一条对角线。
+- 中文描述: 在矩形中作一个内接菱形，使它们共享一条对角线。
 - 英文谚语: Without mathematics there is no art.
 - 中文谚语: 没有数学，艺术将不复存在。
 - 英文谚语作者: Luca Pacioli
@@ -82,7 +82,7 @@
 - 英文标题: Inscribed Square
 - 中文标题: 内接正方形
 - 英文描述: Inscribe a square in the circle. A vertex is given.
-- 中文描述: 以指定点为顶点，在指定圆中作一个内接正方形。
+- 中文描述: 以指定点为顶点，在圆中作一个内接正方形。
 - 英文谚语: Where there is matter, there is geometry.
 - 中文谚语: 哪里有物质，哪里就有几何。
 - 英文谚语作者: Johannes Kepler
@@ -111,7 +111,7 @@
 - 英文标题: Rhombus in Triangle
 - 中文标题: 三角形的内接菱形
 - 英文描述: Inscribe a rhombus in the triangle so that they share the common angle A.
-- 中文描述: 在三角形中内接一个菱形，使它们共享一个公共角 A。
+- 中文描述: 在三角形中作一个内接菱形，使它们共享一个公共角 A。
 - 英文谚语: The moving power of mathematical invention is not reasoning but imagination.
 - 中文谚语: 推动数学前进的动力并非来自理性，而是来自想象力的发挥。
 - 英文谚语作者: Augustus de Morgan
@@ -150,7 +150,7 @@
 - 英文标题: Cut Rectangle
 - 中文标题: 分割矩形
 - 英文描述: Construct a line through the given point that cuts the rectangle into two parts of equal area.
-- 中文描述: 过指定点构造一条直线，将矩形分割成两个面积相等的部分。
+- 中文描述: 过指定点构造一条直线，将矩形分割成面积相等的两部分。
 - 英文谚语: Measure twice, cut once!
 - 中文谚语: 三思而后行。（大胆假设，小心求证）
 - 英文谚语作者: Proverb
@@ -322,7 +322,7 @@
 - 英文标题: Lozenge
 - 中文标题: 菱形
 - 英文描述: Construct a rhombus with the given side and an angle of 45° in a vertex.
-- 中文描述: 以指定的一条边和一个 45° 顶角，构造一个菱形。
+- 中文描述: 以指定线段为一边和一个 45° 顶角，构造一个菱形。
 - 英文谚语: To think deeply of simple things.
 - 中文谚语: 思考要深入浅出。
 - 英文谚语作者: Arnold Ross
@@ -484,7 +484,7 @@
 - 英文标题: Parallelogram by Three Vertices
 - 中文标题: 由三个顶点构造平行四边形
 - 英文描述: Construct a parallelogram whose three of four vertices are given.
-- 中文描述: 指定四个顶点中的三个，构造一个平行四边形。
+- 中文描述: 已指定四个顶点中的三个，构造一个平行四边形。
 - 英文谚语: Logic is invincible, because in order to combat logic it is necessary to use logic.
 - 中文谚语: 逻辑是无敌的，因为若想要战胜逻辑，你还是不得不使用逻辑。
 - 英文谚语作者: Pierre Boutroux
@@ -643,7 +643,7 @@
 - 英文标题: Given Angle Bisector
 - 中文标题: 已知角平分线
 - 英文描述: Construct two straight lines through the two given points respectively so that the given line is a bisector of the angle that they make.
-- 中文描述: 分别过两个定点构造两条直线，使指定直线成为由新直线组成的角的角平分线。
+- 中文描述: 分别过两个定点构造两条直线，使由新直线构成的角被指定直线所平分。
 - 英文谚语: I would live to study, and not study to live.
 - 中文谚语: 我要为钻研而活着，而不是为谋生而钻研。
 - 英文谚语作者: Francis Bacon
@@ -682,7 +682,7 @@
 - 英文标题: Triangle by Three Sides
 - 中文标题: 由三条边构造三角形
 - 英文描述: Construct a triangle with the side AB and the two other sides equal to the given segments.
-- 中文描述: 以 AB为一边，构造一个三角形，使其另外两边分别与两已知线段长度相等。
+- 中文描述: 以 AB为一边，构造一个三角形，使其另外两边分别与两指定线段长度相等。
 - 英文谚语: One geometry cannot be more true than another; it can only be more convenient.
 - 中文谚语: 任何一种几何学并不显得比其他的更正确，它可能只是更方便。
 - 英文谚语作者: Henri Poincaré
@@ -737,7 +737,7 @@
 - 英文标题: Annulus
 - 中文标题: 环形
 - 英文描述: Construct a circle that is concentric with the given one and divides it into 2 parts of equal area.
-- 中文描述: 构造一个圆的同心圆，使其平分成 2 个面积相等的部分。
+- 中文描述: 构造一个指定圆的同心圆，使其平分成 2 个面积相等的部分。
 - 英文谚语: We must know, we will know!
 - 中文谚语: 我们必须了解，我们将知晓一切！
 - 英文谚语作者: David Hilbert
@@ -1201,7 +1201,7 @@
 - 英文标题: Geometric Mean of Segments
 - 中文标题: 线段的几何平均数
 - 英文描述: Construct a point on the given ray to get a segment with length equal to the geometric mean of two adjacent segments.
-- 中文描述: 在指定射线上构造一个点，获得一条线段，其长度等于两条相邻线段的几何平均数。
+- 中文描述: 在指定射线上构造一个点，获得一条线段，使其长度等于两条相邻线段的几何平均数。
 - 英文谚语: Mathematics is the part of physics where experiments are cheap.
 - 中文谚语: 数学是物理的一部分，但在这儿做实验要便宜得多。
 - 英文谚语作者: Vladimir Arnold
@@ -1334,7 +1334,7 @@
 - 英文标题: Triangle by Altitude Base Points
 - 中文标题: 由高的垂足构造三角形
 - 英文描述: Construct a triangle whose altitude base points are given.
-- 中文描述: 由已知三角形三条高的垂足，构造一个三角形。
+- 中文描述: 由已知三条高的垂足，构造一个三角形。
 - 英文谚语: One quickly realizes that simplicity and geometry are the language of timelessness and universality.
 - 中文谚语: 一个人很快会意识到简洁和几何学是通用和不朽的语言。
 - 英文谚语作者: Paul Rand
@@ -1347,7 +1347,7 @@
 - 英文标题: Triangle by Tangent Points
 - 中文标题: 由切点构造三角形
 - 英文描述: Construct a triangle with the three given points where its incircle touches its sides.
-- 中文描述: 已知三个点，构造一个三角形，其内切圆与其内切于这三个点。
+- 中文描述: 已知三个点，构造一个三角形，其内切圆与其相切于这三个点。
 - 英文谚语: Music is the arithmetic of sounds as optics is the geometry of light.
 - 中文谚语: 音乐是声音的算术，而光学是光的几何。
 - 英文谚语作者: Claude Debussy
@@ -1404,7 +1404,7 @@
 - 英文描述: Construct an equilateral triangle whose one vertex is given and two others lie on the two parallel lines.
 - 中文描述: 指定一个顶点，另两个顶点位于两条平行线上，构造一个等边三角形。
 - 英文谚语: The only thing I am interested in using mathematics for is to have a good time and to help others do the same.
-- 中文谚语: 在使用数学时另我唯一感兴趣的一点是自娱自乐也娱乐他人。
+- 中文谚语: 在使用数学时令我唯一感兴趣的一点是自娱自乐并娱乐他人。
 - 英文谚语作者: Paul Lockhart
 - 中文谚语作者: 保罗·洛克哈特（美国宇航员）
 
@@ -1587,7 +1587,7 @@
 - 英文标题: Circle with Center on Line
 - 中文标题: 圆心在直线上的圆
 - 英文描述: Construct a circle with the center on the given line so that it passes through the given point and tangent to the given circle.
-- 中文描述: 构造一个圆，圆心位于指定直线上，并使其经过指定点且与指定圆相切。
+- 中文描述: 构造一个圆，圆心位于指定直线上，并使其过指定点且与已知圆相切。
 - 英文谚语: A mind is a fire to be kindled, not a vessel to be filled.
 - 中文谚语: 思想是待点燃的火苗，而不是待填满的容器。
 - 英文谚语作者: Plutarch
