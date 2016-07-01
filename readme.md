@@ -126,7 +126,7 @@
 - 英文描述: Construct an angle of 30° with the given side.
 - 中文描述: 指定一条边，构造 30° 角。
 - 英文谚语: Inspiration is needed in geometry, just as much as in poetry.
-- 中文谚语: 几何学与诗歌一样需要的是创造力。
+- 中文谚语: 几何学与诗歌一样需要的是灵感。
 - 英文谚语作者: Alexander Pushkin
 - 中文谚语作者: 亚历山大·普希金（俄国诗人、散文家、剧作家）
 
