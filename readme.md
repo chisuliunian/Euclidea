@@ -82,7 +82,7 @@
 - 英文标题: Inscribed Square
 - 中文标题: 内接正方形
 - 英文描述: Inscribe a square in the circle. A vertex is given.
-- 中文描述: 顶点已知，在圆中内接一个正方形。
+- 中文描述: 以指定点为顶点，在圆中内接一个正方形。
 - 英文谚语: Where there is matter, there is geometry.
 - 中文谚语: 哪里有物质，哪里就有几何。
 - 英文谚语作者: Johannes Kepler
