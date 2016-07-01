@@ -885,9 +885,9 @@
 - 英文描述: Construct a triangle whose perimeter is the minimum possible whose vertices lie on the two sides of the angle and the third vertex is in the point A.
 - 中文描述: 构造一个三角形，使周长尽可能小，两个顶点位于角的两边上且第三个顶点是点 A。
 - 英文谚语: Geometry is frozen music.
-- 中文谚语:
+- 中文谚语: 几何是凝固的音乐。
 - 英文谚语作者: Johann Goethe
-- 中文谚语作者:
+- 中文谚语作者: 约翰·歌德（德国思想家、作家、科学家）
 
 
 #### 3rdProportional
@@ -898,9 +898,9 @@
 - 英文描述: Construct a point D on the ray such that the segment AD is the third proportional to the given line segments.
 - 中文描述: 在射线上构造点 D，使线段 AD 为已知线段的第三比例项。
 - 英文谚语: Everything around us is geometry.
-- 中文谚语:
+- 中文谚语: 我们周围的一切都是几何学。
 - 英文谚语作者: Le Corbusier
-- 中文谚语作者:
+- 中文谚语作者: 勒·柯布西耶（瑞士建筑大师）
 
 
 #### TrapezoidHarmMean
@@ -911,9 +911,9 @@
 - 英文描述: Construct a line segment that is parallel to the bases of the trapezoid and whose length is equal to the harmonic mean of their length.
 - 中文描述: 构造一条平行于梯形底边的线段，其长度等于两条底边的调和平均数。
 - 英文谚语: Mathematics is less knowledge than skill.
-- 中文谚语:
+- 中文谚语: 数学与其说是知识，不如说是技巧。
 - 英文谚语作者: Philip Davis
-- 中文谚语作者:
+- 中文谚语作者: 菲利普·戴维斯（美国数学家）
 
 
 #### LDropPerp
@@ -924,9 +924,9 @@
 - 英文描述: Drop a perpendicular from the point to the line passing through the center of the circle using only a straightedge.
 - 中文描述: 仅使用直尺，从点到直线引一条经过圆心的垂线段。
 - 英文谚语: It is not enough to have a good mind. The main thing is to use it well.
-- 中文谚语:
+- 中文谚语: 光有个好脑袋是不够的。更主要的是好好使用它。
 - 英文谚语作者: Rene Descartes
-- 中文谚语作者:
+- 中文谚语作者: 勒奈·笛卡尔（法国哲学家、数学家）
 
 
 #### LMidpoint
@@ -937,9 +937,9 @@
 - 英文描述: Construct the midpoint of the segment using only a straightedge. To help you, a line parallel to the segment is given.
 - 中文描述: 仅使用直尺构造线段中点。为了给你提供帮助，给定一条与线段平行的直线。
 - 英文谚语: Everything should be made as simple as possible, but not simpler.
-- 中文谚语:
+- 中文谚语: 所有事都应该做得尽量简单，但不是简陋。
 - 英文谚语作者: Albert Einstein
-- 中文谚语作者:
+- 中文谚语作者: 阿尔伯特·爱因斯坦（德国物理学家）
 
 
 #### InteriorAngles
@@ -950,9 +950,9 @@
 - 英文描述: Construct a line through the point that crosses the two lines so that the interior angles are equal.
 - 中文描述: 经过两条直线的交点构造一条直线，使两个内角相等。
 - 英文谚语: I am ever more convinced that the necessity of our (Euclidean) geometry cannot be proved — at least not by human reason for human reason.
-- 中文谚语:
+- 中文谚语: 我曾经相信我们欧几里得几何的必要性是无法证明的，至少不能为了人类理性而用人类理性证明。
 - 英文谚语作者: Carl Friedrich Gauss
-- 中文谚语作者:
+- 中文谚语作者: 卡尔·弗雷德里希·高斯（德国数学家、天文学家、物理学家）
 
 
 #### OctagonBySide
@@ -963,9 +963,9 @@
 - 英文描述: Construct a regular octagon with the given side.
 - 中文描述: 已知一条边，构造正八边形。
 - 英文谚语: The essence of mathematics is its freedom.
-- 中文谚语:
+- 中文谚语: 数学的的自由是其精华所在。
 - 英文谚语作者: Georg Cantor
-- 中文谚语作者:
+- 中文谚语作者: 格奥尔格·康托（德国数学家）
 
 
 #### TrapezoidCut3
@@ -976,9 +976,9 @@
 - 英文描述: Construct a line segment that is parallel to the bases of the trapezoid and is divided to three equal parts by its diagonals.
 - 中文描述: 构造一条线段，使其与梯形底边平行，且被梯形对角线分成三个相等的部分。
 - 英文谚语: It is hard to convince a high-school student that he will encounter a lot of problems more difficult than those of algebra and geometry.
-- 中文谚语:
+- 中文谚语: 要说服一个高中生他以后会遇到比代数和几何更困难的问题是很难的。
 - 英文谚语作者: Edgar Watson Howe
-- 中文谚语作者:
+- 中文谚语作者: 埃德加·艾森·豪（美国小说家）
 
 
 #### OrthicTriangle
@@ -989,9 +989,9 @@
 - 英文描述: Inscribe a triangle into the given whose perimeter is the minimum possible.
 - 中文描述: 在已知三角形中内接一个三角形，使其周长尽可能小。
 - 英文谚语: The roots of education are bitter, but the fruit is sweet.
-- 中文谚语:
+- 中文谚语: 教育的本质是苦涩的，但结出的果实是甜蜜的。
 - 英文谚语作者: Aristotle
-- 中文谚语作者: 亚里士多德
+- 中文谚语作者: 亚里士多德（古希腊哲学家、数学家）
 
 
 #### HarmonicMean
@@ -1002,9 +1002,9 @@
 - 英文描述: Construct a point on the given ray to get a segment with length equal to the harmonic mean of the two adjacent segments.
 - 中文描述: 在已知射线上构造一个点，获得一条长度等于两条相邻线段调和平均数的线段。
 - 英文谚语: Geometry is knowledge of the eternally existent.
-- 中文谚语:
+- 中文谚语: 几何学是关于永恒存在的知识。
 - 英文谚语作者: Pythagoras
-- 中文谚语作者:
+- 中文谚语作者: 毕达哥拉斯（古希腊哲学家、数学家）
 
 
 #### ATrByCentroid
@@ -1015,9 +1015,9 @@
 - 英文描述: Construct a segment connecting the sides of the angle to get a triangle whose centroid is in the point O.
 - 中文描述: 构造一条线段，使其连接角的两边，获得一个几何中心为点 O的三角形。
 - 英文谚语: I think, therefore I am.
-- 中文谚语:
+- 中文谚语: 我思考，故我在。
 - 英文谚语作者: Rene Descartes
-- 中文谚语作者:
+- 中文谚语作者: 勒奈·笛卡尔（法国哲学家、数学家）
 
 
 
