@@ -4,7 +4,7 @@
 - 英文标题: Angle of 60°
 - 中文标题: 60° 角
 - 英文描述: Construct an angle of 60° with the given side.
-- 中文描述: 已知一条边，构造 60° 角。
+- 中文描述: 已知一条边，作 60° 角。
 - 英文谚语: Let no one ignorant of geometry enter here.
 - 中文谚语: 几何启蒙，由此入门。
 - 英文谚语作者: Plato
@@ -17,9 +17,9 @@
 - 英文标题: Perpendicular Bisector
 - 中文标题: 垂直平分线
 - 英文描述: Construct the perpendicular bisector of the segment.
-- 中文描述: 构造线段的垂直平分线。
+- 中文描述: 作线段的垂直平分线。
 - 英文谚语: Education is what remains after one has forgotten everything he learned in school.
-- 中文谚语:
+- 中文谚语: 教育就是一个人忘记他在学校里所学的一切知识之后所剩下的东西。
 - 英文谚语作者: Albert Einstein
 - 中文谚语作者: 阿尔伯特·爱因斯坦
 
@@ -30,11 +30,11 @@
 - 英文标题: Midpoint
 - 中文标题: 中点
 - 英文描述: Construct the midpoint between two points.
-- 中文描述: 在两点之间构造中点。
+- 中文描述: 作给定两点的中点。
 - 英文谚语: Without geometry, life would be pointless.
-- 中文谚语:
+- 中文谚语: 没有几何，生活毫无意义。（双关语。字面意思为：没有几何，生活就没有了“点”。）
 - 英文谚语作者: Joke
-- 中文谚语作者: 民间笑谈
+- 中文谚语作者: 俗语
 
 
 #### CircleInSquare
