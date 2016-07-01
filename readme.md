@@ -1083,7 +1083,7 @@
 - 英文描述: Rotate the line segment 60° clockwise about the given point.
 - 中文描述: 以指定点为中心，将线段顺时针旋转 60°。
 - 英文谚语: Science is simply common sense at its best.
-- 中文谚语: 科学是以己所能让人理解的简单常识。
+- 中文谚语: 科学是以己所能让人通俗易懂的简单常识。
 - 英文谚语作者: Thomas Huxley
 - 中文谚语作者: 托马斯·赫胥黎（英国博物学家）
 
@@ -1094,7 +1094,7 @@
 - 英文标题: Segment Trisection
 - 中文标题: 线段三等分
 - 英文描述: Construct two points that divide the segment into 3 equal parts.
-- 中文描述: 构造两点，将线段平分成 3 个相等的部分。
+- 中文描述: 构造两点，将线段平分成 3 个长度相等的部分。
 - 英文谚语: Three Rules of Work: Out of clutter find simplicity; From discord find harmony; In the middle of difficulty lies opportunity.
 - 中文谚语: 工作三大准则：繁中求简，乱中求序，难中求胜。
 - 英文谚语作者: Albert Einstein
@@ -1107,7 +1107,7 @@
 - 英文标题: Segment Trisection*
 - 中文标题: 线段三等分*
 - 英文描述: Construct points that divide the segment into three equal parts using only a straightedge. To help you, a line parallel to the segment is given.
-- 中文描述: 仅使用直尺，构造将线段平分为相等三段的点。为了帮助你，我们提供了一条与该线段平行的直线。
+- 中文描述: 仅使用直尺，构造将线段平分为长度相等三段的点。为了帮助你，我们提供了一条与该线段平行的直线。
 - 英文谚语: Beauty is the first test: there is no permanent place in the world for ugly mathematics.
 - 中文谚语: 美是首要的标准：世上是没有留给丑陋数学的永久容身之地的。
 - 英文谚语作者: Godfrey Hardy
@@ -1120,7 +1120,7 @@
 - 英文标题: Chord Trisection
 - 中文标题: 弦三等分
 - 英文描述: Construct a chord of the larger circle through the given point that is divided into three equal segments by the smaller circle.
-- 中文描述: 经过指定点构造大圆的一条弦，使其被小圆平分成三条相等的线段。
+- 中文描述: 过指定点构造大圆的一条弦，使其被小圆平分成三条长度相等的线段。
 - 英文谚语: Mathematics is the door and key to the sciences.
 - 中文谚语: 数学是通往其他科学的入口和钥匙。
 - 英文谚语作者: Roger Bacon
@@ -1133,7 +1133,7 @@
 - 英文标题: Ratio 1 to 5
 - 中文标题: 比例 1:5
 - 英文描述: Construct a point on the line segment that divides it in the ratio 1 : 5.
-- 中文描述: 在线段上构造一点，使其以 1:5的比例 分割线段。
+- 中文描述: 构造一点，使其以 1:5 的比例分割指定线段。
 - 英文谚语: In mathematics the art of proposing a question must be held of higher value than solving it.
 - 中文谚语: 在数学中，提问的艺术，其价值肯定比解题能力要来得更高。
 - 英文谚语作者: Georg Cantor
@@ -1146,7 +1146,7 @@
 - 英文标题: Three Circles - 1
 - 中文标题: 3 个圆 - 1
 - 英文描述: Construct three circles with the given centers that are externally tangent each other.
-- 中文描述: 以指定点为圆心，构造三个彼此外切的圆。
+- 中文描述: 分别以指定三点为圆心，构造三个彼此外切的圆。
 - 英文谚语: Knowledge is power.
 - 中文谚语: 知识就是力量。
 - 英文谚语作者: Francis Bacon
@@ -1159,7 +1159,7 @@
 - 英文标题: Secant Bisection
 - 中文标题: 割线二等分
 - 英文描述: Construct a secant through the given point that is divided into two equal segments by the circle.
-- 中文描述: 经过指定点构造一条割线，使其被指定圆平分成两条相等的线段。
+- 中文描述: 过指定点构造一条割线，使其被指定圆平分成两条长度相等的线段。
 - 英文谚语: Knowledge is light and ignorance is darkness.
 - 中文谚语: 知识是光，愚昧是暗。
 - 英文谚语作者: Proverb
@@ -1201,7 +1201,7 @@
 - 英文标题: Geometric Mean of Segments
 - 中文标题: 线段的几何平均数
 - 英文描述: Construct a point on the given ray to get a segment with length equal to the geometric mean of two adjacent segments.
-- 中文描述: 在指定射线上构造一个点，获得一条长度等于两条相邻线段几何平均数的线段。
+- 中文描述: 在指定射线上构造一个点，获得一条线段，其长度等于两条相邻线段的几何平均数。
 - 英文谚语: Mathematics is the part of physics where experiments are cheap.
 - 中文谚语: 数学是物理的一部分，但在这儿做实验要便宜得多。
 - 英文谚语作者: Vladimir Arnold
@@ -1227,7 +1227,7 @@
 - 英文标题: Angle of 54°
 - 中文标题: 54° 角
 - 英文描述: Construct an angle of 54° with the given side.
-- 中文描述: 指定一条边，构造 54° 角。
+- 中文描述: 以指定射线为一边，构造一个 54° 角。
 - 英文谚语: The scientist is not a person who gives the right answers, he's one who asks the right questions.
 - 中文谚语: 科学家不是提供正确答案的人，而是提出正确问题的人。
 - 英文谚语作者: Claude Levi-Strauss
@@ -1240,7 +1240,7 @@
 - 英文标题: Third Parallel Line
 - 中文标题: 第三条平行线
 - 英文描述: Construct a line through the given point that is parallel to the two given parallel lines using only a straightedge.
-- 中文描述: 仅使用直尺，经过指定点构造一条直线，使其与两条已知平行线平行。
+- 中文描述: 仅使用直尺，过指定点构造一条直线，使其与两条已知平行线平行。
 - 英文谚语: It is impossible to be a mathematician without being a poet in soul.
 - 中文谚语: 灵魂中没有诗意的人是没法成为一名数学家的。
 - 英文谚语作者: Sofia Kovalevskaya
@@ -1253,7 +1253,7 @@
 - 英文标题: Circle in Angle
 - 中文标题: 角的内切圆
 - 英文描述: Construct a circle through the given point that is tangent to both sides of the angle.
-- 中文描述: 经过指定点构造一个圆，使其与已知角的两条边相切。
+- 中文描述: 过指定点构造一个圆，使其与已知角的两条边相切。
 - 英文谚语: The mathematical sciences particularly exhibit order symmetry and limitations; and these are the greatest forms of the beautiful.
 - 中文谚语: 数学科学将秩序的对称和极限具象化展示出来，这些正是美的最佳形式。
 - 英文谚语作者: Aristotle
@@ -1266,7 +1266,7 @@
 - 英文标题: Geometric Mean of Trapezoid Bases
 - 中文标题: 梯形底边的几何平均数
 - 英文描述: Construct a line segment that is parallel to the bases of the trapezoid and whose length is equal to the geometric mean of their length.
-- 中文描述: 构造一条平行于梯形底边的线段，其长度等于两条底边的几何平均数。
+- 中文描述: 构造一条平行于梯形底边的线段，使其长度等于两条底边的几何平均数。
 - 英文谚语: Mathematics is a language plus reasoning; it is like a language plus logic.
 - 中文谚语: 数学是赋予理性的语言，是增添了逻辑的表达。
 - 英文谚语作者: Richard Feynman
@@ -1292,7 +1292,7 @@
 - 英文标题: Angle of 3°
 - 中文标题: 3° 角
 - 英文描述: Construct an angle of 3° with the given side.
-- 中文描述: 指定一条边，构造 3° 角。
+- 中文描述: 以指定射线为一边，构造一个 3° 角。
 - 英文谚语: Like all other sciences, mathematics arose out of the needs of men: from the measurement of land and the content of vessels, from the computation of time and from mechanics.
 - 中文谚语: 如同其他学科一样，数学升华于人类自身的需求：始于丈量土地和测量容积，始于计量时间，始于机械力学。
 - 英文谚语作者: Friedrich Engels
@@ -1308,7 +1308,7 @@
 - 英文标题: Triangle by Midpoints
 - 中文标题: 由中点构造三角形
 - 英文描述: Construct a triangle given the midpoints of its sides.
-- 中文描述: 已知三角形各边中点，构造三角形。
+- 中文描述: 由已知各边中点，构造一个三角形。
 - 英文谚语: "Obvious" is the most dangerous word in mathematics.
 - 中文谚语: "显然"是数学中最危险的词汇。
 - 英文谚语作者: Eric Bell
@@ -1321,9 +1321,9 @@
 - 英文标题: Triangle by Side and Centroid
 - 中文标题: 由一边和重心构造三角形
 - 英文描述: Construct a triangle with the given side and centroid.
-- 中文描述: 指定一边和重心，构造一个三角形。
+- 中文描述: 由指定一边和重心，构造一个三角形。
 - 英文谚语: You are the only person on earth who can use your ability. It's an awesome responsibility.
-- 中文谚语: 你是地球上唯一可以使用你自己能力的人。这是很严肃的责任。
+- 中文谚语: 毕竟世界上可以施展你才华的人只有你自己，这是很严肃的责任。
 - 英文谚语作者: Zig Ziglar
 - 中文谚语作者: 西格·金克拉（美国作家）
 
@@ -1334,7 +1334,7 @@
 - 英文标题: Triangle by Altitude Base Points
 - 中文标题: 由高的垂足构造三角形
 - 英文描述: Construct a triangle whose altitude base points are given.
-- 中文描述: 已知三角形三条高的垂足，构造一个三角形。
+- 中文描述: 由已知三角形三条高的垂足，构造一个三角形。
 - 英文谚语: One quickly realizes that simplicity and geometry are the language of timelessness and universality.
 - 中文谚语: 一个人很快会意识到简洁和几何学是通用和不朽的语言。
 - 英文谚语作者: Paul Rand
@@ -1360,7 +1360,7 @@
 - 英文标题: Triangle by Excenters
 - 中文标题: 由旁心构造三角形
 - 英文描述: Construct a triangle with the given excenters.
-- 中文描述: 已知旁心，构造一个三角形。
+- 中文描述: 由三个旁心，构造一个三角形。
 - 英文谚语: There are no sects in geometry.
 - 中文谚语: 几何学没有派系。
 - 英文谚语作者: Voltaire
@@ -1373,7 +1373,7 @@
 - 英文标题: Right Triangle by Two Points on Legs
 - 中文标题: 由直角边上的两点构造直角三角形
 - 英文描述: Inscribe a right triangle into the circle so that the two given points lie on its two legs respectively. The center of the circle is in the point O.
-- 中文描述: 在圆中内接一个直角三角形，使两个指定点分别位于两条直角边上。圆心位于点 O。
+- 中文描述: 在圆中作一个内接直角三角形，使两个指定点分别位于两条直角边上。圆心位于点 O。
 - 英文谚语: Beauty is geometry.
 - 中文谚语: 美即几何。
 - 英文谚语作者: Joanne Rowling
