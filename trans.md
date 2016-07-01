@@ -6,9 +6,9 @@
 - 英文描述: Construct an angle of 60° with the given side.
 - 中文描述: 已知一条边，构造 60° 角。
 - 英文谚语: Let no one ignorant of geometry enter here.
-- 中文谚语:
+- 中文谚语: 几何启蒙，由此入门。
 - 英文谚语作者: Plato
-- 中文谚语作者:
+- 中文谚语作者: 柏拉图
 
 
 #### PerpBisector
