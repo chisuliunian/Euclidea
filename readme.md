@@ -45,7 +45,7 @@
 - 英文描述: Inscribe a circle in the square.
 - 中文描述: 在正方形中内切一个圆。
 - 英文谚语: You can't fit a round peg in a square hole.
-- 中文谚语: 格格不入/你是没法用圆木钉塞满方孔的。
+- 中文谚语: 格格不入/你是没法用圆木钉塞满方形孔的。
 - 英文谚语作者: American proverb
 - 中文谚语作者: 美国谚语
 
@@ -126,7 +126,7 @@
 - 英文描述: Construct an angle of 30° with the given side.
 - 中文描述: 指定一条边，构造 30° 角。
 - 英文谚语: Inspiration is needed in geometry, just as much as in poetry.
-- 中文谚语: 几何学需要创造力，正如诗歌也一样。
+- 中文谚语: 几何学与诗歌一样需要的是创造力。
 - 英文谚语作者: Alexander Pushkin
 - 中文谚语作者: 亚历山大·普希金（俄国诗人、散文家、剧作家）
 
@@ -139,7 +139,7 @@
 - 英文描述: Construct an angle equal to the given one so that they share one side.
 - 中文描述: 构造一个与已知角相等的角，使它们共用一条边。
 - 英文谚语: Contradiction is not a sign of falsity, nor the lack of contradiction a sign of truth.
-- 中文谚语: 矛盾不一定是假象，但不矛盾也不足以称为真相。
+- 中文谚语: 矛盾不一定是假象，但不矛盾一定不是真相。
 - 英文谚语作者: Blaise Pascal
 - 中文谚语作者: 布莱士·帕斯卡（法国哲学家、数学家，概率论奠基人）
 
