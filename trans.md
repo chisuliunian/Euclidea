@@ -21,7 +21,7 @@
 - 英文谚语: Education is what remains after one has forgotten everything he learned in school.
 - 中文谚语:
 - 英文谚语作者: Albert Einstein
-- 中文谚语作者:
+- 中文谚语作者: 阿尔伯特·爱因斯坦
 
 
 #### Midpoint
@@ -34,7 +34,7 @@
 - 英文谚语: Without geometry, life would be pointless.
 - 中文谚语:
 - 英文谚语作者: Joke
-- 中文谚语作者:
+- 中文谚语作者: 民间笑谈
 
 
 #### CircleInSquare
@@ -47,7 +47,7 @@
 - 英文谚语: You can't fit a round peg in a square hole.
 - 中文谚语:
 - 英文谚语作者: American proverb
-- 中文谚语作者:
+- 中文谚语作者: 美国谚语
 
 
 #### RhombusInRect
@@ -60,7 +60,7 @@
 - 英文谚语: Without mathematics there is no art.
 - 中文谚语:
 - 英文谚语作者: Luca Pacioli
-- 中文谚语作者:
+- 中文谚语作者: 卢卡·帕乔利
 
 
 #### CircleCenter
@@ -167,7 +167,7 @@
 - 英文谚语: The knowledge of which geometry aims is the knowledge of the eternal.
 - 中文谚语:
 - 英文谚语作者: Plato
-- 中文谚语作者:
+- 中文谚语作者: 柏拉图
 
 
 #### ErectPerp
@@ -235,7 +235,7 @@
 - 英文谚语: The study of the mathematics, like the Nile, begins in minuteness, but ends in magnificence.
 - 中文谚语:
 - 英文谚语作者: Charles Colton
-- 中文谚语作者:
+- 中文谚语作者: 查尔斯·科尔顿
 
 
 #### ATrByOrthocenter
@@ -287,7 +287,7 @@
 - 英文谚语: Knowledge comes, but wisdom lingers.
 - 中文谚语:
 - 英文谚语作者: Alfred Tennyson
-- 中文谚语作者:
+- 中文谚语作者: 阿尔弗雷德·丁尼生
 
 
 #### TrapezoidCut
@@ -300,7 +300,7 @@
 - 英文谚语: If there is a God, he is a great mathematician.
 - 中文谚语:
 - 英文谚语作者: Paul Dirac
-- 中文谚语作者:
+- 中文谚语作者: 保罗·狄拉克
 
 
 #### Angle45
@@ -313,7 +313,7 @@
 - 英文谚语: He is unworthy of the name of man who is ignorant of the fact that the diagonal of a square is incommensurable with its side.
 - 中文谚语:
 - 英文谚语作者: Plato
-- 中文谚语作者:
+- 中文谚语作者: 柏拉图
 
 
 #### Lozenge
