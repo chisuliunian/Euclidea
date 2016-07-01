@@ -1406,7 +1406,7 @@
 - 英文谚语: The only thing I am interested in using mathematics for is to have a good time and to help others do the same.
 - 中文谚语: 在使用数学时我唯一感兴趣的一点是快乐并帮助别人也感到快乐。
 - 英文谚语作者: Paul Lockhart
-- 中文谚语作者: 保罗·拉克哈特（美国宇航员）
+- 中文谚语作者: 保罗·拉洛克哈特（美国宇航员）
 
 
 #### SquareInTriangle
@@ -1485,9 +1485,9 @@
 - 英文描述: Construct the midpoint between the given points using only a compass.
 - 中文描述: 仅使用圆规构造已知点的中点。
 - 英文谚语: Don't spoil my circles!
-- 中文谚语:
+- 中文谚语: 不要糟蹋我的圆！
 - 英文谚语作者: Archimedes
-- 中文谚语作者: 阿基米德
+- 中文谚语作者: 阿基米德（古希腊数学家、物理学家、发明家）
 
 
 #### CTranslateCircle
@@ -1498,9 +1498,9 @@
 - 英文描述: Construct a circle with the given center that is equal to the given circle.
 - 中文描述: 已知圆心，构造一个与已知圆半径相等的圆。
 - 英文谚语: Nothing new had been done in Logic since Aristotle!
-- 中文谚语:
+- 中文谚语: 自亚里士多德以来逻辑学没增加任何新知。
 - 英文谚语作者: Kurt Godel
-- 中文谚语作者: 库尔特·哥德尔
+- 中文谚语作者: 库尔特·哥德尔（美籍逻辑学家）
 
 
 #### CIntersectCL
@@ -1511,9 +1511,9 @@
 - 英文描述: Construct the intersection of the circle and the line defined by the two given points using only a compass.
 - 中文描述: 仅使用圆规构造圆和由两个已知点定义的直线的交点。
 - 英文谚语: A mathematician, like a painter or a poet, is a maker of patterns. If his patterns are more permanent than theirs, it is because they are made with ideas.
-- 中文谚语:
+- 中文谚语: 一名数学家，就像画家或诗人，是图案的制造者。如果他图案比其他人更长久，那是因为它们是用思想造出来的。
 - 英文谚语作者: Godfrey Hardy
-- 中文谚语作者: 高德菲·哈罗德·哈代
+- 中文谚语作者: 高德菲·哈罗德·哈代（英国数学家）
 
 
 #### EqualSegments3
@@ -1524,9 +1524,9 @@
 - 英文描述: Construct a segment whose ends lie on the sides of the angle such that three marked segments are equal.
 - 中文描述: 构造一条线段，端点位于角的两边上，使三条标记的线段相等。
 - 英文谚语: We do not know a truth without knowing its cause.
-- 中文谚语:
+- 中文谚语: 不知缘由，就不明真相。
 - 英文谚语作者: Aristotle
-- 中文谚语作者: 亚里士多德
+- 中文谚语作者: 亚里士多德（古希腊哲学家、数学家）
 
 
 #### LTangent
@@ -1537,9 +1537,9 @@
 - 英文描述: Construct a tangent to the circle from the external point using only a straightedge. The center of the circle is not given.
 - 中文描述: 圆心未知，仅使用直尺从外点构造一条圆的切线。
 - 英文谚语: Projective geometry is all geometry.
-- 中文谚语:
+- 中文谚语: 射影几何即一切几何。
 - 英文谚语作者: Arthur Cayley
-- 中文谚语作者: 阿瑟・凯利
+- 中文谚语作者: 阿瑟・凯利（英国数学家）
 
 
 #### Napoleon
@@ -1550,9 +1550,9 @@
 - 英文描述: Construct the center of the given circle using only a compass.
 - 中文描述: 仅使用圆规，构造已知圆的圆心。
 - 英文谚语: The advancement and perfection of mathematics are intimately connected with the prosperity of the state.
-- 中文谚语:
+- 中文谚语: 数学的先进和完美是与国家的繁荣紧密相关的。
 - 英文谚语作者: Napoléon Bonaparte
-- 中文谚语作者: 拿破仑·波拿巴
+- 中文谚语作者: 拿破仑·波拿巴（法国军事家、政治家）
 
 
 #### LDropPerp2
@@ -1563,9 +1563,9 @@
 - 英文描述: Drop a perpendicular from the center of the circle to the given line using only a straightedge.
 - 中文描述: 仅使用直尺，从圆心向已知直线引一条垂线段。
 - 英文谚语: The only way to get at the truth about our imaginations is to use our imaginations, and that is hard work.
-- 中文谚语:
+- 中文谚语: 唯一获取我们想象力真相的途径就是使用想象力，而那是困难的工作。
 - 英文谚语作者: Paul Lockhart
-- 中文谚语作者: 保罗·洛克哈特
+- 中文谚语作者: 保罗·洛克哈特（美国宇航员）
 
 
 #### CIntersectX
@@ -1576,9 +1576,9 @@
 - 英文描述: Construct the intersection of the circle and the line that goes through its center and the given point using only a compass.
 - 中文描述: 仅使用圆规，构造圆和经过圆心与已知点的直线的交点。
 - 英文谚语: Do not ask whether a statement is true until you know what it means.
-- 中文谚语:
+- 中文谚语: 在理解一个陈述之前，别问它是真是假。
 - 英文谚语作者: Errett Bishop
-- 中文谚语作者:
+- 中文谚语作者: 艾利·毕晓普（美国数学家）
 
 
 #### CircleTangentCPwCenterL
@@ -1589,6 +1589,6 @@
 - 英文描述: Construct a circle with the center on the given line so that it passes through the given point and tangent to the given circle.
 - 中文描述: 构造一个圆，圆心位于已知直线上，使圆经过已知点且与已知圆相切。
 - 英文谚语: A mind is a fire to be kindled, not a vessel to be filled.
-- 中文谚语:
+- 中文谚语: 思想是待点燃的火苗，而不是待填满的容器。
 - 英文谚语作者: Plutarch
-- 中文谚语作者:
+- 中文谚语作者:普鲁塔克（希腊历史学家）
