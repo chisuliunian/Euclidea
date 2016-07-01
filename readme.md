@@ -883,7 +883,7 @@
 - 英文标题: Minimum Perimeter - 1
 - 中文标题: 最小周长 - 1
 - 英文描述: Construct a triangle whose perimeter is the minimum possible whose vertices lie on the two sides of the angle and the third vertex is in the point A.
-- 中文描述: 构造一个三角形，使周长尽可能小，两个顶点位于角的两边上且第三个顶点是点 A。
+- 中文描述: 构造一个三角形，使周长尽可能最短，其中两个顶点位于角的两边上且第三个顶点是点 A。
 - 英文谚语: Geometry is frozen music.
 - 中文谚语: 几何是凝固的音乐。
 - 英文谚语作者: Johann Goethe
@@ -922,7 +922,7 @@
 - 英文标题: Drop a Perpendicular*
 - 中文标题: 引一条垂线段*
 - 英文描述: Drop a perpendicular from the point to the line passing through the center of the circle using only a straightedge.
-- 中文描述: 仅使用直尺，从点到直线引一条经过圆心的垂线段。
+- 中文描述: 仅使用直尺，从一点向一条经过圆心的直线引一条垂线段。
 - 英文谚语: It is not enough to have a good mind. The main thing is to use it well.
 - 中文谚语: 光有个好脑袋是不够的。更主要的是好好使用它。
 - 英文谚语作者: Rene Descartes
@@ -935,9 +935,9 @@
 - 英文标题: Midpoint*
 - 中文标题: 中点*
 - 英文描述: Construct the midpoint of the segment using only a straightedge. To help you, a line parallel to the segment is given.
-- 中文描述: 仅使用直尺构造线段中点。为了给你提供帮助，给定一条与线段平行的直线。
+- 中文描述: 仅使用直尺构造线段中点。为了帮助你，给定一条与线段平行的直线。
 - 英文谚语: Everything should be made as simple as possible, but not simpler.
-- 中文谚语: 所有事都应该做得尽量简单，但不是简陋。
+- 中文谚语: 所有事都应该弄得尽量简单，但绝不是简陋。
 - 英文谚语作者: Albert Einstein
 - 中文谚语作者: 阿尔伯特·爱因斯坦（德国物理学家）
 
@@ -948,7 +948,7 @@
 - 英文标题: Interior Angles
 - 中文标题: 内角
 - 英文描述: Construct a line through the point that crosses the two lines so that the interior angles are equal.
-- 中文描述: 经过两条直线的交点构造一条直线，使两个内角相等。
+- 中文描述: 经过一点作与两条直线相交的直线，使两个内角相等。
 - 英文谚语: I am ever more convinced that the necessity of our (Euclidean) geometry cannot be proved — at least not by human reason for human reason.
 - 中文谚语: 我曾经相信我们欧几里得几何的必要性是无法证明的，至少不能为了人类理性而用人类理性去证明。
 - 英文谚语作者: Carl Friedrich Gauss
@@ -976,7 +976,7 @@
 - 英文描述: Construct a line segment that is parallel to the bases of the trapezoid and is divided to three equal parts by its diagonals.
 - 中文描述: 构造一条线段，使其与梯形底边平行，且被梯形对角线分成三个相等的部分。
 - 英文谚语: It is hard to convince a high-school student that he will encounter a lot of problems more difficult than those of algebra and geometry.
-- 中文谚语: 要说服一个高中生他以后会遇到比代数和几何更困难的问题是挺难的。
+- 中文谚语: 要说服一个高中生他以后将会遇到比代数和几何还困难的问题，确实是挺难的。
 - 英文谚语作者: Edgar Watson Howe
 - 中文谚语作者: 埃德加·艾森·豪（美国小说家）
 
@@ -987,9 +987,9 @@
 - 英文标题: Minimum Perimeter - 2
 - 中文标题: 最小周长 - 2
 - 英文描述: Inscribe a triangle into the given whose perimeter is the minimum possible.
-- 中文描述: 在已知三角形中内接一个三角形，使其周长尽可能小。
+- 中文描述: 在已知三角形中内接一个三角形，使其周长尽可能最短。
 - 英文谚语: The roots of education are bitter, but the fruit is sweet.
-- 中文谚语: 教育的本质是苦涩的，但结出的果实是甜蜜的。
+- 中文谚语: 教育的本质是苦涩的，但结出的果却实是甜蜜的。
 - 英文谚语作者: Aristotle
 - 中文谚语作者: 亚里士多德（古希腊哲学家、数学家）
 
@@ -1002,7 +1002,7 @@
 - 英文描述: Construct a point on the given ray to get a segment with length equal to the harmonic mean of the two adjacent segments.
 - 中文描述: 在已知射线上构造一个点，获得一条长度等于两条相邻线段调和平均数的线段。
 - 英文谚语: Geometry is knowledge of the eternally existent.
-- 中文谚语: 几何学是关于永恒存在的知识。
+- 中文谚语: 几何学是关于不朽的知识。
 - 英文谚语作者: Pythagoras
 - 中文谚语作者: 毕达哥拉斯（古希腊哲学家、数学家）
 
@@ -1011,9 +1011,9 @@
 - Level 8.11
 - ![8.11](images/level/a-tr-by-centroid.png) 
 - 英文标题: Triangle by Angle and Centroid
-- 中文标题: 根据角和几何中心构造三角形
+- 中文标题: 根据角和重心构造三角形
 - 英文描述: Construct a segment connecting the sides of the angle to get a triangle whose centroid is in the point O.
-- 中文描述: 构造一条线段，使其连接角的两边，获得一个几何中心为点 O的三角形。
+- 中文描述: 构造一条线段，使其连接角的两边，获得一重心为点 O的三角形。
 - 英文谚语: I think, therefore I am.
 - 中文谚语: 我思故我在。
 - 英文谚语作者: Rene Descartes
@@ -1029,9 +1029,9 @@
 - 英文标题: Tangent of Circle
 - 中文标题: 圆的切线
 - 英文描述: Construct a tangent to the circle from the external point.
-- 中文描述: 从外点构造一条圆的切线。
+- 中文描述: 从圆外一点构造一条圆的切线。
 - 英文谚语: Nothing is more important than to see the sources of invention which are, in my opinion more interesting than the inventions themselves.
-- 中文谚语: 没有什么比看到创意的来源更重要，在我看来比创意本身有意思得多。
+- 中文谚语: 没有什么比看到创意的源泉更重要，在我看来这比创意本身有意思得多。
 - 英文谚语作者: Gottfried Leibniz
 - 中文谚语作者: 戈特弗莱德·莱布尼茨（德国数学家）
 
@@ -1040,11 +1040,11 @@
 - Level 9.2
 - ![9.2](images/level/outer-tangent.png) 
 - 英文标题: Outer Tangent
-- 中文标题: 外切线
+- 中文标题: 外公切线
 - 英文描述: Construct an outer tangent between two circles.
-- 中文描述: 构造两个圆的外切线。
+- 中文描述: 构造两个圆的外公切线。
 - 英文谚语: It is the glory of geometry that from so few principles, fetched from without, it is able to accomplish so much.
-- 中文谚语: 能从极少的原理出发，无中生有，获益良多，是几何学的荣耀。
+- 中文谚语: 能从极少的原理出发，无中生有，成果繁硕，是几何学的荣耀。
 - 英文谚语作者: Isaac Newton
 - 中文谚语作者: 艾萨克·牛顿（英国物理学家、数学家）
 
@@ -1053,11 +1053,11 @@
 - Level 9.3
 - ![9.3](images/level/inner-tangent.png) 
 - 英文标题: Inner Tangent
-- 中文标题: 内切线
+- 中文标题: 内公切线
 - 英文描述: Construct an inner tangent between two circles.
-- 中文描述: 构造两个圆的内切线。
+- 中文描述: 构造两个圆的内公切线。
 - 英文谚语: Imagination is more important than knowledge.
-- 中文谚语: 想象力比知识本身更重要。
+- 中文谚语: 想象力要比知识本身更重要。
 - 英文谚语作者: Albert Einstein
 - 中文谚语作者: 阿尔伯特·爱因斯坦（德国物理学家）
 
@@ -1083,7 +1083,7 @@
 - 英文描述: Rotate the line segment 60° clockwise about the given point.
 - 中文描述: 以已知点为中心，将线段顺时针旋转 60°。
 - 英文谚语: Science is simply common sense at its best.
-- 中文谚语: 科学是以己所能的简单尝试。
+- 中文谚语: 科学是以己所能的简单常识。
 - 英文谚语作者: Thomas Huxley
 - 中文谚语作者: 托马斯·赫胥黎（英国博物学家）
 
@@ -1094,7 +1094,7 @@
 - 英文标题: Segment Trisection
 - 中文标题: 线段三等分
 - 英文描述: Construct two points that divide the segment into 3 equal parts.
-- 中文描述: 构造两点，将线段分成 3 个相等的部分。
+- 中文描述: 构造两点，将线段平分成 3 个相等的部分。
 - 英文谚语: Three Rules of Work: Out of clutter find simplicity; From discord find harmony; In the middle of difficulty lies opportunity.
 - 中文谚语: 工作三大准则：繁中求简，乱中求谐，难中求胜。
 - 英文谚语作者: Albert Einstein
@@ -1107,9 +1107,9 @@
 - 英文标题: Segment Trisection*
 - 中文标题: 线段三等分*
 - 英文描述: Construct points that divide the segment into three equal parts using only a straightedge. To help you, a line parallel to the segment is given.
-- 中文描述: 仅使用直尺，构造将线段平分为三段的点。为了给你提供帮助，给定一条与线段平行的直线。
+- 中文描述: 仅使用直尺，构造将线段平分为相等三段的点。为了帮助你，给定一条与线段平行的直线。
 - 英文谚语: Beauty is the first test: there is no permanent place in the world for ugly mathematics.
-- 中文谚语: 美是首要标准：世上是没有丑陋数学的容身之地的。
+- 中文谚语: 美是首要的标准：世上是没有丑陋数学的容身之地的。
 - 英文谚语作者: Godfrey Hardy
 - 中文谚语作者: 高德菲·哈代（英国数学家）
 
@@ -1120,7 +1120,7 @@
 - 英文标题: Chord Trisection
 - 中文标题: 弦三等分
 - 英文描述: Construct a chord of the larger circle through the given point that is divided into three equal segments by the smaller circle.
-- 中文描述: 经过已知点构造大圆的一条弦，使其被小圆平分成三条线段。
+- 中文描述: 经过已知点构造大圆的一条弦，使其被小圆平分成三条相等的线段。
 - 英文谚语: Mathematics is the door and key to the sciences.
 - 中文谚语: 数学是其他科学的入口和钥匙。
 - 英文谚语作者: Roger Bacon
@@ -1135,7 +1135,7 @@
 - 英文描述: Construct a point on the line segment that divides it in the ratio 1 : 5.
 - 中文描述: 在线段上构造一点，使其按比例 1:5 分割线段。
 - 英文谚语: In mathematics the art of proposing a question must be held of higher value than solving it.
-- 中文谚语: 在数学中提问的艺术价值必须比解谜设置得更高。
+- 中文谚语: 在数学中提问的艺术其价肯定比解题能力要来得更高。
 - 英文谚语作者: Georg Cantor
 - 中文谚语作者: 格奥尔格·康托（德国数学家）
 
@@ -1159,7 +1159,7 @@
 - 英文标题: Secant Bisection
 - 中文标题: 割线二等分
 - 英文描述: Construct a secant through the given point that is divided into two equal segments by the circle.
-- 中文描述: 经过已知点构造一条割线，使其被圆平分成两条线段。
+- 中文描述: 经过已知点构造一条割线，使其被圆平分成两条相等的线段。
 - 英文谚语: Knowledge is light and ignorance is darkness.
 - 中文谚语: 知识是光，愚昧是暗。
 - 英文谚语作者: Proverb
@@ -1190,7 +1190,7 @@
 - 英文描述: Construct a point D on the ray OC such that the segment OD is the fourth proportional to the given segments.
 - 中文描述: 在射线 OC 上构造点 D，使线段 OD 为已知线段的第四比例项。
 - 英文谚语: Mathematics is concerned only with the enumeration and comparison of relations.
-- 中文谚语: 数学关注的只是数字运算和关系比较。
+- 中文谚语: 数学关注的只是数字的运算和关系的比较。
 - 英文谚语作者: Friedrich Gauss
 - 中文谚语作者: 弗莱德里希·高斯（德国数学家）
 
@@ -1203,7 +1203,7 @@
 - 英文描述: Construct a point on the given ray to get a segment with length equal to the geometric mean of two adjacent segments.
 - 中文描述: 在已知射线上构造一个点，获得一条长度等于两条相邻线段几何平均数的线段。
 - 英文谚语: Mathematics is the part of physics where experiments are cheap.
-- 中文谚语: 数学是物理的一部分，但做实验要便宜得多。
+- 中文谚语: 数学是物理的一部分，但在这儿做实验要便宜得多。
 - 英文谚语作者: Vladimir Arnold
 - 中文谚语作者: 弗拉基米尔·阿诺德（俄国数学家）
 
@@ -1216,7 +1216,7 @@
 - 英文描述: Construct a point that divides the segment in the "golden section".
 - 中文描述: 构造一点，将线段以"黄金分割"比例分割。
 - 英文谚语: The Golden ratio has inspired thinkers of all disciplines like no other number in the history of mathematics.
-- 中文谚语: 在数学史中没有任何数字像黄金分割比那样启发了那么多学科的思想者们。
+- 中文谚语: 在数学史中没有任何一个数字像黄金分割比那样启发了那么多学科的思想者们。
 - 英文谚语作者: Mario Livio
 - 中文谚语作者: 马里奥·利维奥（美国天文学界）
 
@@ -1242,7 +1242,7 @@
 - 英文描述: Construct a line through the given point that is parallel to the two given parallel lines using only a straightedge.
 - 中文描述: 仅使用直尺，经过已知点构造一条直线，使其与两条已知平行线平行。
 - 英文谚语: It is impossible to be a mathematician without being a poet in soul.
-- 中文谚语: 灵魂中没有诗意是不可能成为一名数学家的。
+- 中文谚语: 灵魂中没有诗意的人是不可能成为一名数学家的。
 - 英文谚语作者: Sofia Kovalevskaya
 - 中文谚语作者: 索非娅·科瓦列夫斯卡娅（俄国女性数学家）
 
@@ -1255,7 +1255,7 @@
 - 英文描述: Construct a circle through the given point that is tangent to both sides of the angle.
 - 中文描述: 经过指定点构造一个圆，使其相切于角的两条边。
 - 英文谚语: The mathematical sciences particularly exhibit order symmetry and limitations; and these are the greatest forms of the beautiful.
-- 中文谚语: 数学科学将秩序的对称和极限具体展示出来，这些正是美的最佳形式。
+- 中文谚语: 数学科学将秩序的对称和极限具象化展示出来，这些正是美的最佳形式。
 - 英文谚语作者: Aristotle
 - 中文谚语作者: 亚里士多德（古希腊哲学家、数学家）
 
