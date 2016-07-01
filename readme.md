@@ -1031,9 +1031,9 @@
 - 英文描述: Construct a tangent to the circle from the external point.
 - 中文描述: 从外点构造一条圆的切线。
 - 英文谚语: Nothing is more important than to see the sources of invention which are, in my opinion more interesting than the inventions themselves.
-- 中文谚语:
+- 中文谚语: 没有什么比看到创意的来源更重要，在我看来比创意本身有意思得多。
 - 英文谚语作者: Gottfried Leibniz
-- 中文谚语作者:
+- 中文谚语作者: 戈特弗莱德·莱布尼茨（德国数学家）
 
 
 #### OuterTangent
@@ -1044,9 +1044,9 @@
 - 英文描述: Construct an outer tangent between two circles.
 - 中文描述: 构造两个圆的外切线。
 - 英文谚语: It is the glory of geometry that from so few principles, fetched from without, it is able to accomplish so much.
-- 中文谚语:
+- 中文谚语: 能从极少的原理出发，无中生有，获益良多，是几何学的荣耀。
 - 英文谚语作者: Isaac Newton
-- 中文谚语作者: 艾萨克·牛顿
+- 中文谚语作者: 艾萨克·牛顿（英国物理学家、数学家）
 
 
 #### InnerTangent
@@ -1057,9 +1057,9 @@
 - 英文描述: Construct an inner tangent between two circles.
 - 中文描述: 构造两个圆的内切线。
 - 英文谚语: Imagination is more important than knowledge.
-- 中文谚语:
+- 中文谚语: 想象力比知识本身更重要。
 - 英文谚语作者: Albert Einstein
-- 中文谚语作者:
+- 中文谚语作者: 阿尔伯特·爱因斯坦（德国物理学家）
 
 
 #### 90RotationCCW
@@ -1070,9 +1070,9 @@
 - 英文描述: Rotate the line segment 90° counterclockwise about the given point.
 - 中文描述: 以已知点为中心，将线段逆时针旋转 90°。
 - 英文谚语: Imagination decides everything.
-- 中文谚语:
+- 中文谚语: 想象力决定一切。
 - 英文谚语作者: Blaise Pascal
-- 中文谚语作者: 布莱士·帕斯卡
+- 中文谚语作者: 布莱士·帕斯卡（法国哲学家、数学家、概率论奠基人）
 
 
 #### 60RotationCW
@@ -1083,9 +1083,9 @@
 - 英文描述: Rotate the line segment 60° clockwise about the given point.
 - 中文描述: 以已知点为中心，将线段顺时针旋转 60°。
 - 英文谚语: Science is simply common sense at its best.
-- 中文谚语:
+- 中文谚语: 科学是以己所能的简单尝试。
 - 英文谚语作者: Thomas Huxley
-- 中文谚语作者:
+- 中文谚语作者: 托马斯·赫胥黎（英国博物学家）
 
 
 #### Divide3
@@ -1096,9 +1096,9 @@
 - 英文描述: Construct two points that divide the segment into 3 equal parts.
 - 中文描述: 构造两点，将线段分成 3 个相等的部分。
 - 英文谚语: Three Rules of Work: Out of clutter find simplicity; From discord find harmony; In the middle of difficulty lies opportunity.
-- 中文谚语:
+- 中文谚语: 工作三大准则：繁中求简，乱中求谐，难中求胜。
 - 英文谚语作者: Albert Einstein
-- 中文谚语作者:
+- 中文谚语作者: 阿尔伯特·爱因斯坦（德国物理学家）
 
 
 #### LDivide3
@@ -1109,9 +1109,9 @@
 - 英文描述: Construct points that divide the segment into three equal parts using only a straightedge. To help you, a line parallel to the segment is given.
 - 中文描述: 仅使用直尺，构造将线段平分为三段的点。为了给你提供帮助，给定一条与线段平行的直线。
 - 英文谚语: Beauty is the first test: there is no permanent place in the world for ugly mathematics.
-- 中文谚语:
+- 中文谚语: 美是首要标准：世上是没有丑陋数学的容身之地的。
 - 英文谚语作者: Godfrey Hardy
-- 中文谚语作者:
+- 中文谚语作者: 高德菲·哈代（英国数学家）
 
 
 #### Chord3
@@ -1122,9 +1122,9 @@
 - 英文描述: Construct a chord of the larger circle through the given point that is divided into three equal segments by the smaller circle.
 - 中文描述: 经过已知点构造大圆的一条弦，使其被小圆平分成三条线段。
 - 英文谚语: Mathematics is the door and key to the sciences.
-- 中文谚语:
+- 中文谚语: 数学是其他科学的入口和钥匙。
 - 英文谚语作者: Roger Bacon
-- 中文谚语作者:
+- 中文谚语作者: 罗吉尔·培根（英国思想家、科学家）
 
 
 #### Segment6
@@ -1135,9 +1135,9 @@
 - 英文描述: Construct a point on the line segment that divides it in the ratio 1 : 5.
 - 中文描述: 在线段上构造一点，使其按比例 1:5 分割线段。
 - 英文谚语: In mathematics the art of proposing a question must be held of higher value than solving it.
-- 中文谚语:
+- 中文谚语: 爱数学中提问的艺术价值必须比解谜设置得更高。
 - 英文谚语作者: Georg Cantor
-- 中文谚语作者:
+- 中文谚语作者: 格奥尔格·康托（德国数学家）
 
 
 #### 3CirclesC
@@ -1148,9 +1148,9 @@
 - 英文描述: Construct three circles with the given centers that are externally tangent each other.
 - 中文描述: 已知圆心，构造三个彼此外切的圆。
 - 英文谚语: Knowledge is power.
-- 中文谚语:
+- 中文谚语: 知识就是力量。
 - 英文谚语作者: Francis Bacon
-- 中文谚语作者:
+- 中文谚语作者: 弗朗西斯·培根（英国哲学家）
 
 
 #### Secant2
@@ -1161,9 +1161,9 @@
 - 英文描述: Construct a secant through the given point that is divided into two equal segments by the circle.
 - 中文描述: 经过已知点构造一条割线，使其被圆平分成两条线段。
 - 英文谚语: Knowledge is light and ignorance is darkness.
-- 中文谚语:
+- 中文谚语: 知识是光，愚昧是暗。
 - 英文谚语作者: Proverb
-- 中文谚语作者:
+- 中文谚语作者: 谚语
 
 
 #### 3CirclesI
@@ -1174,9 +1174,9 @@
 - 英文描述: Construct three circles tangent to each other at the given points.
 - 中文描述: 构造三个圆，使它们在已知点处彼此相切。
 - 英文谚语: Education is the best provision for the journey to old age.
-- 中文谚语:
+- 中文谚语: 教育是人生旅途最好的必需品。
 - 英文谚语作者: Aristotle
-- 中文谚语作者: 亚里士多德
+- 中文谚语作者: 亚里士多德（古希腊哲学家、数学家）
 
 
 
