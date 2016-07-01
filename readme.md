@@ -41,9 +41,9 @@
 - Level 1.4
 - ![1.4](images/level/circle-in-square.png) 
 - 英文标题: Circle in Square
-- 中文标题: 正方形的内接圆
+- 中文标题: 正方形的内切圆
 - 英文描述: Inscribe a circle in the square.
-- 中文描述: 在正方形中内接一个圆。
+- 中文描述: 在正方形中内切一个圆。
 - 英文谚语: You can't fit a round peg in a square hole.
 - 中文谚语: 格格不入/你是没法用圆木钉塞满方孔的。
 - 英文谚语作者: American proverb
@@ -139,7 +139,7 @@
 - 英文描述: Construct an angle equal to the given one so that they share one side.
 - 中文描述: 构造一个与已知角相等的角，使它们共用一条边。
 - 英文谚语: Contradiction is not a sign of falsity, nor the lack of contradiction a sign of truth.
-- 中文谚语: 矛盾不一定是假象，没有矛盾也不足以称为真相。
+- 中文谚语: 矛盾不一定是假象，但不矛盾也不足以称为真相。
 - 英文谚语作者: Blaise Pascal
 - 中文谚语作者: 布莱士·帕斯卡（法国哲学家、数学家，概率论奠基人）
 
@@ -165,7 +165,7 @@
 - 英文描述: Drop a perpendicular from the point to the line.
 - 中文描述: 从点到直线引一条垂线段。
 - 英文谚语: The knowledge of which geometry aims is the knowledge of the eternal.
-- 中文谚语: 几何学所引领的知识才是永恒的知识
+- 中文谚语: 几何学所追求的知识才是不朽的知识
 - 英文谚语作者: Plato
 - 中文谚语作者: 柏拉图（古希腊哲学家、数学家）
 
@@ -191,7 +191,7 @@
 - 英文描述: Construct a tangent to the circle at the given point.
 - 中文描述: 构造一条切线，使其与圆在已知点相切。
 - 英文谚语: If a man's wit be wandering, let him study the mathematics.
-- 中文谚语: 如果有人精力不集中，就让他去学习数学吧。
+- 中文谚语: 如果有人精神涣散，那就让他去学习数学吧。
 - 英文谚语作者: Francis Bacon
 - 中文谚语作者: 弗朗西斯·培根（英国哲学家）
 
@@ -202,7 +202,7 @@
 - 英文标题: Circle Tangent to Line
 - 中文标题: 相切于直线的圆
 - 英文描述: Construct a circle with the given center that is tangent to the given line.
-- 中文描述: 已知圆心构造一个圆，使其与已知直线相切。
+- 中文描述: 已知圆心，构造一个圆，使其与已知直线相切。
 - 英文谚语: Intellectual labor in math lessons is the touchstone of thinking.
 - 中文谚语: 数学上的智力是思想的试金石。
 - 英文谚语作者: Vasili Sukhomlinsky
@@ -213,11 +213,11 @@
 - Level 2.10
 - ![2.10](images/level/circle-in-rhombus.png) 
 - 英文标题: Сircle in Rhombus
-- 中文标题: 菱形的内接圆
+- 中文标题: 菱形的内切圆
 - 英文描述: Inscribe a circle in the rhombus.
-- 中文描述: 在菱形中内接一个圆。
+- 中文描述: 在菱形中内切一个圆。
 - 英文谚语: The mathematician's patterns, like the painter's or the poet's must be beautiful; the ideas like the colours or the words, must fit together in a harmonious way.
-- 中文谚语: 数学家的图形，就像画家和诗人必备的美学；思维就像颜色或词汇，必须以和谐的方式相融合。
+- 中文谚语: 数学家是款式的创造者，就如同画家和诗人的款式必须是美的；思维就像颜色或词汇，必须以和谐的方式相融合。
 - 英文谚语作者: Godfrey Hardy
 - 中文谚语作者: 高德菲·哈代（英国数学家）
 
