@@ -233,9 +233,9 @@
 - 英文描述: Construct a chord whose midpoint is given.
 - 中文描述: 构造一条中点已知的弦。
 - 英文谚语: The study of the mathematics, like the Nile, begins in minuteness, but ends in magnificence.
-- 中文谚语:
+- 中文谚语: 数学的研究，就像尼罗河，起源于微末，终止于宏大。
 - 英文谚语作者: Charles Colton
-- 中文谚语作者: 查尔斯·科尔顿
+- 中文谚语作者: 查尔斯·科尔顿（英国作家）
 
 
 #### ATrByOrthocenter
@@ -246,9 +246,9 @@
 - 英文描述: Construct a segment connecting the sides of the angle to get a triangle whose orthocenter is in the point O.
 - 中文描述: 构造一条线段，使其连接角的两边，获得一个垂心为点 O 的三角形。
 - 英文谚语: A mathematician is a machine for turning coffee into theorems.
-- 中文谚语:
+- 中文谚语: 所谓数学家就是化咖啡为理论的机械。
 - 英文谚语作者: Alfred Rényi
-- 中文谚语作者:
+- 中文谚语作者: 阿尔弗雷德·瑞尼（匈牙利数学家）
 
 
 #### ATrByCircumcenter
@@ -259,9 +259,9 @@
 - 英文描述: Construct a segment connecting the sides of the angle to get a triangle whose perpendicular bisectors are intersected in the point O.
 - 中文描述: 构造一条线段，使其连接角的两边，获得一个三条垂直平分线相交于点 O 的三角形。
 - 英文谚语: Knowledge exists to be imparted.
-- 中文谚语:
+- 中文谚语: 知识的意义在于传授。
 - 英文谚语作者: Ralph Emerson.
-- 中文谚语作者:
+- 中文谚语作者: 拉尔夫·爱默生（美国思想家、文学家、诗人）
 
 
 #### AEqualSegments1
@@ -272,9 +272,9 @@
 - 英文描述: Given an angle ABC and a point M inside it, find points D on BA and E on BC and construct segments DM and ME such that BD = DM = ME.
 - 中文描述: 已知角 ABC 和其内一点 M，在 BA 和 BC 上分别找到点 D 和 E，构造长度相等的线段 DM 和 ME，使 BD = DM = ME。
 - 英文谚语: All knowledge degenerates into probability.
-- 中文谚语:
+- 中文谚语: 所有知识都会退化为概率。
 - 英文谚语作者: David Hume
-- 中文谚语作者:
+- 中文谚语作者: 大卫·休谟（苏格兰哲学家）
 
 
 #### CircleTangentPL
@@ -285,9 +285,9 @@
 - 英文描述: Construct a circle through the point A that is tangent to the given line at the point B.
 - 中文描述: 构造一个圆，使其经过点 A，与已知直线相切于点 B。
 - 英文谚语: Knowledge comes, but wisdom lingers.
-- 中文谚语:
+- 中文谚语: 知识来了，智慧却迟迟不前。
 - 英文谚语作者: Alfred Tennyson
-- 中文谚语作者: 阿尔弗雷德·丁尼生
+- 中文谚语作者: 阿尔弗雷德·丁尼生（英国诗人）
 
 
 #### TrapezoidCut
@@ -298,9 +298,9 @@
 - 英文描述: Construct a line passing through the midpoints of the trapezoid bases.
 - 中文描述: 构造一条经过梯形底边中点的直线。
 - 英文谚语: If there is a God, he is a great mathematician.
-- 中文谚语:
+- 中文谚语: 是不是有一位神，他本身就是名伟大的数学家。
 - 英文谚语作者: Paul Dirac
-- 中文谚语作者: 保罗·狄拉克
+- 中文谚语作者: 保罗·狄拉克（英国理论物理学家）
 
 
 #### Angle45
@@ -311,9 +311,9 @@
 - 英文描述: Construct an angle of 45° with the given side.
 - 中文描述: 已知一条边，构造 45° 角。
 - 英文谚语: He is unworthy of the name of man who is ignorant of the fact that the diagonal of a square is incommensurable with its side.
-- 中文谚语:
+- 中文谚语: 上帝真是徒有其名啊，他居然忽略了正方形的对角线根本不能与其边长通约的事实。
 - 英文谚语作者: Plato
-- 中文谚语作者: 柏拉图
+- 中文谚语作者: 柏拉图（古希腊哲学家、数学家）
 
 
 #### Lozenge
@@ -324,9 +324,9 @@
 - 英文描述: Construct a rhombus with the given side and an angle of 45° in a vertex.
 - 中文描述: 已知一条边和 45° 顶角，构造一个菱形。
 - 英文谚语: To think deeply of simple things.
-- 中文谚语:
+- 中文谚语: 深入浅出
 - 英文谚语作者: Arnold Ross
-- 中文谚语作者:
+- 中文谚语作者: 阿诺德·罗斯（美国数学家）
 
 
 
