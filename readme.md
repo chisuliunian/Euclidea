@@ -1310,9 +1310,9 @@
 - 英文描述: Construct a triangle given the midpoints of its sides.
 - 中文描述: 已知三角形各边中点，构造三角形。
 - 英文谚语: "Obvious" is the most dangerous word in mathematics.
-- 中文谚语:
+- 中文谚语: "显然"是数学中最危险的词汇。
 - 英文谚语作者: Eric Bell
-- 中文谚语作者:
+- 中文谚语作者: 埃里克·贝尔（苏格兰数学家）
 
 
 #### TrBySideAndCentroid
@@ -1323,9 +1323,9 @@
 - 英文描述: Construct a triangle with the given side and centroid.
 - 中文描述: 已知边和几何中心，构造一个三角形。
 - 英文谚语: You are the only person on earth who can use your ability. It's an awesome responsibility.
-- 中文谚语:
+- 中文谚语: 你是地球上唯一可以使用你自己能力的人。这是很棒的责任。
 - 英文谚语作者: Zig Ziglar
-- 中文谚语作者:
+- 中文谚语作者: 西格·金克拉（美国作家）
 
 
 #### TrByAltitudeBases
@@ -1336,9 +1336,9 @@
 - 英文描述: Construct a triangle whose altitude base points are given.
 - 中文描述: 已知三角形的顶垂线和底边上的点，构造一个三角形。
 - 英文谚语: One quickly realizes that simplicity and geometry are the language of timelessness and universality.
-- 中文谚语:
+- 中文谚语: 一个人很快会意识到简洁和几何学是通用和不朽的语言。
 - 英文谚语作者: Paul Rand
-- 中文谚语作者:
+- 中文谚语作者: 保罗·兰德（美国平面设计师）
 
 
 #### TrByIncircleBases
@@ -1349,9 +1349,9 @@
 - 英文描述: Construct a triangle with the three given points where its incircle touches its sides.
 - 中文描述: 已知三个点构造一个三角形，其内切圆与其内切于这三个点。
 - 英文谚语: Music is the arithmetic of sounds as optics is the geometry of light.
-- 中文谚语:
+- 中文谚语: 音乐是声音的算术，而光学是光的几何。
 - 英文谚语作者: Claude Debussy
-- 中文谚语作者:
+- 中文谚语作者: 克劳德·德彪西（法国音乐家）
 
 
 #### TrByExcircleCenters
@@ -1362,9 +1362,9 @@
 - 英文描述: Construct a triangle with the given excenters.
 - 中文描述: 已知外心，构造一个三角形。
 - 英文谚语: There are no sects in geometry.
-- 中文谚语:
+- 中文谚语: 几何学没有派系。
 - 英文谚语作者: Voltaire
-- 中文谚语作者:
+- 中文谚语作者: 伏尔泰（法国启蒙思想家、哲学家、作家、历史学家）
 
 
 #### RTrBy2SidePoints
@@ -1375,9 +1375,9 @@
 - 英文描述: Inscribe a right triangle into the circle so that the two given points lie on its two legs respectively. The center of the circle is in the point O.
 - 中文描述: 在圆中内接一个直接三角形，使两个已知点分别位于两条直角边上。圆心位于点 O。
 - 英文谚语: Beauty is geometry.
-- 中文谚语:
+- 中文谚语: 美即几何。
 - 英文谚语作者: Joanne Rowling
-- 中文谚语作者:
+- 中文谚语作者: 乔安·罗琳（英国作家）
 
 
 
@@ -1391,9 +1391,9 @@
 - 英文描述: Construct a circle tangent to the line at the given point and to the given circle.
 - 中文描述: 构造一个圆，使其在已知点与直线相切，并与已知圆相切。
 - 英文谚语: The object of mathematical rigor is to sanction and legitimize the conquests of intuition.
-- 中文谚语:
+- 中文谚语: 数学精确性的目标是支持和认可直觉的成果。
 - 英文谚语作者: Jacques Hadamard
-- 中文谚语作者:
+- 中文谚语作者: 雅克·阿达马（法国数学家）
 
 
 #### Equilateral3
@@ -1404,9 +1404,9 @@
 - 英文描述: Construct an equilateral triangle whose one vertex is given and two others lie on the two parallel lines.
 - 中文描述: 已知一个顶点，另两个顶点位于两条平行线上，构造一个等边三角形。
 - 英文谚语: The only thing I am interested in using mathematics for is to have a good time and to help others do the same.
-- 中文谚语:
+- 中文谚语: 在使用数学时我唯一感兴趣的一点是快乐并帮助别人也感到快乐。
 - 英文谚语作者: Paul Lockhart
-- 中文谚语作者:
+- 中文谚语作者: 保罗·拉克哈特（美国宇航员）
 
 
 #### SquareInTriangle
@@ -1417,9 +1417,9 @@
 - 英文描述: Inscribe a square in the acute triangle ABC so that one of its sides lies on AC.
 - 中文描述: 在锐角三角形 ABC 中内接一个正方形，使正方形的一条边位于 AC 上。
 - 英文谚语: The line of life is a ragged diagonal between duty and desire.
-- 中文谚语:
+- 中文谚语: 生活的准则是责任与欲望之间的一条曲折的对角线。
 - 英文谚语作者: William Alger
-- 中文谚语作者:
+- 中文谚语作者: 威廉·阿尔格（美国作家）
 
 
 #### Equidistant2
@@ -1430,9 +1430,9 @@
 - 英文描述: Given an angle ABC and a point M inside it, find points D on BA and E on BC and construct segments MD and DE of equal length so that DE is perpendicular to BC.
 - 中文描述: 已知角 ABC 和其内一点 M，在 BA 和 BC 上分别找到点 D 和 E，构造长度相等的线段 MD 和 DE，使 DE 垂直于 BC。
 - 英文谚语: You can't criticize geometry. It's never wrong.
-- 中文谚语:
+- 中文谚语: 你没法批评几何学。它从不出错。
 - 英文谚语作者: Paul Rand
-- 中文谚语作者:
+- 中文谚语作者: 保罗·兰德（美国平面设计师）
 
 
 #### CircleTangentCC
@@ -1443,9 +1443,9 @@
 - 英文描述: Construct a circle that is tangent to the two given circles and touches one of them in the given point.
 - 中文描述: 构造一个圆，使其与两个已知圆相切，并与其中一个圆在已知点相接触。
 - 英文谚语: There is still a difference between something and nothing, but it is purely geometrical and there is nothing behind the geometry.
-- 中文谚语:
+- 中文谚语: 在某物和无物之间仍有个不同点，某物总是纯粹符合几何学的，然而几何学背后则是无物的。
 - 英文谚语作者: Martin Gardner
-- 中文谚语作者:
+- 中文谚语作者: 马丁·加德纳（美国科普作家）
 
 
 #### CircleTangentPPL
@@ -1456,9 +1456,9 @@
 - 英文描述: Construct a circle that goes through the two given points and that is tangent to the given line.
 - 中文描述: 经过已知两点构造一个圆，使其相切于已知直线。
 - 英文谚语: The very smallest errors in mathematical matters are not to be neglected.
-- 中文谚语:
+- 中文谚语: 数学领域中最小的错误也不能被忽视。
 - 英文谚语作者: Isaac Newton
-- 中文谚语作者: 艾萨克·牛顿
+- 中文谚语作者: 艾萨克·牛顿（英国物理学家、数学家）
 
 
 #### RTrByHypAndTangentPt
@@ -1469,9 +1469,9 @@
 - 英文描述: Construct a right triangle with the given hypotenuse and the tangent point of its incircle.
 - 中文描述: 已知斜边和直角三角形内切圆的切点，构造一个直角三角形。
 - 英文谚语: Since we cannot know all that there is to be known about anything, we ought to know a little about everything.
-- 中文谚语:
+- 中文谚语: 既然我们无法了解有关任何东西的所有事，我们应该尽量去了解有关所有东西的一些事。
 - 英文谚语作者: Blaise Pascal
-- 中文谚语作者: 布莱士·帕斯卡
+- 中文谚语作者: 布莱士·帕斯卡（法国哲学家、数学家、概率论奠基人）
 
 
 
