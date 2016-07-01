@@ -139,7 +139,7 @@
 - 英文描述: Construct an angle equal to the given one so that they share one side.
 - 中文描述: 构造一个与已知角相等的角，使它们共用一条边。
 - 英文谚语: Contradiction is not a sign of falsity, nor the lack of contradiction a sign of truth.
-- 中文谚语: 矛盾不一定是假象，但不矛盾一定不是真相。
+- 中文谚语: 矛盾不是假象的标志，但不矛盾也未必就是真相的化身。
 - 英文谚语作者: Blaise Pascal
 - 中文谚语作者: 布莱士·帕斯卡（法国哲学家、数学家，概率论奠基人）
 
