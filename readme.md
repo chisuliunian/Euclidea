@@ -19,7 +19,7 @@
 - 英文描述: Construct the perpendicular bisector of the segment.
 - 中文描述: 作线段的垂直平分线。
 - 英文谚语: Education is what remains after one has forgotten everything he learned in school.
-- 中文谚语: 所谓教育，就是一个人抛开学校所学之后剩下的东西。
+- 中文谚语: 所谓教育，就是一个人抛开在学校所学之后剩下的东西。
 - 英文谚语作者: Albert Einstein
 - 中文谚语作者: 阿尔伯特·爱因斯坦（德国物理学家）
 
@@ -152,7 +152,7 @@
 - 英文描述: Construct a line through the given point that cuts the rectangle into two parts of equal area.
 - 中文描述: 经过指定点构造一条直线，将矩形分割成两个相等的部分。
 - 英文谚语: Measure twice, cut once!
-- 中文谚语: 三思而后行
+- 中文谚语: 三思而后行。
 - 英文谚语作者: Proverb
 - 中文谚语作者: 谚语
 
@@ -165,7 +165,7 @@
 - 英文描述: Drop a perpendicular from the point to the line.
 - 中文描述: 由指定点向直线引一条垂线。
 - 英文谚语: The knowledge of which geometry aims is the knowledge of the eternal.
-- 中文谚语: 几何学所追求的知识才是不朽的知识
+- 中文谚语: 几何学所追求的知识才是不朽的知识。
 - 英文谚语作者: Plato
 - 中文谚语作者: 柏拉图（古希腊哲学家、数学家）
 
@@ -619,7 +619,7 @@
 - 英文描述: Reflect the segment across the line.
 - 中文描述: 关于直线反射线段。
 - 英文谚语: Symmetry is what we see at a glance; based on the fact that there is no reason for any difference...
-- 中文谚语: 对称是基于没有理由存在任何差异的事实而让我们看到的惊鸿一瞥。
+- 中文谚语: 对称令我们看到了惊鸿一瞥，它让任何差异没有了存在的理由。
 - 英文谚语作者: Blaise Pascal
 - 中文谚语作者: 布莱士·帕斯卡（法国哲学家、数学家，概率论奠基人）
 
@@ -752,7 +752,7 @@
 - 英文描述: Construct an angle of 75° with the given side.
 - 中文描述: 指定一条边，构造 75° 角。
 - 英文谚语: The human mind has first to construct forms, independently, before we can find them in things.
-- 中文谚语: 在从万物中发现形状之前，人类早已先在脑中创造出了形状。
+- 中文谚语: 在从万物中发现形状之前，人类早已先在脑中独立创造出了形状。
 - 英文谚语作者: Albert Einstein
 - 中文谚语作者: 阿尔伯特·爱因斯坦（德国物理学家）
 
@@ -804,7 +804,7 @@
 - 英文描述: Construct the incircle of the triangle.
 - 中文描述: 构造三角形的内切圆。
 - 英文谚语: Circles to square and cubes to double would give a man exercise trouble.
-- 中文谚语: 化圆为方和倍立方体只会让人无功而返。
+- 中文谚语: 钻研化圆为方和倍立方体只会让人无功而返。
 - 英文谚语作者: Matthew Prior
 - 中文谚语作者: 马修·普莱尔（英国诗人）
 
@@ -830,7 +830,7 @@
 - 英文描述: Construct a line through the given point such that it cuts off equal segments on the sides of the angle.
 - 中文描述: 经过指定点构造一条直线，使直线在角的两边上切割的线段长度相等。
 - 英文谚语: There are two ways to do great mathematics. The first is to be smarter than everybody else. The second way is to be stupider than everybody else — but persistent.
-- 中文谚语: 有两种方法可以学好数学。一种是比其他人都聪明。第二种是比其他人都笨，但锲而不舍。
+- 中文谚语: 有两种方法可以学好数学。一种是比其他人都聪明。第二种是虽比其他人都笨，但锲而不舍。
 - 英文谚语作者: Raoul Bott
 - 中文谚语作者: 拉乌尔·伯特（匈牙利数学家）
 
@@ -843,7 +843,7 @@
 - 英文描述: Construct two rays that divide the given angle of 54° into three equal parts.
 - 中文描述: 构造两条射线，将指定 54° 角平分为三个部分。
 - 英文谚语: If I feel unhappy, I do mathematics to become happy. If I am happy, I do mathematics to keep happy.
-- 中文谚语: 如果我不快乐，我会研究数学令自己快乐起来。如果我快乐，我会研究数学让自己快乐下去。
+- 中文谚语: 如果我不快乐，我会钻研数学令自己快乐起来。如果我快乐，我会钻研数学让自己快乐下去。
 - 英文谚语作者: Alfred Rényi
 - 中文谚语作者: 阿尔弗雷德·瑞尼（匈牙利数学家）
 
@@ -937,7 +937,7 @@
 - 英文描述: Construct the midpoint of the segment using only a straightedge. To help you, a line parallel to the segment is given.
 - 中文描述: 仅使用直尺构造线段中点。为了帮助你，我们提供了一条与该线段平行的直线。
 - 英文谚语: Everything should be made as simple as possible, but not simpler.
-- 中文谚语: 所有事都应该弄得尽量简单，但绝不是简陋。
+- 中文谚语: 凡事都该弄得尽量简便，但绝不能简陋。
 - 英文谚语作者: Albert Einstein
 - 中文谚语作者: 阿尔伯特·爱因斯坦（德国物理学家）
 
@@ -950,7 +950,7 @@
 - 英文描述: Construct a line through the point that crosses the two lines so that the interior angles are equal.
 - 中文描述: 经过指定点作一条与两条已知直线相交的直线，使两个内角相等。
 - 英文谚语: I am ever more convinced that the necessity of our (Euclidean) geometry cannot be proved — at least not by human reason for human reason.
-- 中文谚语: 我曾经相信我们欧几里得几何的必要性是无法证明的，至少不能为了人类理性而用人类理性去证明。
+- 中文谚语: 我曾经相信我们欧几里得几何的必要性是无法证明的，至少不能为了人类的原因而用人类的理性去证明。
 - 英文谚语作者: Carl Friedrich Gauss
 - 中文谚语作者: 卡尔·弗雷德里希·高斯（德国数学家、天文学家、物理学家）
 
@@ -1083,7 +1083,7 @@
 - 英文描述: Rotate the line segment 60° clockwise about the given point.
 - 中文描述: 以指定点为中心，将线段顺时针旋转 60°。
 - 英文谚语: Science is simply common sense at its best.
-- 中文谚语: 科学是以己所能掌握的简单常识。
+- 中文谚语: 科学是以己所能让人理解的简单常识。
 - 英文谚语作者: Thomas Huxley
 - 中文谚语作者: 托马斯·赫胥黎（英国博物学家）
 
@@ -1096,7 +1096,7 @@
 - 英文描述: Construct two points that divide the segment into 3 equal parts.
 - 中文描述: 构造两点，将线段平分成 3 个相等的部分。
 - 英文谚语: Three Rules of Work: Out of clutter find simplicity; From discord find harmony; In the middle of difficulty lies opportunity.
-- 中文谚语: 工作三大准则：繁中求简，乱中求谐，难中求胜。
+- 中文谚语: 工作三大准则：繁中求简，乱中求序，难中求胜。
 - 英文谚语作者: Albert Einstein
 - 中文谚语作者: 阿尔伯特·爱因斯坦（德国物理学家）
 
@@ -1109,7 +1109,7 @@
 - 英文描述: Construct points that divide the segment into three equal parts using only a straightedge. To help you, a line parallel to the segment is given.
 - 中文描述: 仅使用直尺，构造将线段平分为相等三段的点。为了帮助你，我们提供了一条与该线段平行的直线。
 - 英文谚语: Beauty is the first test: there is no permanent place in the world for ugly mathematics.
-- 中文谚语: 美是首要的标准：世上是没有丑陋数学的容身之地的。
+- 中文谚语: 美是首要的标准：世上是没有留给丑陋数学的永久容身之地的。
 - 英文谚语作者: Godfrey Hardy
 - 中文谚语作者: 高德菲·哈代（英国数学家）
 
@@ -1122,7 +1122,7 @@
 - 英文描述: Construct a chord of the larger circle through the given point that is divided into three equal segments by the smaller circle.
 - 中文描述: 经过指定点构造大圆的一条弦，使其被小圆平分成三条相等的线段。
 - 英文谚语: Mathematics is the door and key to the sciences.
-- 中文谚语: 数学是其他科学的入口和钥匙。
+- 中文谚语: 数学是通往其他科学的入口和钥匙。
 - 英文谚语作者: Roger Bacon
 - 中文谚语作者: 罗吉尔·培根（英国思想家、科学家）
 
@@ -1242,7 +1242,7 @@
 - 英文描述: Construct a line through the given point that is parallel to the two given parallel lines using only a straightedge.
 - 中文描述: 仅使用直尺，经过指定点构造一条直线，使其与两条已知平行线平行。
 - 英文谚语: It is impossible to be a mathematician without being a poet in soul.
-- 中文谚语: 灵魂中没有诗意的人是不可能成为一名数学家的。
+- 中文谚语: 灵魂中没有诗意的人是没法成为一名数学家的。
 - 英文谚语作者: Sofia Kovalevskaya
 - 中文谚语作者: 索非娅·科瓦列夫斯卡娅（俄国女性数学家）
 
@@ -1268,7 +1268,7 @@
 - 英文描述: Construct a line segment that is parallel to the bases of the trapezoid and whose length is equal to the geometric mean of their length.
 - 中文描述: 构造一条平行于梯形底边的线段，其长度等于两条底边的几何平均数。
 - 英文谚语: Mathematics is a language plus reasoning; it is like a language plus logic.
-- 中文谚语: 数学是赋予理性的语言，是增添了逻辑的语言。
+- 中文谚语: 数学是赋予理性的语言，是增添了逻辑的表达。
 - 英文谚语作者: Richard Feynman
 - 中文谚语作者: 理查德·费曼（美国物理学家）
 
@@ -1281,7 +1281,7 @@
 - 英文描述: Construct a regular pentagon inscribed in the circle. A vertex is given.
 - 中文描述: 以指定点为顶点，构造一个内接于圆的正五边形。
 - 英文谚语: Mighty is geometry; joined with art, resistless.
-- 中文谚语: 几何本已足够强大，若结合艺术，则更是如虎添翼，不可抗拒。
+- 中文谚语: 几何本已足够强大，若结合艺术，则更是如虎添翼，令人不可抗拒。
 - 英文谚语作者: Euripides
 - 中文谚语作者: 欧里庇得斯（古希腊悲剧诗人）
 
@@ -1323,7 +1323,7 @@
 - 英文描述: Construct a triangle with the given side and centroid.
 - 中文描述: 指定一边和重心，构造一个三角形。
 - 英文谚语: You are the only person on earth who can use your ability. It's an awesome responsibility.
-- 中文谚语: 你是地球上唯一可以使用你自己能力的人。这是很棒的责任。
+- 中文谚语: 你是地球上唯一可以使用你自己能力的人。这是很严肃的责任。
 - 英文谚语作者: Zig Ziglar
 - 中文谚语作者: 西格·金克拉（美国作家）
 
@@ -1377,7 +1377,7 @@
 - 英文谚语: Beauty is geometry.
 - 中文谚语: 美即几何。
 - 英文谚语作者: Joanne Rowling
-- 中文谚语作者: JK·罗琳（英国作家）
+- 中文谚语作者: J·K·罗琳（英国作家）
 
 
 
@@ -1391,7 +1391,7 @@
 - 英文描述: Construct a circle tangent to the line at the given point and to the given circle.
 - 中文描述: 构造一个圆，使其在指定点与直线相切，并与指定圆相切。
 - 英文谚语: The object of mathematical rigor is to sanction and legitimize the conquests of intuition.
-- 中文谚语: 数学精确性的目标是支持和认可直觉的成果。
+- 中文谚语: 数学保持严密性的目的是在直觉的战利品中去伪存真。
 - 英文谚语作者: Jacques Hadamard
 - 中文谚语作者: 雅克·阿达马（法国数学家）
 
@@ -1404,7 +1404,7 @@
 - 英文描述: Construct an equilateral triangle whose one vertex is given and two others lie on the two parallel lines.
 - 中文描述: 指定一个顶点，另两个顶点位于两条平行线上，构造一个等边三角形。
 - 英文谚语: The only thing I am interested in using mathematics for is to have a good time and to help others do the same.
-- 中文谚语: 在使用数学时我唯一感兴趣的一点是自娱自乐并帮助别人也享受到快乐。
+- 中文谚语: 在使用数学时另我唯一感兴趣的一点是自娱自乐也娱乐他人。
 - 英文谚语作者: Paul Lockhart
 - 中文谚语作者: 保罗·洛克哈特（美国宇航员）
 
@@ -1417,7 +1417,7 @@
 - 英文描述: Inscribe a square in the acute triangle ABC so that one of its sides lies on AC.
 - 中文描述: 在锐角三角形 ABC 中内接一个正方形，使正方形的一条边位于 AC 上。
 - 英文谚语: The line of life is a ragged diagonal between duty and desire.
-- 中文谚语: 生活的路线是责任与欲望之间的一条曲折的对角线。
+- 中文谚语: 生活的路线是责任与欲望之间的一条不规则的对角线。
 - 英文谚语作者: William Alger
 - 中文谚语作者: 威廉·阿尔格（美国作家）
 
@@ -1443,7 +1443,7 @@
 - 英文描述: Construct a circle that is tangent to the two given circles and touches one of them in the given point.
 - 中文描述: 构造一个圆，使其与两个已知圆相切，并与其中一个圆相切于指定点。
 - 英文谚语: There is still a difference between something and nothing, but it is purely geometrical and there is nothing behind the geometry.
-- 中文谚语: 在某物和无物之间还有个不同点，某物总是纯粹契合几何学，然而几何学背后则是无物的。
+- 中文谚语: 在某物和无物之间还有个不同点，某物总是纯粹契合几何学的，然而几何学背后则是无物的。
 - 英文谚语作者: Martin Gardner
 - 中文谚语作者: 马丁·加德纳（美国科普作家）
 
@@ -1485,7 +1485,7 @@
 - 英文描述: Construct the midpoint between the given points using only a compass.
 - 中文描述: 仅使用圆规构造指定两点的中点。
 - 英文谚语: Don't spoil my circles!
-- 中文谚语: 不要糟蹋我的圆！
+- 中文谚语: 别糟蹋我的圆啊！
 - 英文谚语作者: Archimedes
 - 中文谚语作者: 阿基米德（古希腊数学家、物理学家、发明家）
 
@@ -1498,7 +1498,7 @@
 - 英文描述: Construct a circle with the given center that is equal to the given circle.
 - 中文描述: 指定圆心，构造一个与已知圆半径相等的圆。
 - 英文谚语: Nothing new had been done in Logic since Aristotle!
-- 中文谚语: 自亚里士多德以来逻辑学竟并未增添任何新知。
+- 中文谚语: 自亚里士多德以来逻辑学竟没有增添任何新知。
 - 英文谚语作者: Kurt Godel
 - 中文谚语作者: 库尔特·哥德尔（美籍逻辑学家）
 
@@ -1563,7 +1563,7 @@
 - 英文描述: Drop a perpendicular from the center of the circle to the given line using only a straightedge.
 - 中文描述: 仅使用直尺，从圆心向指定直线引一条垂线。
 - 英文谚语: The only way to get at the truth about our imaginations is to use our imaginations, and that is hard work.
-- 中文谚语: 唯一获取我们想象力真相的途径就是使用想象力，而那的确是困难的工作。
+- 中文谚语: 唯一获取关于我们想象力的真相的途径就是使用我们的想象力，而那的确是艰难的工作。
 - 英文谚语作者: Paul Lockhart
 - 中文谚语作者: 保罗·洛克哈特（美国宇航员）
 
@@ -1576,7 +1576,7 @@
 - 英文描述: Construct the intersection of the circle and the line that goes through its center and the given point using only a compass.
 - 中文描述: 仅使用圆规，构造圆和经过圆心与指定点定义的直线的交点。
 - 英文谚语: Do not ask whether a statement is true until you know what it means.
-- 中文谚语: 在理解一个陈述之前，别问它是真是假。
+- 中文谚语: 在充分理解一个陈述之前，请不要问它是真是假。
 - 英文谚语作者: Errett Bishop
 - 中文谚语作者: 艾利·毕晓普（美国数学家）
 
