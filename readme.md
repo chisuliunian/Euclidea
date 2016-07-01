@@ -165,7 +165,7 @@
 - 英文描述: Drop a perpendicular from the point to the line.
 - 中文描述: 从点到直线引一条垂线段。
 - 英文谚语: The knowledge of which geometry aims is the knowledge of the eternal.
-- 中文谚语: 几何学所引领的知识是永恒的知识
+- 中文谚语: 几何学所引领的知识才是永恒的知识
 - 英文谚语作者: Plato
 - 中文谚语作者: 柏拉图（古希腊哲学家、数学家）
 
@@ -191,7 +191,7 @@
 - 英文描述: Construct a tangent to the circle at the given point.
 - 中文描述: 构造一条切线，使其与圆在已知点相切。
 - 英文谚语: If a man's wit be wandering, let him study the mathematics.
-- 中文谚语: 如果某人精力不集中，就让他去学习数学吧。
+- 中文谚语: 如果有人精力不集中，就让他去学习数学吧。
 - 英文谚语作者: Francis Bacon
 - 中文谚语作者: 弗朗西斯·培根（英国哲学家）
 
@@ -217,7 +217,7 @@
 - 英文描述: Inscribe a circle in the rhombus.
 - 中文描述: 在菱形中内接一个圆。
 - 英文谚语: The mathematician's patterns, like the painter's or the poet's must be beautiful; the ideas like the colours or the words, must fit together in a harmonious way.
-- 中文谚语: 数学家的典型，就像画家和诗人必备的美学；思维就像颜色或词汇，必须以和谐的方式融合。
+- 中文谚语: 数学家的图形，就像画家和诗人必备的美学；思维就像颜色或词汇，必须以和谐的方式相融合。
 - 英文谚语作者: Godfrey Hardy
 - 中文谚语作者: 高德菲·哈代（英国数学家）
 
@@ -246,7 +246,7 @@
 - 英文描述: Construct a segment connecting the sides of the angle to get a triangle whose orthocenter is in the point O.
 - 中文描述: 构造一条线段，使其连接角的两边，获得一个垂心为点 O 的三角形。
 - 英文谚语: A mathematician is a machine for turning coffee into theorems.
-- 中文谚语: 所谓数学家就是化咖啡为理论的机械。
+- 中文谚语: 所谓数学家就是化咖啡为理论的机器。
 - 英文谚语作者: Alfred Rényi
 - 中文谚语作者: 阿尔弗雷德·瑞尼（匈牙利数学家）
 
@@ -340,7 +340,7 @@
 - 英文描述: Construct a point C on the line AB such that |AC|=2|AB| using only a compass.
 - 中文描述: 仅使用圆规在直线 AB 上构造点 C，使得 |AC|=2|AB|。
 - 英文谚语: A mathematical truth is neither simple nor complicated in itself, it is.
-- 中文谚语: 数学事实本身既不简单也不复杂，的确。
+- 中文谚语: 数学事实本身既不简单也不复杂，的确是这样。
 - 英文谚语作者: Emile Lemoine
 - 中文谚语作者: 埃米尔·勒穆瓦纳（法国数学家、土木工程师）
 
@@ -444,7 +444,7 @@
 - 英文描述: Construct a square, given two midpoints of opposite sides.
 - 中文描述: 已知两个对边的中点，构造一个正方形。
 - 英文谚语: For the first condition to be fulfilled in Mathematics is to be exact; the second is to be as clear and simple as possible.
-- 中文谚语: 数学全能的首要条件是精确无误；次要条件是尽量简洁明了。
+- 中文谚语: 数学全能的首要条件是精确无误；次要条件则是尽量简洁明了。
 - 英文谚语作者: Lazare Carnot
 - 中文谚语作者: 拉扎尔·卡诺（法国数学家、政治家、工程师）
 
@@ -564,7 +564,7 @@
 - 英文描述: Circumscribe a square about the circle. Two its sides should be parallel to the given line.
 - 中文描述: 构造圆的外接正方形。两边应平行于已知直线。
 - 英文谚语: A round man cannot be expected to fit in a square hole right away. He must have time to modify his shape.
-- 中文谚语: 不能指望一个圆的人恰好能适配方的孔。他必须花时间雕琢自己。
+- 中文谚语: 不能指望一个圆的人一上来就恰好能适配方的孔。他必须花时间雕琢自己。
 - 英文谚语作者: Mark Twain
 - 中文谚语作者: 马克·吐温（美国作家）
 
@@ -752,7 +752,7 @@
 - 英文描述: Construct an angle of 75° with the given side.
 - 中文描述: 已知一条边，构造 75° 角。
 - 英文谚语: The human mind has first to construct forms, independently, before we can find them in things.
-- 中文谚语: 早在从万物中发现形状之前，人类已现在脑中创造了形状。
+- 中文谚语: 早在从万物中发现形状之前，人类已先在脑中创造了形状。
 - 英文谚语作者: Albert Einstein
 - 中文谚语作者: 阿尔伯特·爱因斯坦（德国物理学家）
 
@@ -817,7 +817,7 @@
 - 英文描述: Construct a segment with the ends on the sides of the angle such that the given point is its midpoint.
 - 中文描述: 已知线段的中点，构造一条线段，使其端点在角的两条边上。
 - 英文谚语: Do not worry about your difficulties in Mathematics: I can assure you mine are far greater.
-- 中文谚语: 不用担忧你在数学上的难处：我保证我的比你更多。
+- 中文谚语: 不用担忧你在数学上碰到的难处：我保证我碰到的肯定比你更多。
 - 英文谚语作者: Albert Einstein
 - 中文谚语作者: 阿尔伯特·爱因斯坦（德国物理学家）
 
@@ -830,7 +830,7 @@
 - 英文描述: Construct a line through the given point such that it cuts off equal segments on the sides of the angle.
 - 中文描述: 经过已知点构造一条直线，使直线在角的两边上分割的线段长度相等。
 - 英文谚语: There are two ways to do great mathematics. The first is to be smarter than everybody else. The second way is to be stupider than everybody else — but persistent.
-- 中文谚语: 有两种方法可以学好数学。一是比其他人都聪明。二是比其他人都笨，但更坚持。
+- 中文谚语: 有两种方法可以学好数学。一是比其他人都聪明。二是比其他人都笨，但锲而不舍。
 - 英文谚语作者: Raoul Bott
 - 中文谚语作者: 拉乌尔·伯特（匈牙利数学家）
 
@@ -856,7 +856,7 @@
 - 英文描述: Construct an excircle of the triangle formed by the three given lines.
 - 中文描述: 构造由三条已知直线组成的三角形的外切圆。
 - 英文谚语: It is easy to go from the house of reality to the forest of mathematics, but only few know how to go back.
-- 中文谚语: 从现实的房子走向数学的森林容易，但很少有人知道回头路。
+- 中文谚语: 从现实的房子走向数学的森林容易，但很少有人知道走回头路。
 - 英文谚语作者: Hugo Steinhaus
 - 中文谚语作者: 雨果·斯廷豪斯（波兰数学家）
 
@@ -950,7 +950,7 @@
 - 英文描述: Construct a line through the point that crosses the two lines so that the interior angles are equal.
 - 中文描述: 经过两条直线的交点构造一条直线，使两个内角相等。
 - 英文谚语: I am ever more convinced that the necessity of our (Euclidean) geometry cannot be proved — at least not by human reason for human reason.
-- 中文谚语: 我曾经相信我们欧几里得几何的必要性是无法证明的，至少不能为了人类理性而用人类理性证明。
+- 中文谚语: 我曾经相信我们欧几里得几何的必要性是无法证明的，至少不能为了人类理性而用人类理性去证明。
 - 英文谚语作者: Carl Friedrich Gauss
 - 中文谚语作者: 卡尔·弗雷德里希·高斯（德国数学家、天文学家、物理学家）
 
@@ -976,7 +976,7 @@
 - 英文描述: Construct a line segment that is parallel to the bases of the trapezoid and is divided to three equal parts by its diagonals.
 - 中文描述: 构造一条线段，使其与梯形底边平行，且被梯形对角线分成三个相等的部分。
 - 英文谚语: It is hard to convince a high-school student that he will encounter a lot of problems more difficult than those of algebra and geometry.
-- 中文谚语: 要说服一个高中生他以后会遇到比代数和几何更困难的问题是很难的。
+- 中文谚语: 要说服一个高中生他以后会遇到比代数和几何更困难的问题是挺难的。
 - 英文谚语作者: Edgar Watson Howe
 - 中文谚语作者: 埃德加·艾森·豪（美国小说家）
 
@@ -1015,7 +1015,7 @@
 - 英文描述: Construct a segment connecting the sides of the angle to get a triangle whose centroid is in the point O.
 - 中文描述: 构造一条线段，使其连接角的两边，获得一个几何中心为点 O的三角形。
 - 英文谚语: I think, therefore I am.
-- 中文谚语: 我思考，故我在。
+- 中文谚语: 我思故我在。
 - 英文谚语作者: Rene Descartes
 - 中文谚语作者: 勒奈·笛卡尔（法国哲学家、数学家）
 
@@ -1135,7 +1135,7 @@
 - 英文描述: Construct a point on the line segment that divides it in the ratio 1 : 5.
 - 中文描述: 在线段上构造一点，使其按比例 1:5 分割线段。
 - 英文谚语: In mathematics the art of proposing a question must be held of higher value than solving it.
-- 中文谚语: 爱数学中提问的艺术价值必须比解谜设置得更高。
+- 中文谚语: 在数学中提问的艺术价值必须比解谜设置得更高。
 - 英文谚语作者: Georg Cantor
 - 中文谚语作者: 格奥尔格·康托（德国数学家）
 
@@ -1203,7 +1203,7 @@
 - 英文描述: Construct a point on the given ray to get a segment with length equal to the geometric mean of two adjacent segments.
 - 中文描述: 在已知射线上构造一个点，获得一条长度等于两条相邻线段几何平均数的线段。
 - 英文谚语: Mathematics is the part of physics where experiments are cheap.
-- 中文谚语: 数学是物理的一部分，但做实验要廉价得多。
+- 中文谚语: 数学是物理的一部分，但做实验要便宜得多。
 - 英文谚语作者: Vladimir Arnold
 - 中文谚语作者: 弗拉基米尔·阿诺德（俄国数学家）
 
@@ -1216,7 +1216,7 @@
 - 英文描述: Construct a point that divides the segment in the "golden section".
 - 中文描述: 构造一点，将线段以"黄金分割"比例分割。
 - 英文谚语: The Golden ratio has inspired thinkers of all disciplines like no other number in the history of mathematics.
-- 中文谚语: 在数学史中没有任何数字像黄金分割比那样启发了所有学科的思想者们。
+- 中文谚语: 在数学史中没有任何数字像黄金分割比那样启发了那么多学科的思想者们。
 - 英文谚语作者: Mario Livio
 - 中文谚语作者: 马里奥·利维奥（美国天文学界）
 
@@ -1281,7 +1281,7 @@
 - 英文描述: Construct a regular pentagon inscribed in the circle. A vertex is given.
 - 中文描述: 一个顶点已知，构造一个内接于圆的正五边形。
 - 英文谚语: Mighty is geometry; joined with art, resistless.
-- 中文谚语: 几何本已足够强大，结合艺术，则如虎添翼，不可抗拒。
+- 中文谚语: 几何本已足够强大，若结合艺术，则更是如虎添翼，不可抗拒。
 - 英文谚语作者: Euripides
 - 中文谚语作者: 欧里庇得斯（古希腊悲剧诗人）
 
@@ -1456,7 +1456,7 @@
 - 英文描述: Construct a circle that goes through the two given points and that is tangent to the given line.
 - 中文描述: 经过已知两点构造一个圆，使其相切于已知直线。
 - 英文谚语: The very smallest errors in mathematical matters are not to be neglected.
-- 中文谚语: 数学领域中最小的错误也不能被忽视。
+- 中文谚语: 数学领域中最小的错误也不能被忽略。
 - 英文谚语作者: Isaac Newton
 - 中文谚语作者: 艾萨克·牛顿（英国物理学家、数学家）
 
@@ -1469,7 +1469,7 @@
 - 英文描述: Construct a right triangle with the given hypotenuse and the tangent point of its incircle.
 - 中文描述: 已知斜边和直角三角形内切圆的切点，构造一个直角三角形。
 - 英文谚语: Since we cannot know all that there is to be known about anything, we ought to know a little about everything.
-- 中文谚语: 既然我们无法了解有关任何东西的所有事，我们应该尽量去了解有关所有东西的一些事。
+- 中文谚语: 既然我们无法了解有关任何东西的所有事，我们就应该尽量去了解有关所有东西的一些事。
 - 英文谚语作者: Blaise Pascal
 - 中文谚语作者: 布莱士·帕斯卡（法国哲学家、数学家、概率论奠基人）
 
@@ -1498,7 +1498,7 @@
 - 英文描述: Construct a circle with the given center that is equal to the given circle.
 - 中文描述: 已知圆心，构造一个与已知圆半径相等的圆。
 - 英文谚语: Nothing new had been done in Logic since Aristotle!
-- 中文谚语: 自亚里士多德以来逻辑学没增加任何新知。
+- 中文谚语: 自亚里士多德以来逻辑学没增添任何新知。
 - 英文谚语作者: Kurt Godel
 - 中文谚语作者: 库尔特·哥德尔（美籍逻辑学家）
 
@@ -1511,7 +1511,7 @@
 - 英文描述: Construct the intersection of the circle and the line defined by the two given points using only a compass.
 - 中文描述: 仅使用圆规构造圆和由两个已知点定义的直线的交点。
 - 英文谚语: A mathematician, like a painter or a poet, is a maker of patterns. If his patterns are more permanent than theirs, it is because they are made with ideas.
-- 中文谚语: 一名数学家，就像画家或诗人，是图案的制造者。如果他图案比其他人更长久，那是因为它们是用思想造出来的。
+- 中文谚语: 一名数学家，就像画家或诗人，是图形的制造者。如果他图形比其他人更长久，那是因为它们是用思想造出来的。
 - 英文谚语作者: Godfrey Hardy
 - 中文谚语作者: 高德菲·哈罗德·哈代（英国数学家）
 
