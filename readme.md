@@ -1387,9 +1387,9 @@
 - Level 12.1
 - ![12.1](images/level/circle-tangent-c-l.png) 
 - 英文标题: Circle Tangent to Line and Circle
-- 中文标题: 与直线和圆相切的圆
+- 中文标题: 直线和圆的公切圆
 - 英文描述: Construct a circle tangent to the line at the given point and to the given circle.
-- 中文描述: 构造一个圆，使其在指定点与直线相切，并与指定圆相切。
+- 中文描述: 构造一个圆，使其在指定点与直线相切，并与已知圆相切。
 - 英文谚语: The object of mathematical rigor is to sanction and legitimize the conquests of intuition.
 - 中文谚语: 数学保持严密性的目的是在直觉的战利品中去伪存真。
 - 英文谚语作者: Jacques Hadamard
@@ -1415,7 +1415,7 @@
 - 英文标题: Square in Triangle
 - 中文标题: 三角形的内接正方形
 - 英文描述: Inscribe a square in the acute triangle ABC so that one of its sides lies on AC.
-- 中文描述: 在锐角三角形 ABC 中内接一个正方形，使正方形的一条边位于 AC 上。
+- 中文描述: 在锐角三角形 ABC 中作一个内接正方形，使正方形的一条边位于 AC 上。
 - 英文谚语: The line of life is a ragged diagonal between duty and desire.
 - 中文谚语: 生活的路线是责任与欲望之间的一条不规则的对角线。
 - 英文谚语作者: William Alger
@@ -1426,7 +1426,7 @@
 - Level 12.4
 - ![12.4](images/level/equidistant2.png) 
 - 英文标题: Point Equidistant from Side of Angle and Point
-- 中文标题: 点与角的边和点等距
+- 中文标题: 与定点和角边等距的点
 - 英文描述: Given an angle ABC and a point M inside it, find points D on BA and E on BC and construct segments MD and DE of equal length so that DE is perpendicular to BC.
 - 中文描述: 已知角 ABC 和其内一点 M，在 BA 和 BC 上分别找到点 D 和 E，构造长度相等的线段 MD 和 DE，使 DE 垂直于 BC。
 - 英文谚语: You can't criticize geometry. It's never wrong.
@@ -1452,9 +1452,9 @@
 - Level 12.6
 - ![12.6](images/level/circle-tangent-p-p-l.png) 
 - 英文标题: Circle Through Two Points and Tangent to Line
-- 中文标题: 经过两点且与直线相切的圆
+- 中文标题: 过两点且与直线相切的圆
 - 英文描述: Construct a circle that goes through the two given points and that is tangent to the given line.
-- 中文描述: 经过指定两点构造一个圆，使其与指定直线相切。
+- 中文描述: 过指定两点构造一个圆，使其与指定直线相切。
 - 英文谚语: The very smallest errors in mathematical matters are not to be neglected.
 - 中文谚语: 数学领域中即使再小的错误也不能被忽略。
 - 英文谚语作者: Isaac Newton
@@ -1509,7 +1509,7 @@
 - 英文标题: Line-Circle Intersection
 - 中文标题: 直线与圆的交点
 - 英文描述: Construct the intersection of the circle and the line defined by the two given points using only a compass.
-- 中文描述: 仅使用圆规构造指定圆和由两个指定点定义的直线的交点。
+- 中文描述: 仅使用圆规构造由两个指定点定义的直线与已知圆的交点。
 - 英文谚语: A mathematician, like a painter or a poet, is a maker of patterns. If his patterns are more permanent than theirs, it is because they are made with ideas.
 - 中文谚语: 一名数学家，就像画家或诗人，是款式的创造者。如果他的款式比其他人流传更长久，那是因为它们是用思想锤炼出来的。
 - 英文谚语作者: Godfrey Hardy
@@ -1574,7 +1574,7 @@
 - 英文标题: Line-Circle Intersection*
 - 中文标题: 直线与圆的交点*
 - 英文描述: Construct the intersection of the circle and the line that goes through its center and the given point using only a compass.
-- 中文描述: 仅使用圆规，构造圆和经过圆心与指定点定义的直线的交点。
+- 中文描述: 仅使用圆规，构造由圆心与指定点定义的直线与已知圆的交点。
 - 英文谚语: Do not ask whether a statement is true until you know what it means.
 - 中文谚语: 在充分理解一个陈述之前，请不要问它是真是假。
 - 英文谚语作者: Errett Bishop
@@ -1587,7 +1587,7 @@
 - 英文标题: Circle with Center on Line
 - 中文标题: 圆心在直线上的圆
 - 英文描述: Construct a circle with the center on the given line so that it passes through the given point and tangent to the given circle.
-- 中文描述: 构造一个圆，圆心位于指定直线上，使圆经过指定点且与指定圆相切。
+- 中文描述: 构造一个圆，圆心位于指定直线上，并使其经过指定点且与指定圆相切。
 - 英文谚语: A mind is a fire to be kindled, not a vessel to be filled.
 - 中文谚语: 思想是待点燃的火苗，而不是待填满的容器。
 - 英文谚语作者: Plutarch
