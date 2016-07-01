@@ -1190,9 +1190,9 @@
 - 英文描述: Construct a point D on the ray OC such that the segment OD is the fourth proportional to the given segments.
 - 中文描述: 在射线 OC 上构造点 D，使线段 OD 为已知线段的第四比例项。
 - 英文谚语: Mathematics is concerned only with the enumeration and comparison of relations.
-- 中文谚语:
+- 中文谚语: 数学关注的只是数字运算和关系比较。
 - 英文谚语作者: Friedrich Gauss
-- 中文谚语作者:
+- 中文谚语作者: 弗莱德里希·高斯（德国数学家）
 
 
 #### GeometricMean
@@ -1203,9 +1203,9 @@
 - 英文描述: Construct a point on the given ray to get a segment with length equal to the geometric mean of two adjacent segments.
 - 中文描述: 在已知射线上构造一个点，获得一条长度等于两条相邻线段几何平均数的线段。
 - 英文谚语: Mathematics is the part of physics where experiments are cheap.
-- 中文谚语:
+- 中文谚语: 数学是物理的一部分，但做实验要廉价得多。
 - 英文谚语作者: Vladimir Arnold
-- 中文谚语作者:
+- 中文谚语作者: 弗拉基米尔·阿诺德（俄国数学家）
 
 
 #### GoldenSection
@@ -1216,9 +1216,9 @@
 - 英文描述: Construct a point that divides the segment in the "golden section".
 - 中文描述: 构造一点，将线段以"黄金分割"比例分割。
 - 英文谚语: The Golden ratio has inspired thinkers of all disciplines like no other number in the history of mathematics.
-- 中文谚语:
+- 中文谚语: 在数学史中没有任何数字像黄金分割比那样启发了所有学科的思想者们。
 - 英文谚语作者: Mario Livio
-- 中文谚语作者:
+- 中文谚语作者: 马里奥·利维奥（美国天文学界）
 
 
 #### Angle54
@@ -1229,9 +1229,9 @@
 - 英文描述: Construct an angle of 54° with the given side.
 - 中文描述: 已知一条边，构造 54° 角。
 - 英文谚语: The scientist is not a person who gives the right answers, he's one who asks the right questions.
-- 中文谚语:
+- 中文谚语: 科学家不是提供正确答案的人，而是提出正确问题的人。
 - 英文谚语作者: Claude Levi-Strauss
-- 中文谚语作者:
+- 中文谚语作者: 克劳德·列维－施特劳斯（法国哲学家、人类学家）
 
 
 #### L3Parallel
@@ -1242,9 +1242,9 @@
 - 英文描述: Construct a line through the given point that is parallel to the two given parallel lines using only a straightedge.
 - 中文描述: 仅使用直尺，经过已知点构造一条直线，使其与两条已知平行线平行。
 - 英文谚语: It is impossible to be a mathematician without being a poet in soul.
-- 中文谚语:
+- 中文谚语: 灵魂中没有诗意是不可能成为一名数学家的。
 - 英文谚语作者: Sofia Kovalevskaya
-- 中文谚语作者:
+- 中文谚语作者: 索非娅·科瓦列夫斯卡娅（俄国女性数学家）
 
 
 #### CircleInAngle
@@ -1255,9 +1255,9 @@
 - 英文描述: Construct a circle through the given point that is tangent to both sides of the angle.
 - 中文描述: 经过指定点构造一个圆，使其相切于角的两条边。
 - 英文谚语: The mathematical sciences particularly exhibit order symmetry and limitations; and these are the greatest forms of the beautiful.
-- 中文谚语:
+- 中文谚语: 数学科学将秩序的对称和极限具体展示出来，这些正是美的最佳形式。
 - 英文谚语作者: Aristotle
-- 中文谚语作者: 亚里士多德
+- 中文谚语作者: 亚里士多德（古希腊哲学家、数学家）
 
 
 #### TrapezoidGeomMean
@@ -1268,9 +1268,9 @@
 - 英文描述: Construct a line segment that is parallel to the bases of the trapezoid and whose length is equal to the geometric mean of their length.
 - 中文描述: 构造一条平行于梯形底边的线段，其长度等于两条底边的几何平均数。
 - 英文谚语: Mathematics is a language plus reasoning; it is like a language plus logic.
-- 中文谚语:
+- 中文谚语: 数学是赋予理性的语言，是增添了逻辑的语言。
 - 英文谚语作者: Richard Feynman
-- 中文谚语作者:
+- 中文谚语作者: 理查德·费曼（美国物理学家）
 
 
 #### Pentagon
@@ -1281,9 +1281,9 @@
 - 英文描述: Construct a regular pentagon inscribed in the circle. A vertex is given.
 - 中文描述: 一个顶点已知，构造一个内接于圆的正五边形。
 - 英文谚语: Mighty is geometry; joined with art, resistless.
-- 中文谚语:
+- 中文谚语: 几何本已足够强大，结合艺术，则如虎添翼，不可抗拒。
 - 英文谚语作者: Euripides
-- 中文谚语作者:
+- 中文谚语作者: 欧里庇得斯（古希腊悲剧诗人）
 
 
 #### Angle3
@@ -1294,9 +1294,9 @@
 - 英文描述: Construct an angle of 3° with the given side.
 - 中文描述: 已知一条边，构造 3° 角。
 - 英文谚语: Like all other sciences, mathematics arose out of the needs of men: from the measurement of land and the content of vessels, from the computation of time and from mechanics.
-- 中文谚语:
+- 中文谚语: 如同其他学科一样，数学升华于人类的需求：始于丈量土地和测量容积，始于计量时间，始于机械。
 - 英文谚语作者: Friedrich Engels
-- 中文谚语作者:
+- 中文谚语作者:弗莱德里希·恩格斯（德国哲学家）
 
 
 
