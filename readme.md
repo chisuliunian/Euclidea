@@ -473,9 +473,9 @@
 - 英文描述: Construct a line parallel to the given line through the given point.
 - 中文描述: 经过已知点构造一条与已知直线平行的直线。
 - 英文谚语: It is ignorance alone that could lead anyone to try to prove the axiom.
-- 中文谚语:
+- 中文谚语: 只有无知才会让人试图去证明公理。
 - 英文谚语作者: Aristotle
-- 中文谚语作者: 亚里士多德
+- 中文谚语作者: 亚里士多德（古希腊哲学家、数学家）
 
 
 #### Parallelogram3V
@@ -486,9 +486,9 @@
 - 英文描述: Construct a parallelogram whose three of four vertices are given.
 - 中文描述: 已知四个顶点中的三个，构造一个平行四边形。
 - 英文谚语: Logic is invincible, because in order to combat logic it is necessary to use logic.
-- 中文谚语:
+- 中文谚语: 逻辑是无敌的，因为要战胜逻辑，你不得不使用逻辑。
 - 英文谚语作者: Pierre Boutroux
-- 中文谚语作者:
+- 中文谚语作者: 皮埃尔·布特鲁（法国数学家）
 
 
 #### LineAlongPoints
@@ -499,9 +499,9 @@
 - 英文描述: Construct a line through the point C and at equal distance from the points A and B but that does not pass between them.
 - 中文描述: 经过点 C 构造一条直线，使其距点 A 和 B 的距离相等，但直线不通过点 A 和 B 之间。
 - 英文谚语: Mathematics is a tool for reasoning.
-- 中文谚语:
+- 中文谚语: 数学是推理的工具。
 - 英文谚语作者: Richard Feynman
-- 中文谚语作者:
+- 中文谚语作者: 理查德·费曼（美国物理学家）
 
 
 #### LineBetweenPoints
@@ -512,9 +512,9 @@
 - 英文描述: Construct a line through the point C that goes between the points A and B and that is at equal distance from them.
 - 中文描述: 经过点 C 构造一条直线，使其通过点 A 和 B 之间，且距点 A 和 B 的距离相等。
 - 英文谚语: Mathematics is the science of those things that are clear in and of themselves.
-- 中文谚语:
+- 中文谚语: 数学是能自洽的科学。
 - 英文谚语作者: Carl Jacobi
-- 中文谚语作者:
+- 中文谚语作者: 卡尔·雅可比（（德国数学家）
 
 
 #### TrapezoidMedian
@@ -525,9 +525,9 @@
 - 英文描述: Construct a line segment that is parallel to the bases of the trapezoid and whose length is equal to the arithmetic mean of their length.
 - 中文描述: 构造一条平行于梯形底边的线段，长度等于两条底边的算术平均数。
 - 英文谚语: Mathematics is the language with which God wrote the universe.
-- 中文谚语:
+- 中文谚语: 数学是上帝描述宇宙的语言。
 - 英文谚语作者: Galileo Galilei
-- 中文谚语作者:
+- 中文谚语作者: 伽俐略·伽利莱（意大利数学家、物理学家）
 
 
 #### Hash
@@ -538,9 +538,9 @@
 - 英文描述: Construct a line through the given point on which two pairs of parallel lines cut off equal line segments.
 - 中文描述: 经过已知点构造一条直线，上面的两对平行线平分线段。
 - 英文谚语: No other science than mathematics strengthens so much our faith in the power of the human mind.
-- 中文谚语:
+- 中文谚语: 没有任何学科像数学一样令我们坚信人类智慧的力量。
 - 英文谚语作者: Hugo Steinhaus
-- 中文谚语作者:
+- 中文谚语作者: 雨果·斯廷豪斯（波兰数学家）
 
 
 #### ShiftAngle
@@ -551,9 +551,9 @@
 - 英文描述: Construct an angle from the given point that is equal to the given angle so that their sides are parallel.
 - 中文描述: 从已知点构造一个角，使其与已知角相等且两条边与已知角的边平行。
 - 英文谚语: Geometry is the real life.
-- 中文谚语:
+- 中文谚语: 几何即人生。
 - 英文谚语作者: Oscar Zariski
-- 中文谚语作者:
+- 中文谚语作者: 奥斯卡·扎里斯基（犹太裔美国数学家）
 
 
 #### SquareAboutCircle
@@ -564,9 +564,9 @@
 - 英文描述: Circumscribe a square about the circle. Two its sides should be parallel to the given line.
 - 中文描述: 构造圆的外接正方形。两边应平行于已知直线。
 - 英文谚语: A round man cannot be expected to fit in a square hole right away. He must have time to modify his shape.
-- 中文谚语:
+- 中文谚语: 不能指望一个圆的人恰好能适配方的孔。他必须花时间雕琢自己的形状。
 - 英文谚语作者: Mark Twain
-- 中文谚语作者:
+- 中文谚语作者: 马克·吐温（美国作家）
 
 
 #### SquareInSquare
@@ -577,9 +577,9 @@
 - 英文描述: Inscribe a square in the square. A vertex is given.
 - 中文描述: 顶点已知，在正方形中内接一个正方形。
 - 英文谚语: If you wish to learn swimming you have to go into the water and if you wish to become a problem solver you have to solve problems.
-- 中文谚语:
+- 中文谚语: 要学会游泳你必须先入水，要做解题能手你必须先做题。
 - 英文谚语作者: George Pólya
-- 中文谚语作者:
+- 中文谚语作者: 乔治·波利亚（美国数学家）
 
 
 #### HexagonBySide
@@ -590,9 +590,9 @@
 - 英文描述: Construct a regular hexagon with the given side.
 - 中文描述: 已知一条边，构造正六边形。
 - 英文谚语: If only I had the theorems! Then I should find the proofs easily enough.
-- 中文谚语:
+- 中文谚语: 要是我早知道这个定理就好了！这样我就能很容易找到证明啦。
 - 英文谚语作者: Bernard Riemann
-- 中文谚语作者:
+- 中文谚语作者: 伯纳德·黎曼（德国数学家）
 
 
 
@@ -1592,4 +1592,3 @@
 - 中文谚语:
 - 英文谚语作者: Plutarch
 - 中文谚语作者:
-
