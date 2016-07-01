@@ -1319,9 +1319,9 @@
 - Level 11.2
 - ![11.2](images/level/tr-by-side-and-centroid.png) 
 - 英文标题: Triangle by Side and Centroid
-- 中文标题: 根据边和几何中心构造三角形
+- 中文标题: 根据边和重心构造三角形
 - 英文描述: Construct a triangle with the given side and centroid.
-- 中文描述: 已知边和几何中心，构造一个三角形。
+- 中文描述: 已知边和重心，构造一个三角形。
 - 英文谚语: You are the only person on earth who can use your ability. It's an awesome responsibility.
 - 中文谚语: 你是地球上唯一可以使用你自己能力的人。这是很棒的责任。
 - 英文谚语作者: Zig Ziglar
@@ -1332,9 +1332,9 @@
 - Level 11.3
 - ![11.3](images/level/tr-by-altitude-bases.png) 
 - 英文标题: Triangle by Altitude Base Points
-- 中文标题: 根据顶垂线底边上的点构造三角形
+- 中文标题: 根据高的垂足构造三角形
 - 英文描述: Construct a triangle whose altitude base points are given.
-- 中文描述: 已知三角形的顶垂线和底边上的点，构造一个三角形。
+- 中文描述: 已知三角形三条高的垂足，构造一个三角形。
 - 英文谚语: One quickly realizes that simplicity and geometry are the language of timelessness and universality.
 - 中文谚语: 一个人很快会意识到简洁和几何学是通用和不朽的语言。
 - 英文谚语作者: Paul Rand
@@ -1345,9 +1345,9 @@
 - Level 11.4
 - ![11.4](images/level/tr-by-incircle-bases.png) 
 - 英文标题: Triangle by Tangent Points
-- 中文标题: 根据切线上的点构造三角形
+- 中文标题: 根据切点构造三角形
 - 英文描述: Construct a triangle with the three given points where its incircle touches its sides.
-- 中文描述: 已知三个点构造一个三角形，其内切圆与其内切于这三个点。
+- 中文描述: 已知三个点，构造一个三角形，其内切圆与其内切于这三个点。
 - 英文谚语: Music is the arithmetic of sounds as optics is the geometry of light.
 - 中文谚语: 音乐是声音的算术，而光学是光的几何。
 - 英文谚语作者: Claude Debussy
@@ -1371,13 +1371,13 @@
 - Level 11.6
 - ![11.6](images/level/r-tr-by2-side-points.png) 
 - 英文标题: Right Triangle by Two Points on Legs
-- 中文标题: 根据直角边上的两点构造直角三角形
+- 中文标题: 以直角边上的两点构造直角三角形
 - 英文描述: Inscribe a right triangle into the circle so that the two given points lie on its two legs respectively. The center of the circle is in the point O.
-- 中文描述: 在圆中内接一个直接三角形，使两个已知点分别位于两条直角边上。圆心位于点 O。
+- 中文描述: 在圆中内接一个直角三角形，使两个已知点分别位于两条直角边上。圆心位于点 O。
 - 英文谚语: Beauty is geometry.
 - 中文谚语: 美即几何。
 - 英文谚语作者: Joanne Rowling
-- 中文谚语作者: 乔安·罗琳（英国作家）
+- 中文谚语作者: JK·罗琳（英国作家）
 
 
 
@@ -1406,7 +1406,7 @@
 - 英文谚语: The only thing I am interested in using mathematics for is to have a good time and to help others do the same.
 - 中文谚语: 在使用数学时我唯一感兴趣的一点是快乐并帮助别人也感到快乐。
 - 英文谚语作者: Paul Lockhart
-- 中文谚语作者: 保罗·拉洛克哈特（美国宇航员）
+- 中文谚语作者: 保罗·洛克哈特（美国宇航员）
 
 
 #### SquareInTriangle
@@ -1456,7 +1456,7 @@
 - 英文描述: Construct a circle that goes through the two given points and that is tangent to the given line.
 - 中文描述: 经过已知两点构造一个圆，使其相切于已知直线。
 - 英文谚语: The very smallest errors in mathematical matters are not to be neglected.
-- 中文谚语: 数学领域中最小的错误也不能被忽略。
+- 中文谚语: 数学领域中即使再小的错误也不能被忽略。
 - 英文谚语作者: Isaac Newton
 - 中文谚语作者: 艾萨克·牛顿（英国物理学家、数学家）
 
@@ -1469,7 +1469,7 @@
 - 英文描述: Construct a right triangle with the given hypotenuse and the tangent point of its incircle.
 - 中文描述: 已知斜边和直角三角形内切圆的切点，构造一个直角三角形。
 - 英文谚语: Since we cannot know all that there is to be known about anything, we ought to know a little about everything.
-- 中文谚语: 既然我们无法了解有关任何东西的所有事，我们就应该尽量去了解有关所有东西的一些事。
+- 中文谚语: 既然我们无法了解有关任何东西的所有事，我们就应该尽量去了解有关所有东西的一些事吧。
 - 英文谚语作者: Blaise Pascal
 - 中文谚语作者: 布莱士·帕斯卡（法国哲学家、数学家、概率论奠基人）
 
@@ -1498,7 +1498,7 @@
 - 英文描述: Construct a circle with the given center that is equal to the given circle.
 - 中文描述: 已知圆心，构造一个与已知圆半径相等的圆。
 - 英文谚语: Nothing new had been done in Logic since Aristotle!
-- 中文谚语: 自亚里士多德以来逻辑学没增添任何新知。
+- 中文谚语: 自亚里士多德以来逻辑学并未增添任何新知。
 - 英文谚语作者: Kurt Godel
 - 中文谚语作者: 库尔特·哥德尔（美籍逻辑学家）
 
@@ -1511,7 +1511,7 @@
 - 英文描述: Construct the intersection of the circle and the line defined by the two given points using only a compass.
 - 中文描述: 仅使用圆规构造圆和由两个已知点定义的直线的交点。
 - 英文谚语: A mathematician, like a painter or a poet, is a maker of patterns. If his patterns are more permanent than theirs, it is because they are made with ideas.
-- 中文谚语: 一名数学家，就像画家或诗人，是图形的制造者。如果他图形比其他人更长久，那是因为它们是用思想造出来的。
+- 中文谚语: 一名数学家，就像画家或诗人，是图形的创造者。如果他图形比其他人更长久，那是因为它们是用思想打造出来的。
 - 英文谚语作者: Godfrey Hardy
 - 中文谚语作者: 高德菲·哈罗德·哈代（英国数学家）
 
@@ -1550,7 +1550,7 @@
 - 英文描述: Construct the center of the given circle using only a compass.
 - 中文描述: 仅使用圆规，构造已知圆的圆心。
 - 英文谚语: The advancement and perfection of mathematics are intimately connected with the prosperity of the state.
-- 中文谚语: 数学的先进和完美是与国家的繁荣紧密相关的。
+- 中文谚语: 数学的发展与完善是与国家的繁荣昌盛息息相关的。
 - 英文谚语作者: Napoléon Bonaparte
 - 中文谚语作者: 拿破仑·波拿巴（法国军事家、政治家）
 
