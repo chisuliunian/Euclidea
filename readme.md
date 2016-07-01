@@ -45,7 +45,7 @@
 - 英文描述: Inscribe a circle in the square.
 - 中文描述: 在正方形中内接一个圆。
 - 英文谚语: You can't fit a round peg in a square hole.
-- 中文谚语: 你是没法用圆木钉塞满方孔的。
+- 中文谚语: 格格不入/你是没法用圆木钉塞满方孔的。
 - 英文谚语作者: American proverb
 - 中文谚语作者: 美国谚语
 
@@ -564,7 +564,7 @@
 - 英文描述: Circumscribe a square about the circle. Two its sides should be parallel to the given line.
 - 中文描述: 构造圆的外接正方形。两边应平行于已知直线。
 - 英文谚语: A round man cannot be expected to fit in a square hole right away. He must have time to modify his shape.
-- 中文谚语: 不能指望一个圆的人恰好能适配方的孔。他必须花时间雕琢自己的形状。
+- 中文谚语: 不能指望一个圆的人恰好能适配方的孔。他必须花时间雕琢自己。
 - 英文谚语作者: Mark Twain
 - 中文谚语作者: 马克·吐温（美国作家）
 
@@ -604,11 +604,11 @@
 - 英文标题: Point Reflection
 - 中文标题: 点反射
 - 英文描述: Reflect the segment across the point.
-- 中文描述: 绕点反射线段。
+- 中文描述: 作已知线段关于定点的对称线段。
 - 英文谚语: Symmetry is one of the ideas by which man through the ages has tried to comprehend and create order, beauty, and perfection.
-- 中文谚语:
+- 中文谚语: 对称是人类从古至今试图理解和创造秩序、美丽和完美的法则。
 - 英文谚语作者: Hermann Weyl
-- 中文谚语作者:
+- 中文谚语作者: 赫尔曼·威尔（德国数学家）
 
 
 #### MirrorSeg
@@ -619,9 +619,9 @@
 - 英文描述: Reflect the segment across the line.
 - 中文描述: 绕直线反射线段。
 - 英文谚语: Symmetry is what we see at a glance; based on the fact that there is no reason for any difference...
-- 中文谚语:
+- 中文谚语: 对称是基于没有理由存在任何差异的事实而让我们看到的惊鸿一瞥。
 - 英文谚语作者: Blaise Pascal
-- 中文谚语作者: 布莱士·帕斯卡
+- 中文谚语作者: 布莱士·帕斯卡（法国哲学家、数学家，概率论奠基人）
 
 
 #### ShiftSegment
@@ -632,9 +632,9 @@
 - 英文描述: Construct a segment from the given point that is equal to the given segment and lies on the same line with it.
 - 中文描述: 已知一点，构造一条与已知线段长度相等的线段，且两条线段均位于同一条直线上。
 - 英文谚语: Let no man who is not a Mathematician read the elements of my work.
-- 中文谚语:
+- 中文谚语: 要让任何不是数学家的人都能读懂我作品的原理。
 - 英文谚语作者: Leonardo da Vinci
-- 中文谚语作者:
+- 中文谚语作者: 莱奥纳多·达·芬奇（意大利科学家、艺术家）
 
 
 #### GivenAngleBisector
@@ -645,9 +645,9 @@
 - 英文描述: Construct two straight lines through the two given points respectively so that the given line is a bisector of the angle that they make.
 - 中文描述: 分别通过两个已知点构造两条直线，使已知直线成为由构造的直线组成的角的角平分线。
 - 英文谚语: I would live to study, and not study to live.
-- 中文谚语:
+- 中文谚语: 我要为研究而生，而不是是为生而研究。
 - 英文谚语作者: Francis Bacon
-- 中文谚语作者:
+- 中文谚语作者: 弗朗西斯·培根（英国哲学家）
 
 
 #### CircleByRadius
@@ -658,9 +658,9 @@
 - 英文描述: Construct a circle with the given center and the radius equal to the length of the given segment.
 - 中文描述: 已知圆心，构造一个半径和已知线段长度相等的圆。
 - 英文谚语: There is nothing strange in the circle being the origin of any and every marvel.
-- 中文谚语:
+- 中文谚语: 圆是一切奇迹之源，这一点也不奇怪。
 - 英文谚语作者: Aristotle
-- 中文谚语作者: 亚里士多德
+- 中文谚语作者: 亚里士多德（古希腊哲学家、数学家）
 
 
 #### TranslateSegment
@@ -671,9 +671,9 @@
 - 英文描述: Construct a segment from the given point parallel and equal to the given segment.
 - 中文描述: 已知点，构造一条与已知线段平行且相等的线段。
 - 英文谚语: Mathematics is a game played according to certain rules with meaningless marks on paper.
-- 中文谚语:
+- 中文谚语: 数学是一种按照特定规则在纸上作着各种无聊标记的游戏。
 - 英文谚语作者: David Hilbert
-- 中文谚语作者:
+- 中文谚语作者: 大卫·希尔伯特（德国数学家）
 
 
 #### TriangleBySides
@@ -684,9 +684,9 @@
 - 英文描述: Construct a triangle with the side AB and the two other sides equal to the given segments.
 - 中文描述: 已知边 AB 和其他两条与已知线段长度相等的边，构造一个三角形。
 - 英文谚语: One geometry cannot be more true than another; it can only be more convenient.
-- 中文谚语:
+- 中文谚语: 一种几何学并不显得比其他的更正确，它只是更方便。
 - 英文谚语作者: Henri Poincaré
-- 中文谚语作者:
+- 中文谚语作者: 昂立·庞加莱（法国数学家）
 
 
 #### HypotenuseAndLeg
@@ -697,9 +697,9 @@
 - 英文描述: Construct a right triangle with the given hypotenuse AB and whose leg is equal to the given segment.
 - 中文描述: 已知斜边 AB，构造一个直角三角形，使直角边的长度与已知线段的长度相等。
 - 英文谚语: The best way to make mathematics interesting to students and laymen is to approach it in a spirit of play.
-- 中文谚语:
+- 中文谚语: 让数学对学生和外行来说更有趣的最好办法就是寓教于乐。
 - 英文谚语作者: Martin Gardner
-- 中文谚语作者:
+- 中文谚语作者: 马丁·加德纳（美国科普作家）
 
 
 #### ParallelogramBySP
@@ -710,9 +710,9 @@
 - 英文描述: Construct a parallelogram with the given side and the midpoint of the opposite side in the given point.
 - 中文描述: 已知边和已知点对边的中点，构造一个平行四边形。
 - 英文谚语: The subject of mathematics is so serious that nobody should miss an opportunity to make it a little bit entertaining.
-- 中文谚语:
+- 中文谚语: 数学的主题太严肃了，所有人都不能错过任何让它变得有趣的机会。
 - 英文谚语作者: Blaise Pascal
-- 中文谚语作者: 布莱士·帕斯卡
+- 中文谚语作者: 布莱士·帕斯卡（法国哲学家、数学家，概率论奠基人）
 
 
 
