@@ -324,7 +324,7 @@
 - 英文描述: Construct a rhombus with the given side and an angle of 45° in a vertex.
 - 中文描述: 已知一条边和 45° 顶角，构造一个菱形。
 - 英文谚语: To think deeply of simple things.
-- 中文谚语: 深入浅出
+- 中文谚语: 思考要深入浅出。
 - 英文谚语作者: Arnold Ross
 - 中文谚语作者: 阿诺德·罗斯（美国数学家）
 
@@ -340,9 +340,9 @@
 - 英文描述: Construct a point C on the line AB such that |AC|=2|AB| using only a compass.
 - 中文描述: 仅使用圆规在直线 AB 上构造点 C，使得 |AC|=2|AB|。
 - 英文谚语: A mathematical truth is neither simple nor complicated in itself, it is.
-- 中文谚语:
+- 中文谚语: 数学事实本身既不简单也不复杂，的确。
 - 英文谚语作者: Emile Lemoine
-- 中文谚语作者:
+- 中文谚语作者: 埃米尔·勒穆瓦纳（法国数学家、土木工程师）
 
 
 #### Angle60Drop
@@ -353,9 +353,9 @@
 - 英文描述: Construct a straight line through the given point that makes an angle of 60° with the given line.
 - 中文描述: 经过已知点构造一条直线，使其与已知直线成 60° 角。
 - 英文谚语: The best angle from which to approach any problem is the try-angle.
-- 中文谚语:
+- 中文谚语: 处理任何难题的最佳角度就是“尝试的角度”（谐音：三角形）。
 - 英文谚语作者: Author Unknown
-- 中文谚语作者:
+- 中文谚语作者: 佚名
 
 
 #### EquilateralAboutCircle
@@ -366,9 +366,9 @@
 - 英文描述: Construct an equilateral triangle that is circumscribed about the circle and contains the given point.
 - 中文描述: 构造一个等边三角形，使其与圆外接，且包含已知点。
 - 英文谚语: Logic is the anatomy of thought.
-- 中文谚语:
+- 中文谚语: 逻辑就是思想的解剖学。
 - 英文谚语作者: John Locke
-- 中文谚语作者:
+- 中文谚语作者: 约翰·洛克（英国哲学家）
 
 
 #### EquilateralInCircle
@@ -379,9 +379,9 @@
 - 英文描述: Inscribe an equilateral triangle in the circle using the given point as a vertex. The center of the circle is not given.
 - 中文描述: 圆心未知，以已知点作为顶点，在圆中内接一个等边三角形。
 - 英文谚语: We do not choose mathematics as our profession; it chooses us.
-- 中文谚语:
+- 中文谚语: 并非是我们选择了数学作为职业，而是她选择了我们。
 - 英文谚语作者: Yuri Manin
-- 中文谚语作者:
+- 中文谚语作者: 尤里·曼宁（俄国数学家）
 
 
 #### Cut2Rectangles
@@ -392,9 +392,9 @@
 - 英文描述: Construct a line that cuts each of the rectangles into two parts of equal area.
 - 中文描述: 构造一条直线，将每个矩形分割成两个相等的部分。
 - 英文谚语: Mathematics is the most reliable form of prophecy.
-- 中文谚语:
+- 中文谚语: 数学是最可靠的预言。
 - 英文谚语作者: Wilhelm Schwebel
-- 中文谚语作者:
+- 中文谚语作者: 威廉·施韦贝尔（德国数学家）
 
 
 #### Sqrt2
@@ -405,9 +405,9 @@
 - 英文描述: Let |AB|=1. Construct a point C on the ray AB such that the length of AC is equal to the square root of 2.
 - 中文描述: 假设 |AB|=1。在射线 AB 上构造点 C，使 AC 的长度等于 √2。
 - 英文谚语: The square root of 2 is also known as Pythagoras' constant.
-- 中文谚语:
+- 中文谚语: 根号2也被认为是毕达哥拉斯常数。
 - 英文谚语作者: Wikipedia
-- 中文谚语作者:
+- 中文谚语作者: 维基百科
 
 
 #### Sqrt3
@@ -418,9 +418,9 @@
 - 英文描述: Let |AB|=1. Construct a point C on the ray AB such that the length of AC is equal to the square root of 3.
 - 中文描述: 假设 |AB|=1。在射线 AB 上构造点 C，使 AC 的长度等于 √3。
 - 英文谚语: The square root of 3 is also known as Theodorus' constant.
-- 中文谚语:
+- 中文谚语: 根号3也被称为西奥多勒斯常数。
 - 英文谚语作者: Wikipedia
-- 中文谚语作者:
+- 中文谚语作者: 维基百科
 
 
 #### Angle15
@@ -431,9 +431,9 @@
 - 英文描述: Construct an angle of 15° with the given side.
 - 中文描述: 已知一条边，构造 15° 角。
 - 英文谚语: If we know anything we know it by mathematics.
-- 中文谚语:
+- 中文谚语: 如果某一天我们达成了无所不知，也是因为我们使用了数学。
 - 英文谚语作者: Pierre Gassendi
-- 中文谚语作者:
+- 中文谚语作者: 皮埃尔·伽桑狄（法国哲学家、数学家）
 
 
 #### SquareByOppMidpoints
@@ -444,9 +444,9 @@
 - 英文描述: Construct a square, given two midpoints of opposite sides.
 - 中文描述: 已知两个对边的中点，构造一个正方形。
 - 英文谚语: For the first condition to be fulfilled in Mathematics is to be exact; the second is to be as clear and simple as possible.
-- 中文谚语:
+- 中文谚语: 数学全能的首要条件是精确无误；次要条件是尽量简洁明了。
 - 英文谚语作者: Lazare Carnot
-- 中文谚语作者:
+- 中文谚语作者: 拉扎尔·卡诺（法国数学家、政治家、工程师）
 
 
 #### SquareByAdjMidpoints
@@ -457,9 +457,9 @@
 - 英文描述: Construct a square, given two midpoints of adjacent sides.
 - 中文描述: 已知两个邻边的中点，构造一个正方形。
 - 英文谚语: Thinking is the hardest work there is, which is probably the reason so few engage in it.
-- 中文谚语:
+- 中文谚语: 思考是已知最艰难的工作，这大概就是很少人愿意投身其中的原因。
 - 英文谚语作者: Henry Ford
-- 中文谚语作者:
+- 中文谚语作者: 亨利·福特（美国汽车工程师、企业家）
 
 
 
