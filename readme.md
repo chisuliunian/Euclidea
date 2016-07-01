@@ -100,7 +100,7 @@
 - 英文描述: Construct the line that bisects the given angle.
 - 中文描述: 构造一条直线，平分已知角。
 - 英文谚语: The description of right lines and circles, upon which geometry is founded, belongs to mechanics. Geometry does not teach us to draw these lines, but requires them to be drawn.
-- 中文谚语: 几何学的基石————直线与圆的描述，是经典力学的一部分。几何学并非会教我们怎样画线，而是制定怎样画线的规则。
+- 中文谚语: 几何学的基石——直线与圆的描述，是经典力学的一部分。几何学并非会教我们怎样画线，而是制定怎样画线的规则。
 - 英文谚语作者: Isaac Newton
 - 中文谚语作者: 艾萨克·牛顿（英国物理学家、数学家）
 
