@@ -482,11 +482,11 @@
 - Level 5.2
 - ![5.2](images/level/parallelogram3-v.png) 
 - 英文标题: Parallelogram by Three Vertices
-- 中文标题: 根据三个顶点构造平行四边形
+- 中文标题: 以三个顶点构造平行四边形
 - 英文描述: Construct a parallelogram whose three of four vertices are given.
 - 中文描述: 已知四个顶点中的三个，构造一个平行四边形。
 - 英文谚语: Logic is invincible, because in order to combat logic it is necessary to use logic.
-- 中文谚语: 逻辑是无敌的，因为要战胜逻辑，你不得不使用逻辑。
+- 中文谚语: 逻辑是无敌的，因为想要战胜逻辑，你不得不使用逻辑。
 - 英文谚语作者: Pierre Boutroux
 - 中文谚语作者: 皮埃尔·布特鲁（法国数学家）
 
@@ -499,7 +499,7 @@
 - 英文描述: Construct a line through the point C and at equal distance from the points A and B but that does not pass between them.
 - 中文描述: 经过点 C 构造一条直线，使其距点 A 和 B 的距离相等，但直线不通过点 A 和 B 之间。
 - 英文谚语: Mathematics is a tool for reasoning.
-- 中文谚语: 数学是推理的工具。
+- 中文谚语: 数学是理性的工具。
 - 英文谚语作者: Richard Feynman
 - 中文谚语作者: 理查德·费曼（美国物理学家）
 
@@ -523,9 +523,9 @@
 - 英文标题: Arithmetic Mean of Trapezoid Bases
 - 中文标题: 梯形底边的算术平均数
 - 英文描述: Construct a line segment that is parallel to the bases of the trapezoid and whose length is equal to the arithmetic mean of their length.
-- 中文描述: 构造一条平行于梯形底边的线段，长度等于两条底边的算术平均数。
+- 中文描述: 构造一条平行于梯形底边的线段，使其长度等于两条底边的算术平均数。
 - 英文谚语: Mathematics is the language with which God wrote the universe.
-- 中文谚语: 数学是上帝描述宇宙的语言。
+- 中文谚语: 数学是上帝用来书写宇宙的语言。
 - 英文谚语作者: Galileo Galilei
 - 中文谚语作者: 伽俐略·伽利莱（意大利数学家、物理学家）
 
@@ -536,7 +536,7 @@
 - 英文标题: Hash
 - 中文标题: 哈希
 - 英文描述: Construct a line through the given point on which two pairs of parallel lines cut off equal line segments.
-- 中文描述: 经过已知点构造一条直线，上面的两对平行线平分线段。
+- 中文描述: 经过已知点构造一条直线，使被已知的两对平行线切割的线段相等。
 - 英文谚语: No other science than mathematics strengthens so much our faith in the power of the human mind.
 - 中文谚语: 没有任何学科像数学一样令我们坚信人类智慧的力量。
 - 英文谚语作者: Hugo Steinhaus
@@ -547,7 +547,7 @@
 - Level 5.7
 - ![5.7](images/level/shift-angle.png) 
 - 英文标题: Shift Angle
-- 中文标题: 位差角
+- 中文标题: 移位角
 - 英文描述: Construct an angle from the given point that is equal to the given angle so that their sides are parallel.
 - 中文描述: 从已知点构造一个角，使其与已知角相等且两条边与已知角的边平行。
 - 英文谚语: Geometry is the real life.
@@ -560,11 +560,11 @@
 - Level 5.8
 - ![5.8](images/level/square-about-circle.png) 
 - 英文标题: Circumscribed Square
-- 中文标题: 外接正方形
+- 中文标题: 外切正方形
 - 英文描述: Circumscribe a square about the circle. Two its sides should be parallel to the given line.
-- 中文描述: 构造圆的外接正方形。两边应平行于已知直线。
+- 中文描述: 构造圆的外切正方形。其中两边应平行于已知直线。
 - 英文谚语: A round man cannot be expected to fit in a square hole right away. He must have time to modify his shape.
-- 中文谚语: 不能指望一个圆的人一上来就恰好能适配方的孔。他必须花时间雕琢自己。
+- 中文谚语: 不能指望一个圆的人一上来就恰好能适配方的孔。他必须花时间先雕琢自己。
 - 英文谚语作者: Mark Twain
 - 中文谚语作者: 马克·吐温（美国作家）
 
@@ -575,9 +575,9 @@
 - 英文标题: Square in Square
 - 中文标题: 正方形的内接正方形
 - 英文描述: Inscribe a square in the square. A vertex is given.
-- 中文描述: 顶点已知，在正方形中内接一个正方形。
+- 中文描述: 在正方形中内接一个以给定点为顶点的正方形。
 - 英文谚语: If you wish to learn swimming you have to go into the water and if you wish to become a problem solver you have to solve problems.
-- 中文谚语: 要学会游泳你必须先入水，要做解题能手你必须先做题。
+- 中文谚语: 要学会游泳你得先入水，要做解题能手你得先做题。
 - 英文谚语作者: George Pólya
 - 中文谚语作者: 乔治·波利亚（美国数学家）
 
@@ -617,7 +617,7 @@
 - 英文标题: Reflection
 - 中文标题: 反射
 - 英文描述: Reflect the segment across the line.
-- 中文描述: 绕直线反射线段。
+- 中文描述: 关于直线反射线段。
 - 英文谚语: Symmetry is what we see at a glance; based on the fact that there is no reason for any difference...
 - 中文谚语: 对称是基于没有理由存在任何差异的事实而让我们看到的惊鸿一瞥。
 - 英文谚语作者: Blaise Pascal
@@ -632,7 +632,7 @@
 - 英文描述: Construct a segment from the given point that is equal to the given segment and lies on the same line with it.
 - 中文描述: 已知一点，构造一条与已知线段长度相等的线段，且两条线段均位于同一条直线上。
 - 英文谚语: Let no man who is not a Mathematician read the elements of my work.
-- 中文谚语: 要让任何不是数学家的人都能读懂我作品的原理。
+- 中文谚语: 要让任何不是数学家的人都看不懂我作品的原理。
 - 英文谚语作者: Leonardo da Vinci
 - 中文谚语作者: 莱奥纳多·达·芬奇（意大利科学家、艺术家）
 
@@ -645,7 +645,7 @@
 - 英文描述: Construct two straight lines through the two given points respectively so that the given line is a bisector of the angle that they make.
 - 中文描述: 分别通过两个已知点构造两条直线，使已知直线成为由构造的直线组成的角的角平分线。
 - 英文谚语: I would live to study, and not study to live.
-- 中文谚语: 我要为研究而生，而不是是为生而研究。
+- 中文谚语: 我要为研究而生活，而不是为生活而研究。
 - 英文谚语作者: Francis Bacon
 - 中文谚语作者: 弗朗西斯·培根（英国哲学家）
 
@@ -682,9 +682,9 @@
 - 英文标题: Triangle by Three Sides
 - 中文标题: 根据三条边构造三角形
 - 英文描述: Construct a triangle with the side AB and the two other sides equal to the given segments.
-- 中文描述: 已知边 AB 和其他两条与已知线段长度相等的边，构造一个三角形。
+- 中文描述: 以 AB为一边，构造一个三角形， 使其另两边分别与两已知线段长度相等。
 - 英文谚语: One geometry cannot be more true than another; it can only be more convenient.
-- 中文谚语: 一种几何学并不显得比其他的更正确，它只是更方便。
+- 中文谚语: 一种几何学并不显得比其他的更正确，它可能只是更方便。
 - 英文谚语作者: Henri Poincaré
 - 中文谚语作者: 昂立·庞加莱（法国数学家）
 
@@ -697,7 +697,7 @@
 - 英文描述: Construct a right triangle with the given hypotenuse AB and whose leg is equal to the given segment.
 - 中文描述: 已知斜边 AB，构造一个直角三角形，使直角边的长度与已知线段的长度相等。
 - 英文谚语: The best way to make mathematics interesting to students and laymen is to approach it in a spirit of play.
-- 中文谚语: 让数学对学生和外行来说更有趣的最好办法就是寓教于乐。
+- 中文谚语: 让数学对学生和外行来说更有意思的最好办法就是寓教于乐。
 - 英文谚语作者: Martin Gardner
 - 中文谚语作者: 马丁·加德纳（美国科普作家）
 
@@ -708,9 +708,9 @@
 - 英文标题: Parallelogram
 - 中文标题: 平行四边形
 - 英文描述: Construct a parallelogram with the given side and the midpoint of the opposite side in the given point.
-- 中文描述: 已知边和已知点对边的中点，构造一个平行四边形。
+- 中文描述: 已知边和已知对边的中点，构造一个平行四边形。
 - 英文谚语: The subject of mathematics is so serious that nobody should miss an opportunity to make it a little bit entertaining.
-- 中文谚语: 数学的主题太严肃了，所有人都不能错过任何让它变得有趣的机会。
+- 中文谚语: 数学的主题太严肃了，所有人都不应错过任何让它变得有意思起来的机会。
 - 英文谚语作者: Blaise Pascal
 - 中文谚语作者: 布莱士·帕斯卡（法国哲学家、数学家，概率论奠基人）
 
@@ -752,7 +752,7 @@
 - 英文描述: Construct an angle of 75° with the given side.
 - 中文描述: 已知一条边，构造 75° 角。
 - 英文谚语: The human mind has first to construct forms, independently, before we can find them in things.
-- 中文谚语: 早在从万物中发现形状之前，人类已先在脑中创造了形状。
+- 中文谚语: 在从万物中发现形状之前，人类早已先在脑中创造出了形状。
 - 英文谚语作者: Albert Einstein
 - 中文谚语作者: 阿尔伯特·爱因斯坦（德国物理学家）
 
@@ -791,7 +791,7 @@
 - 英文描述: Construct the circumcircle of the triangle.
 - 中文描述: 构造三角形的外接圆。
 - 英文谚语: I should almost therefore put forward the proposal that the third hypothesis (angle sum of a triangle less than two right angles) holds on the surface of an imaginary sphere.
-- 中文谚语: 我几乎要发表第三假设（三角形内角和小于180°）适用于假想球面的提案了。
+- 中文谚语: 我几乎就此要发表第三假设（三角形内角和小于180°）在假想球面上也成立的提案了。
 - 英文谚语作者: Johann Lambert
 - 中文谚语作者: 约翰·兰伯特（德国数学家）
 
@@ -800,7 +800,7 @@
 - Level 7.7
 - ![7.7](images/level/circle-in-triangle.png) 
 - 英文标题: Inscribed Circle
-- 中文标题: 内接圆
+- 中文标题: 内切圆
 - 英文描述: Construct the incircle of the triangle.
 - 中文描述: 构造三角形的内切圆。
 - 英文谚语: Circles to square and cubes to double would give a man exercise trouble.
@@ -830,7 +830,7 @@
 - 英文描述: Construct a line through the given point such that it cuts off equal segments on the sides of the angle.
 - 中文描述: 经过已知点构造一条直线，使直线在角的两边上分割的线段长度相等。
 - 英文谚语: There are two ways to do great mathematics. The first is to be smarter than everybody else. The second way is to be stupider than everybody else — but persistent.
-- 中文谚语: 有两种方法可以学好数学。一是比其他人都聪明。二是比其他人都笨，但锲而不舍。
+- 中文谚语: 有两种方法可以学好数学。一种是比其他人都聪明。第二种是比其他人都笨，但锲而不舍。
 - 英文谚语作者: Raoul Bott
 - 中文谚语作者: 拉乌尔·伯特（匈牙利数学家）
 
@@ -843,7 +843,7 @@
 - 英文描述: Construct two rays that divide the given angle of 54° into three equal parts.
 - 中文描述: 构造两条射线，将已知 54° 角平分为三个部分。
 - 英文谚语: If I feel unhappy, I do mathematics to become happy. If I am happy, I do mathematics to keep happy.
-- 中文谚语: 如果我不快乐，我会研究数学令自己快乐起来。如果我不快乐，我会研究数学让自己快乐下去。
+- 中文谚语: 如果我不快乐，我会研究数学令自己快乐起来。如果我快乐，我会研究数学让自己快乐下去。
 - 英文谚语作者: Alfred Rényi
 - 中文谚语作者: 阿尔弗雷德·瑞尼（匈牙利数学家）
 
@@ -852,11 +852,11 @@
 - Level 7.11
 - ![7.11](images/level/excircle.png) 
 - 英文标题: Excircle
-- 中文标题: 外切圆
+- 中文标题: 旁切圆
 - 英文描述: Construct an excircle of the triangle formed by the three given lines.
-- 中文描述: 构造由三条已知直线组成的三角形的外切圆。
+- 中文描述: 构造由三条已知直线组成的三角形的旁切圆。
 - 英文谚语: It is easy to go from the house of reality to the forest of mathematics, but only few know how to go back.
-- 中文谚语: 从现实的房子走向数学的森林容易，但很少有人知道走回头路。
+- 中文谚语: 从现实的房子走向数学的森林容易，但很少有人知道怎么走回头路。
 - 英文谚语作者: Hugo Steinhaus
 - 中文谚语作者: 雨果·斯廷豪斯（波兰数学家）
 
