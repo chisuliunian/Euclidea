@@ -726,9 +726,9 @@
 - 英文描述: Construct a square whose area equals the sum of the areas of the two given squares and all three have the common angle.
 - 中文描述: 构造一个正方形，使其面积等于两个已知正方形的面积和，且三个正方形具有公共角。
 - 英文谚语: The whole is greater than the sum of its parts.
-- 中文谚语:
+- 中文谚语: 整体胜于部分之和。
 - 英文谚语作者: Aristotle
-- 中文谚语作者: 亚里士多德
+- 中文谚语作者: 亚里士多德（古希腊哲学家、数学家）
 
 
 #### Annulus
@@ -739,9 +739,9 @@
 - 英文描述: Construct a circle that is concentric with the given one and divides it into 2 parts of equal area.
 - 中文描述: 构造一个已知圆的同心圆，将已知圆分成 2 个面积相等的部分。
 - 英文谚语: We must know, we will know!
-- 中文谚语:
+- 中文谚语: 我们必须了解，我们将知晓一切！
 - 英文谚语作者: David Hilbert
-- 中文谚语作者:
+- 中文谚语作者: 大卫·希尔伯特（德国数学家）
 
 
 #### Angle75
@@ -752,9 +752,9 @@
 - 英文描述: Construct an angle of 75° with the given side.
 - 中文描述: 已知一条边，构造 75° 角。
 - 英文谚语: The human mind has first to construct forms, independently, before we can find them in things.
-- 中文谚语:
+- 中文谚语: 早在从万物中发现形状之前，人类已现在脑中创造了形状。
 - 英文谚语作者: Albert Einstein
-- 中文谚语作者:
+- 中文谚语作者: 阿尔伯特·爱因斯坦（德国物理学家）
 
 
 #### Equidistant3
@@ -765,9 +765,9 @@
 - 英文描述: Construct a line that is at equal distance from the given three points.
 - 中文描述: 构造一条到已知三个点距离相等的直线。
 - 英文谚语: Mathematics is gymnastics of thinking.
-- 中文谚语:
+- 中文谚语: 数学是思想的体操。
 - 英文谚语作者: Alexander Suvorov
-- 中文谚语作者:
+- 中文谚语作者: 亚历山大·苏沃洛夫（俄国军事家）
 
 
 #### Heron
@@ -778,9 +778,9 @@
 - 英文描述: Construct a point C and segments AC and BC such that the sum of their length is minimal.
 - 中文描述: 构造点 C 和线段 AC 和 BC，使两条线段的长度和最小。
 - 英文谚语: Life is good for only two things, discovering mathematics and teaching mathematics.
-- 中文谚语:
+- 中文谚语: 生活因两件事而美好：发现数学与教授数学。
 - 英文谚语作者: Simeon Poisson
-- 中文谚语作者:
+- 中文谚语作者: 西莫恩·泊松（法国数学家、物理学家）
 
 
 #### Circle3
@@ -791,9 +791,9 @@
 - 英文描述: Construct the circumcircle of the triangle.
 - 中文描述: 构造三角形的外接圆。
 - 英文谚语: I should almost therefore put forward the proposal that the third hypothesis (angle sum of a triangle less than two right angles) holds on the surface of an imaginary sphere.
-- 中文谚语:
+- 中文谚语: 我几乎要发表第三假设（三角形内角和小于180°）适用于假想球面的提案了。
 - 英文谚语作者: Johann Lambert
-- 中文谚语作者:
+- 中文谚语作者: 约翰·兰伯特（德国数学家）
 
 
 #### CircleInTriangle
@@ -804,9 +804,9 @@
 - 英文描述: Construct the incircle of the triangle.
 - 中文描述: 构造三角形的内切圆。
 - 英文谚语: Circles to square and cubes to double would give a man exercise trouble.
-- 中文谚语:
+- 中文谚语: 化圆为方和倍立方体只会让人无功而返。
 - 英文谚语作者: Matthew Prior
-- 中文谚语作者:
+- 中文谚语作者: 马修·普莱尔（英国诗人）
 
 
 #### AngleMidpoint
@@ -817,9 +817,9 @@
 - 英文描述: Construct a segment with the ends on the sides of the angle such that the given point is its midpoint.
 - 中文描述: 已知线段的中点，构造一条线段，使其端点在角的两条边上。
 - 英文谚语: Do not worry about your difficulties in Mathematics: I can assure you mine are far greater.
-- 中文谚语:
+- 中文谚语: 不用担忧你在数学上的难处：我保证我的比你更多。
 - 英文谚语作者: Albert Einstein
-- 中文谚语作者:
+- 中文谚语作者: 阿尔伯特·爱因斯坦（德国物理学家）
 
 
 #### AngleIsosceles
@@ -830,9 +830,9 @@
 - 英文描述: Construct a line through the given point such that it cuts off equal segments on the sides of the angle.
 - 中文描述: 经过已知点构造一条直线，使直线在角的两边上分割的线段长度相等。
 - 英文谚语: There are two ways to do great mathematics. The first is to be smarter than everybody else. The second way is to be stupider than everybody else — but persistent.
-- 中文谚语:
+- 中文谚语: 有两种方法可以学好数学。一是比其他人都聪明。二是比其他人都笨，但更坚持。
 - 英文谚语作者: Raoul Bott
-- 中文谚语作者:
+- 中文谚语作者: 拉乌尔·伯特（匈牙利数学家）
 
 
 #### AngleTrisection54
@@ -843,9 +843,9 @@
 - 英文描述: Construct two rays that divide the given angle of 54° into three equal parts.
 - 中文描述: 构造两条射线，将已知 54° 角平分为三个部分。
 - 英文谚语: If I feel unhappy, I do mathematics to become happy. If I am happy, I do mathematics to keep happy.
-- 中文谚语:
+- 中文谚语: 如果我不快乐，我会研究数学令自己快乐起来。如果我不快乐，我会研究数学让自己快乐下去。
 - 英文谚语作者: Alfred Rényi
-- 中文谚语作者:
+- 中文谚语作者: 阿尔弗雷德·瑞尼（匈牙利数学家）
 
 
 #### Excircle
@@ -856,9 +856,9 @@
 - 英文描述: Construct an excircle of the triangle formed by the three given lines.
 - 中文描述: 构造由三条已知直线组成的三角形的外切圆。
 - 英文谚语: It is easy to go from the house of reality to the forest of mathematics, but only few know how to go back.
-- 中文谚语:
+- 中文谚语: 从现实的房子走向数学的森林容易，但很少有人知道回头路。
 - 英文谚语作者: Hugo Steinhaus
-- 中文谚语作者:
+- 中文谚语作者: 雨果·斯廷豪斯（波兰数学家）
 
 
 #### PerimeterBisector
@@ -869,9 +869,9 @@
 - 英文描述: Construct a straight line through a vertex of the triangle that divides its perimeter in half.
 - 中文描述: 经过三角形的顶点构造一条直线，使其将三角形分成周长相等的两部分。
 - 英文谚语: He became a poet, he lacked imagination for a mathematician.
-- 中文谚语:
+- 中文谚语: 他成了诗人，是因为他缺乏成为数学家的想象力。
 - 英文谚语作者: David Hilbert
-- 中文谚语作者:
+- 中文谚语作者: 大卫·希尔伯特（德国数学家）
 
 
 
