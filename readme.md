@@ -739,7 +739,7 @@
 - 英文描述: Construct a circle that is concentric with the given one and divides it into 2 parts of equal area.
 - 中文描述: 构造一个给定圆的同心圆，使其平分给定圆为 2 个面积相等的部分。
 - 英文谚语: We must know, we will know!
-- 中文谚语: 我们必须了解，我们必将了解！
+- 中文谚语: 我们必须知道，我们必将知道！
 - 英文谚语作者: David Hilbert
 - 中文谚语作者: 大卫·希尔伯特（德国数学家）
 
@@ -752,7 +752,7 @@
 - 英文描述: Construct an angle of 75° with the given side.
 - 中文描述: 以给定射线为一边，构造一个 75° 角。
 - 英文谚语: The human mind has first to construct forms, independently, before we can find them in things.
-- 中文谚语: 在从万物中发现结构之前，人类早就在脑中独立创造出了结构。
+- 中文谚语: 人类的头脑首先必须独立地构思形式，然后我们才能在事物中找到形式。
 - 英文谚语作者: Albert Einstein
 - 中文谚语作者: 阿尔伯特·爱因斯坦（德国物理学家）
 
@@ -791,7 +791,7 @@
 - 英文描述: Construct the circumcircle of the triangle.
 - 中文描述: 构造给定三角形的外接圆。
 - 英文谚语: I should almost therefore put forward the proposal that the third hypothesis (angle sum of a triangle less than two right angles) holds on the surface of an imaginary sphere.
-- 中文谚语: 我几乎就此要发表第三假设（三角形内角和小于180°）在假想球面上也同样成立的建议了。
+- 中文谚语: 我几乎就此要发表第三假设（三角形内角和小于180°）在假想球面上也同样成立的提议了。
 - 英文谚语作者: Johann Lambert
 - 中文谚语作者: 约翰·兰伯特（德国数学家）
 
@@ -869,7 +869,7 @@
 - 英文描述: Construct a straight line through a vertex of the triangle that divides its perimeter in half.
 - 中文描述: 经过三角形的顶点构造一条直线，使其周长被平分成相等的两部分。
 - 英文谚语: He became a poet, he lacked imagination for a mathematician.
-- 中文谚语: 他成了诗人，是因为他缺乏成为数学家的想象力。
+- 中文谚语: 有人成了诗人，那是因为他缺乏成为数学家的想象力。
 - 英文谚语作者: David Hilbert
 - 中文谚语作者: 大卫·希尔伯特（德国数学家）
 
@@ -937,7 +937,7 @@
 - 英文描述: Construct the midpoint of the segment using only a straightedge. To help you, a line parallel to the segment is given.
 - 中文描述: 仅使用直尺构造给定线段的中点。为了帮助你，我们提供了一条与该线段平行的直线。
 - 英文谚语: Everything should be made as simple as possible, but not simpler.
-- 中文谚语: 凡事都应该弄得尽量简便，但绝不能简陋。
+- 中文谚语: 凡事都应该尽量简化，但绝不能简陋。
 - 英文谚语作者: Albert Einstein
 - 中文谚语作者: 阿尔伯特·爱因斯坦（德国物理学家）
 
