@@ -592,7 +592,7 @@
 - 英文谚语: If only I had the theorems! Then I should find the proofs easily enough.
 - 中文谚语: 我要是早知道这个定理就好了！这样我就能很容易找到证明啦。
 - 英文谚语作者: Bernard Riemann
-- 中文谚语作者: 伯纳德·黎曼（德国数学家）
+- 中文谚语作者: 波恩哈德·黎曼（德国数学家）
 
 
 
