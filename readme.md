@@ -1308,7 +1308,7 @@
 - 英文标题: Triangle by Midpoints
 - 中文标题: 由中点构造三角形
 - 英文描述: Construct a triangle given the midpoints of its sides.
-- 中文描述: 由已知各边中点，构造一个三角形。
+- 中文描述: 给定各边中点，构造一个三角形。
 - 英文谚语: "Obvious" is the most dangerous word in mathematics.
 - 中文谚语: "显然"是数学中最危险的词汇。
 - 英文谚语作者: Eric Bell
@@ -1323,7 +1323,7 @@
 - 英文描述: Construct a triangle with the given side and centroid.
 - 中文描述: 由给定一边和重心，构造一个三角形。
 - 英文谚语: You are the only person on earth who can use your ability. It's an awesome responsibility.
-- 中文谚语: 毕竟世界上可以施展你才华的人只有你自己，这是很严肃的责任。
+- 中文谚语: 毕竟世界上可以施展你才华的人只有你自己，这是重大的责任。
 - 英文谚语作者: Zig Ziglar
 - 中文谚语作者: 西格·金克拉（美国作家）
 
@@ -1334,7 +1334,7 @@
 - 英文标题: Triangle by Altitude Base Points
 - 中文标题: 由高的垂足构造三角形
 - 英文描述: Construct a triangle whose altitude base points are given.
-- 中文描述: 由已知三条高的垂足，构造一个三角形。
+- 中文描述: 由给定三条高的垂足，构造一个三角形。
 - 英文谚语: One quickly realizes that simplicity and geometry are the language of timelessness and universality.
 - 中文谚语: 一个人很快会意识到简洁和几何学是通用和不朽的语言。
 - 英文谚语作者: Paul Rand
@@ -1347,7 +1347,7 @@
 - 英文标题: Triangle by Tangent Points
 - 中文标题: 由切点构造三角形
 - 英文描述: Construct a triangle with the three given points where its incircle touches its sides.
-- 中文描述: 已知三个点，构造一个三角形，其内切圆与其相切于这三个点。
+- 中文描述: 给定内切圆的三个切点，构造一个三角形。
 - 英文谚语: Music is the arithmetic of sounds as optics is the geometry of light.
 - 中文谚语: 音乐是声音的算术，而光学是光的几何。
 - 英文谚语作者: Claude Debussy
@@ -1360,7 +1360,7 @@
 - 英文标题: Triangle by Excenters
 - 中文标题: 由旁心构造三角形
 - 英文描述: Construct a triangle with the given excenters.
-- 中文描述: 由三个旁心，构造一个三角形。
+- 中文描述: 给定三个旁心，构造一个三角形。
 - 英文谚语: There are no sects in geometry.
 - 中文谚语: 几何学没有派系。
 - 英文谚语作者: Voltaire
