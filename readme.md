@@ -6,7 +6,7 @@
 - 英文描述: Construct an angle of 60° with the given side.
 - 中文描述: 以给定射线为一边，作一个 60° 角。
 - 英文谚语: Let no one ignorant of geometry enter here.
-- 中文谚语: 几何启蒙，由此入门。（其实是：不是几何人，不进一家门）
+- 中文谚语: 不懂几何者勿入此门。
 - 英文谚语作者: Plato
 - 中文谚语作者: 柏拉图（古希腊哲学家、数学家）
 
@@ -45,7 +45,7 @@
 - 英文描述: Inscribe a circle in the square.
 - 中文描述: 在给定正方形中作一个内切圆。
 - 英文谚语: You can't fit a round peg in a square hole.
-- 中文谚语: 圆枘方凿（圆的榫头，方的卯眼，比喻格格不入）。
+- 中文谚语: 圆枘方凿。（圆的榫头，方的卯眼，比喻格格不入）。
 - 英文谚语作者: American proverb
 - 中文谚语作者: 美国谚语
 
@@ -56,7 +56,7 @@
 - 英文标题: Rhombus in Rectangle
 - 中文标题: 矩形的内接菱形
 - 英文描述: Inscribe a rhombus in the rectangle so that they share a diagonal.
-- 中文描述: 在矩形中作一个内接菱形，使它们共享一条对角线。
+- 中文描述: 在矩形中作一个内接菱形，使它们有一条公共对角线。
 - 英文谚语: Without mathematics there is no art.
 - 中文谚语: 没有数学，艺术将不复存在。
 - 英文谚语作者: Luca Pacioli
@@ -69,7 +69,7 @@
 - 英文标题: Circle Center
 - 中文标题: 圆心
 - 英文描述: Construct the center of the circle.
-- 中文描述: 求作给定圆的圆心。
+- 中文描述: 作给定圆的圆心。
 - 英文谚语: Nature is an infinite sphere of which the center is everywhere and the circumference nowhere.
 - 中文谚语: 自然就像个无穷大的球体，明明到处都是中心，边界却无处可寻。
 - 英文谚语作者: Blaise Pascal
@@ -111,7 +111,7 @@
 - 英文标题: Rhombus in Triangle
 - 中文标题: 三角形的内接菱形
 - 英文描述: Inscribe a rhombus in the triangle so that they share the common angle A.
-- 中文描述: 在三角形中作一个内接菱形，使它们共享一个公共角 A。
+- 中文描述: 在三角形中作一个内接菱形，使它们有一个公共角A。
 - 英文谚语: The moving power of mathematical invention is not reasoning but imagination.
 - 中文谚语: 推动数学发现前进的动力并非来自理性，而是来自想象力的发挥。
 - 英文谚语作者: Augustus de Morgan
@@ -122,9 +122,9 @@
 - Level 2.3
 - ![2.3](images/level/angle30.png) 
 - 英文标题: Angle of 30°
-- 中文标题: 30° 角
+- 中文标题: 30°角
 - 英文描述: Construct an angle of 30° with the given side.
-- 中文描述: 以给定射线为一边，作一个 30° 角。
+- 中文描述: 以给定射线为一边，作一个30°角。
 - 英文谚语: Inspiration is needed in geometry, just as much as in poetry.
 - 中文谚语: 几何与诗歌一样需要的是灵感。
 - 英文谚语作者: Alexander Pushkin
@@ -137,7 +137,7 @@
 - 英文标题: Double Angle
 - 中文标题: 二倍角
 - 英文描述: Construct an angle equal to the given one so that they share one side.
-- 中文描述: 作一个与已知角相等的角，使它们共享一条边。
+- 中文描述: 作一个与已知角相等的角，使它们有一条公共边。
 - 英文谚语: Contradiction is not a sign of falsity, nor the lack of contradiction a sign of truth.
 - 中文谚语: 矛盾不是假象的标志，但不矛盾也未必就是真相的化身。
 - 英文谚语作者: Blaise Pascal
@@ -161,7 +161,7 @@
 - Level 2.6
 - ![2.6](images/level/drop-perp.png) 
 - 英文标题: Drop a Perpendicular
-- 中文标题: 引垂线
+- 中文标题: 过线外一点作垂线
 - 英文描述: Drop a perpendicular from the point to the line.
 - 中文描述: 由给定点向直线引一条垂线。
 - 英文谚语: The knowledge of which geometry aims is the knowledge of the eternal.
@@ -174,7 +174,7 @@
 - Level 2.7
 - ![2.7](images/level/erect-perp.png) 
 - 英文标题: Erect a Perpendicular
-- 中文标题: 作垂线
+- 中文标题: 过线上一点作垂线
 - 英文描述: Erect a perpendicular from the point on the line.
 - 中文描述: 过直线上的一个点作该直线的垂线。
 - 英文谚语: What we know is not much. What we do not know is immense.
@@ -187,7 +187,7 @@
 - Level 2.8
 - ![2.8](images/level/tangent1.png) 
 - 英文标题: Tangent to Circle at Point
-- 中文标题: 与圆相切于某点的切线
+- 中文标题: 与圆切于某点的直线
 - 英文描述: Construct a tangent to the circle at the given point.
 - 中文描述: 作一条切线，使其在给定点与圆相切。
 - 英文谚语: If a man's wit be wandering, let him study the mathematics.
@@ -244,7 +244,7 @@
 - 英文标题: Triangle by Angle and Orthocenter
 - 中文标题: 由角和垂心定义的三角形
 - 英文描述: Construct a segment connecting the sides of the angle to get a triangle whose orthocenter is in the point O.
-- 中文描述: 作一条线段，使其连接已知角的两边，从而获得一个垂心为点 O 的三角形。
+- 中文描述: 作一条线段，使其连接已知角的两边，从而获得一个垂心为点O的三角形。
 - 英文谚语: A mathematician is a machine for turning coffee into theorems.
 - 中文谚语: 所谓数学家就是一部化咖啡为定理的机器。
 - 英文谚语作者: Alfred Rényi
@@ -255,9 +255,9 @@
 - Level 3.3
 - ![3.3](images/level/a-tr-by-circumcenter.png) 
 - 英文标题: Intersection of Perpendicular Bisectors
-- 中文标题: 垂直平分线的交点（外心）
+- 中文标题: 垂直平分线的交点
 - 英文描述: Construct a segment connecting the sides of the angle to get a triangle whose perpendicular bisectors are intersected in the point O.
-- 中文描述: 作一条线段，使其连接已知角的两边，从而获得一个三条垂直平分线相交于点 O 的三角形。
+- 中文描述: 作一条线段，使其连接已知角的两边，从而获得一个三条垂直平分线相交于点O的三角形。
 - 英文谚语: Knowledge exists to be imparted.
 - 中文谚语: 知识的存在的价值在于传承。
 - 英文谚语作者: Ralph Emerson.
@@ -270,7 +270,7 @@
 - 英文标题: Three equal segments - 1
 - 中文标题: 三条相等的线段 - 1
 - 英文描述: Given an angle ABC and a point M inside it, find points D on BA and E on BC and construct segments DM and ME such that BD = DM = ME.
-- 中文描述: 已知角 ABC 和其内一点 M，在 BA 和 BC 上分别求点 D 和 E，作线段 DM 和 ME，使 BD = DM = ME。
+- 中文描述: 已知角ABC和其内一点M，在BA和BC上分别求点D和点E，作线段DM和ME，使BD=DM=ME。
 - 英文谚语: All knowledge degenerates into probability.
 - 中文谚语: 所有知识都会简化为概率。
 - 英文谚语作者: David Hume
@@ -283,7 +283,7 @@
 - 英文标题: Circle through Point Tangent to Line
 - 中文标题: 过定点与直线相切的圆
 - 英文描述: Construct a circle through the point A that is tangent to the given line at the point B.
-- 中文描述: 作一个圆，使其经过点 A，并与给定直线相切于点 B。
+- 中文描述: 作一个圆，使其经过点A，并与给定直线相切于点B。
 - 英文谚语: Knowledge comes, but wisdom lingers.
 - 中文谚语: 知识闪亮登场，智慧却姗姗来迟。
 - 英文谚语作者: Alfred Tennyson
@@ -307,9 +307,9 @@
 - Level 3.7
 - ![3.7](images/level/angle45.png) 
 - 英文标题: Angle of 45°
-- 中文标题: 45° 角
+- 中文标题: 45°角
 - 英文描述: Construct an angle of 45° with the given side.
-- 中文描述: 以给定射线为一边，作一个 45° 角。
+- 中文描述: 以给定射线为一边，作一个45°角。
 - 英文谚语: He is unworthy of the name of man who is ignorant of the fact that the diagonal of a square is incommensurable with its side.
 - 中文谚语: 如果谁不知道正方形的对角线不能与其边长通约的事实，那他就不配拥有人的称呼。
 - 英文谚语作者: Plato
@@ -322,7 +322,7 @@
 - 英文标题: Lozenge
 - 中文标题: 菱形
 - 英文描述: Construct a rhombus with the given side and an angle of 45° in a vertex.
-- 中文描述: 以给定线段为一边和一个 45° 顶角，作一个菱形。
+- 中文描述: 以给定线段为一边，作一个顶角为45°的菱形。
 - 英文谚语: To think deeply of simple things.
 - 中文谚语: 思考要深入浅出。
 - 英文谚语作者: Arnold Ross
@@ -336,9 +336,9 @@
 - Level 4.1
 - ![4.1](images/level/c-double-seg.png) 
 - 英文标题: Double Segment
-- 中文标题: 翻倍线段
+- 中文标题: 二倍线段
 - 英文描述: Construct a point C on the line AB such that |AC|=2|AB| using only a compass.
-- 中文描述: 仅使用圆规在直线 AB 上求作点 C，使得 |AC|=2|AB|。
+- 中文描述: 仅使用圆规在直线AB上求作点C，使得|AC|=2|AB|。
 - 英文谚语: A mathematical truth is neither simple nor complicated in itself, it is.
 - 中文谚语: 数学事实本身既不简单，也不复杂，事实就是事实。
 - 英文谚语作者: Emile Lemoine
@@ -349,11 +349,11 @@
 - Level 4.2
 - ![4.2](images/level/angle60-drop.png) 
 - 英文标题: Angle of 60° - 2
-- 中文标题: 60° 角 - 2
+- 中文标题: 60°角 - 2
 - 英文描述: Construct a straight line through the given point that makes an angle of 60° with the given line.
-- 中文描述: 过给定点作一条直线，使其与已知直线的夹角为 60° 角。
+- 中文描述: 过给定点作一条直线，使其与已知直线的夹角为60°角。
 - 英文谚语: The best angle from which to approach any problem is the try-angle.
-- 中文谚语: 着手处理任何难题的最佳切入角度就是“尝试的角度”（谐音：三角形）。
+- 中文谚语: 着手处理任何难题的最佳切入角度就是“try-angle”。
 - 英文谚语作者: Author Unknown
 - 中文谚语作者: 佚名
 
@@ -388,7 +388,7 @@
 - Level 4.5
 - ![4.5](images/level/cut2-rectangles.png) 
 - 英文标题: Cut Two Rectangles
-- 中文标题: 分割双矩形
+- 中文标题: 分割两矩形
 - 英文描述: Construct a line that cuts each of the rectangles into two parts of equal area.
 - 中文描述: 作一条直线，将每个矩形分割成面积相等的两部分。
 - 英文谚语: Mathematics is the most reliable form of prophecy.
@@ -401,11 +401,11 @@
 - Level 4.6
 - ![4.6](images/level/sqrt2.png) 
 - 英文标题: Square Root of 2
-- 中文标题: 2 的平方根
+- 中文标题: 2的平方根
 - 英文描述: Let |AB|=1. Construct a point C on the ray AB such that the length of AC is equal to the square root of 2.
-- 中文描述: 假设 |AB|=1。在射线 AB 上求作点 C，使 AC 的长度等于 √2。
+- 中文描述: 假设|AB|=1。在射线AB上求作点C，使AC的长度等于√2。
 - 英文谚语: The square root of 2 is also known as Pythagoras' constant.
-- 中文谚语: 根号2也被称为毕达哥拉斯常数。
+- 中文谚语: √2也被称为毕达哥拉斯常数。
 - 英文谚语作者: Wikipedia
 - 中文谚语作者: 维基百科
 
@@ -414,11 +414,11 @@
 - Level 4.7
 - ![4.7](images/level/sqrt3.png) 
 - 英文标题: Square Root of 3
-- 中文标题: 3 的平方根
+- 中文标题: 3的平方根
 - 英文描述: Let |AB|=1. Construct a point C on the ray AB such that the length of AC is equal to the square root of 3.
-- 中文描述: 假设 |AB|=1。在射线 AB 上求作点 C，使 AC 的长度等于 √3。
+- 中文描述: 假设|AB|=1。在射线AB上求作点C，使AC的长度等于√3。
 - 英文谚语: The square root of 3 is also known as Theodorus' constant.
-- 中文谚语: 根号3也被称为西奥多勒斯常数。
+- 中文谚语: √3也被称为西奥多勒斯常数。
 - 英文谚语作者: Wikipedia
 - 中文谚语作者: 维基百科
 
@@ -427,9 +427,9 @@
 - Level 4.8
 - ![4.8](images/level/angle15.png) 
 - 英文标题: Angle of 15°
-- 中文标题: 15° 角
+- 中文标题: 15°角
 - 英文描述: Construct an angle of 15° with the given side.
-- 中文描述: 以给定射线为一条边，作一个 15° 角。
+- 中文描述: 以给定射线为一条边，作一个15°角。
 - 英文谚语: If we know anything we know it by mathematics.
 - 中文谚语: 如果某一天我们无所不知，那也是因为使用了数学。
 - 英文谚语作者: Pierre Gassendi
@@ -497,7 +497,7 @@
 - 英文标题: Line Equidistant from Two Points - 1
 - 中文标题: 两点的等距线 - 1
 - 英文描述: Construct a line through the point C and at equal distance from the points A and B but that does not pass between them.
-- 中文描述: 过点 C 作一条直线，使其与点 A 和 B 的距离相等，但不通过点 A 和 B 之间。
+- 中文描述: 过点C作一条直线，使其与点A和点B的距离相等，但不通过点A和点B之间。
 - 英文谚语: Mathematics is a tool for reasoning.
 - 中文谚语: 数学是理性的工具。
 - 英文谚语作者: Richard Feynman
@@ -510,7 +510,7 @@
 - 英文标题: Line Equidistant from Two Points - 2
 - 中文标题: 两点的等距线 - 2
 - 英文描述: Construct a line through the point C that goes between the points A and B and that is at equal distance from them.
-- 中文描述: 过点 C 作一条直线，使其通过点 A 和 B 之间，且与点 A 和 B 的距离相等。
+- 中文描述: 过点C作一条直线，使其通过点A和点B之间，且与点A和点B的距离相等。
 - 英文谚语: Mathematics is the science of those things that are clear in and of themselves.
 - 中文谚语: 数学是一种能完美自洽的科学。
 - 英文谚语作者: Carl Jacobi
@@ -521,9 +521,9 @@
 - Level 5.5
 - ![5.5](images/level/trapezoid-median.png) 
 - 英文标题: Arithmetic Mean of Trapezoid Bases
-- 中文标题: 梯形底边的算术平均数
+- 中文标题: 梯形底边的算术平均值
 - 英文描述: Construct a line segment that is parallel to the bases of the trapezoid and whose length is equal to the arithmetic mean of their length.
-- 中文描述: 作一条平行于梯形底边的线段，使其长度等于两条底边的算术平均数。
+- 中文描述: 作一条平行于梯形底边的线段，使其长度等于两条底边的算术平均值。
 - 英文谚语: Mathematics is the language with which God wrote the universe.
 - 中文谚语: 数学是上帝用来书写宇宙的语言。
 - 英文谚语作者: Galileo Galilei
@@ -534,7 +534,7 @@
 - Level 5.6
 - ![5.6](images/level/hash.png) 
 - 英文标题: Hash
-- 中文标题: 井号#
+- 中文标题: 井号
 - 英文描述: Construct a line through the given point on which two pairs of parallel lines cut off equal line segments.
 - 中文描述: 过给定点作一条直线，使其被已知的两对平行线所切割的线段相等。
 - 英文谚语: No other science than mathematics strengthens so much our faith in the power of the human mind.
@@ -547,7 +547,7 @@
 - Level 5.7
 - ![5.7](images/level/shift-angle.png) 
 - 英文标题: Shift Angle
-- 中文标题: 转移角
+- 中文标题: 平移角
 - 英文描述: Construct an angle from the given point that is equal to the given angle so that their sides are parallel.
 - 中文描述: 以给定的顶点作一个角，使其与已知角相等且两边与已知角的两边平行。
 - 英文谚语: Geometry is the real life.
@@ -602,9 +602,9 @@
 - Level 6.1
 - ![6.1](images/level/pt-symmetry.png) 
 - 英文标题: Point Reflection
-- 中文标题: 点对称
+- 中文标题: 中心对称
 - 英文描述: Reflect the segment across the point.
-- 中文描述: 作已知线段关于定点对称的线段。
+- 中文描述: 作关于给定点对称的线段。
 - 英文谚语: Symmetry is one of the ideas by which man through the ages has tried to comprehend and create order, beauty, and perfection.
 - 中文谚语: 对称是人类从古至今试图理解和创造秩序、美丽及完美的法则。
 - 英文谚语作者: Hermann Weyl
@@ -615,9 +615,9 @@
 - Level 6.2
 - ![6.2](images/level/mirror-seg.png) 
 - 英文标题: Reflection
-- 中文标题: 反射
+- 中文标题: 轴对称
 - 英文描述: Reflect the segment across the line.
-- 中文描述: 作关于定直线轴对称的线段。
+- 中文描述: 作关于给定直线对称的线段。
 - 英文谚语: Symmetry is what we see at a glance; based on the fact that there is no reason for any difference...
 - 中文谚语: 向对称的惊鸿一瞥，让任何差异失去了存在的理由。
 - 英文谚语作者: Blaise Pascal
@@ -641,7 +641,7 @@
 - Level 6.4
 - ![6.4](images/level/given-angle-bisector.png) 
 - 英文标题: Given Angle Bisector
-- 中文标题: 给定角平分线
+- 中文标题: 给定的角平分线
 - 英文描述: Construct two straight lines through the two given points respectively so that the given line is a bisector of the angle that they make.
 - 中文描述: 分别过两个定点作两条直线，所作直线构成的角被给定直线平分。
 - 英文谚语: I would live to study, and not study to live.
@@ -654,7 +654,7 @@
 - Level 6.5
 - ![6.5](images/level/circle-by-radius.png) 
 - 英文标题: Non-collapsing Compass
-- 中文标题: 非折叠圆规
+- 中文标题: 圆规
 - 英文描述: Construct a circle with the given center and the radius equal to the length of the given segment.
 - 中文描述: 以给定点为圆心，作一个半径和已知线段长度相等的圆。
 - 英文谚语: There is nothing strange in the circle being the origin of any and every marvel.
@@ -682,7 +682,7 @@
 - 英文标题: Triangle by Three Sides
 - 中文标题: 由三条边作三角形
 - 英文描述: Construct a triangle with the side AB and the two other sides equal to the given segments.
-- 中文描述: 以 AB为一边，作一个三角形，使其另外两边分别与两给定线段长度相等。
+- 中文描述: 以AB为一边，作一个三角形，使其另外两边分别与两给定线段长度相等。
 - 英文谚语: One geometry cannot be more true than another; it can only be more convenient.
 - 中文谚语: 任何一种几何学并不显得比其他的更正确，它只能是更方便。
 - 英文谚语作者: Henri Poincaré
@@ -695,7 +695,7 @@
 - 英文标题: Hypotenuse and Leg
 - 中文标题: 斜边和直角边
 - 英文描述: Construct a right triangle with the given hypotenuse AB and whose leg is equal to the given segment.
-- 中文描述: 给定斜边 AB，作一个直角三角形，使一条直角边的长度与已知线段相等。
+- 中文描述: 给定斜边AB，作一个直角三角形，使一条直角边的长度与已知线段相等。
 - 英文谚语: The best way to make mathematics interesting to students and laymen is to approach it in a spirit of play.
 - 中文谚语: 让数学对学生和外行来说更有意思的最好办法就是寓教于乐。
 - 英文谚语作者: Martin Gardner
@@ -724,7 +724,7 @@
 - 英文标题: Sum of Areas of Squares
 - 中文标题: 正方形的面积和
 - 英文描述: Construct a square whose area equals the sum of the areas of the two given squares and all three have the common angle.
-- 中文描述: 作一个正方形，使其面积等于两个已知正方形的面积和，且三个正方形共享同一个公共角。
+- 中文描述: 作一个正方形，使其面积等于两个已知正方形的面积和，且三个正方形有一个公共角。
 - 英文谚语: The whole is greater than the sum of its parts.
 - 中文谚语: 整体胜于部分之和。
 - 英文谚语作者: Aristotle
@@ -737,7 +737,7 @@
 - 英文标题: Annulus
 - 中文标题: 环形
 - 英文描述: Construct a circle that is concentric with the given one and divides it into 2 parts of equal area.
-- 中文描述: 作一个给定圆的同心圆，使其平分给定圆为 2 个面积相等的部分。
+- 中文描述: 作一个给定圆的同心圆，使其将给定圆分成2个面积相等的部分。
 - 英文谚语: We must know, we will know!
 - 中文谚语: 我们必须知道，我们必将知道！
 - 英文谚语作者: David Hilbert
@@ -748,9 +748,9 @@
 - Level 7.3
 - ![7.3](images/level/angle75.png) 
 - 英文标题: Angle of 75°
-- 中文标题: 75° 角
+- 中文标题: 75°角
 - 英文描述: Construct an angle of 75° with the given side.
-- 中文描述: 以给定射线为一边，作一个 75° 角。
+- 中文描述: 以给定射线为一边，作一个75°角。
 - 英文谚语: The human mind has first to construct forms, independently, before we can find them in things.
 - 中文谚语: 人类的头脑首先必须独立地构思形式，然后我们才能在事物中找到形式。
 - 英文谚语作者: Albert Einstein
@@ -776,7 +776,7 @@
 - 英文标题: Heron's Problem
 - 中文标题: 海伦问题
 - 英文描述: Construct a point C and segments AC and BC such that the sum of their length is minimal.
-- 中文描述: 作点 C 以及线段 AC 和 BC，使它们的长度之和最小。
+- 中文描述: 作点C以及线段AC和BC，使它们的长度之和最小。
 - 英文谚语: Life is good for only two things, discovering mathematics and teaching mathematics.
 - 中文谚语: 生活因两件事而美好：发现数学与教授数学。
 - 英文谚语作者: Simeon Poisson
@@ -826,9 +826,9 @@
 - Level 7.9
 - ![7.9](images/level/angle-isosceles.png) 
 - 英文标题: Angle Isosceles
-- 中文标题: 等腰角
+- 中文标题: 等腰三角形的顶角
 - 英文描述: Construct a line through the given point such that it cuts off equal segments on the sides of the angle.
-- 中文描述: 经过给定点作一条直线，使其在角的两边上切割的线段长度相等。
+- 中文描述: 过给定点作一条直线，使其在角的两边上切割的线段长度相等。
 - 英文谚语: There are two ways to do great mathematics. The first is to be smarter than everybody else. The second way is to be stupider than everybody else — but persistent.
 - 中文谚语: 有两种方法可以学好数学。一种是比其他人都聪明。第二种是虽比其他人都笨，但锲而不舍。
 - 英文谚语作者: Raoul Bott
@@ -839,9 +839,9 @@
 - Level 7.10
 - ![7.10](images/level/angle-trisection54.png) 
 - 英文标题: Angle 54° Trisection
-- 中文标题: 三等分 54° 角
+- 中文标题: 三等分54°角
 - 英文描述: Construct two rays that divide the given angle of 54° into three equal parts.
-- 中文描述: 作两条射线，将给定 54° 角平分为三个部分。
+- 中文描述: 作两条射线，将给定的54°角分为三个相等的部分。
 - 英文谚语: If I feel unhappy, I do mathematics to become happy. If I am happy, I do mathematics to keep happy.
 - 中文谚语: 如果我不快乐，我会钻研数学令自己快乐起来。如果我快乐，我会钻研数学让自己快乐下去。
 - 英文谚语作者: Alfred Rényi
@@ -883,7 +883,7 @@
 - 英文标题: Minimum Perimeter - 1
 - 中文标题: 最小周长 - 1
 - 英文描述: Construct a triangle whose perimeter is the minimum possible whose vertices lie on the two sides of the angle and the third vertex is in the point A.
-- 中文描述: 作一个三角形，使周长尽可能最短，其中两个顶点位于已知角的两边上且第三个顶点是点 A。
+- 中文描述: 作一个三角形，使周长尽可能最短，其中两个顶点位于已知角的两边上且第三个顶点是点A。
 - 英文谚语: Geometry is frozen music.
 - 中文谚语: 几何是凝固的音乐。
 - 英文谚语作者: Johann Goethe
@@ -896,7 +896,7 @@
 - 英文标题: Third Proportional
 - 中文标题: 第三比例项
 - 英文描述: Construct a point D on the ray such that the segment AD is the third proportional to the given line segments.
-- 中文描述: 在射线上求作点 D，使线段 AD 为已知线段的第三比例项。
+- 中文描述: 在射线上求作点D，使线段AD为已知线段的第三比例项。
 - 英文谚语: Everything around us is geometry.
 - 中文谚语: 我们周围的一切都是几何学。
 - 英文谚语作者: Le Corbusier
@@ -907,9 +907,9 @@
 - Level 8.3
 - ![8.3](images/level/trapezoid-harm-mean.png) 
 - 英文标题: Harmonic Mean of Trapezoid Bases
-- 中文标题: 梯形底边的调和平均数
+- 中文标题: 梯形底边的调和平均值
 - 英文描述: Construct a line segment that is parallel to the bases of the trapezoid and whose length is equal to the harmonic mean of their length.
-- 中文描述: 作一条平行于梯形底边的线段，其长度等于两条底边的调和平均数。
+- 中文描述: 作一条平行于梯形底边的线段，其长度等于两条底边的调和平均值。
 - 英文谚语: Mathematics is less knowledge than skill.
 - 中文谚语: 数学与其说是知识，不如说是技巧。
 - 英文谚语作者: Philip Davis
@@ -920,7 +920,7 @@
 - Level 8.4
 - ![8.4](images/level/l-drop-perp.png) 
 - 英文标题: Drop a Perpendicular*
-- 中文标题: 引垂线*
+- 中文标题: 过线外一点作垂线*
 - 英文描述: Drop a perpendicular from the point to the line passing through the center of the circle using only a straightedge.
 - 中文描述: 仅使用直尺，从给定点向一条经过圆心的直线引一条垂线。
 - 英文谚语: It is not enough to have a good mind. The main thing is to use it well.
@@ -998,9 +998,9 @@
 - Level 8.10
 - ![8.10](images/level/harmonic-mean.png) 
 - 英文标题: Harmonic Mean of Segments
-- 中文标题: 线段的调和平均数
+- 中文标题: 线段的调和平均值
 - 英文描述: Construct a point on the given ray to get a segment with length equal to the harmonic mean of the two adjacent segments.
-- 中文描述: 在给定射线上作一个点，以获得一条线段，其长度等于两条相邻线段的调和平均数。
+- 中文描述: 在给定射线上作一个点，截得一条线段，其长度等于两条相邻线段的调和平均值。
 - 英文谚语: Geometry is knowledge of the eternally existent.
 - 中文谚语: 几何学是关于不朽的知识。
 - 英文谚语作者: Pythagoras
@@ -1013,7 +1013,7 @@
 - 英文标题: Triangle by Angle and Centroid
 - 中文标题: 由角和重心构造三角形
 - 英文描述: Construct a segment connecting the sides of the angle to get a triangle whose centroid is in the point O.
-- 中文描述: 作一条线段，使其连接已知角的两边，并获得一个重心为点 O 的三角形。
+- 中文描述: 作一条线段，使其连接已知角的两边，并获得一个重心为点O的三角形。
 - 英文谚语: I think, therefore I am.
 - 中文谚语: 我思故我在。
 - 英文谚语作者: Rene Descartes
@@ -1066,9 +1066,9 @@
 - Level 9.4
 - ![9.4](images/level/90-rotation-c-c-w.png) 
 - 英文标题: Rotation 90°
-- 中文标题: 旋转 90°
+- 中文标题: 旋转90°
 - 英文描述: Rotate the line segment 90° counterclockwise about the given point.
-- 中文描述: 以给定点为中心，将线段逆时针旋转 90°。
+- 中文描述: 以给定点为中心，将线段逆时针旋转90°。
 - 英文谚语: Imagination decides everything.
 - 中文谚语: 想象力决定一切。
 - 英文谚语作者: Blaise Pascal
@@ -1079,9 +1079,9 @@
 - Level 9.5
 - ![9.5](images/level/60-rotation-c-w.png) 
 - 英文标题: Rotation 60°
-- 中文标题: 旋转 60°
+- 中文标题: 旋转60°
 - 英文描述: Rotate the line segment 60° clockwise about the given point.
-- 中文描述: 以给定点为中心，将线段顺时针旋转 60°。
+- 中文描述: 以给定点为中心，将线段顺时针旋转60°。
 - 英文谚语: Science is simply common sense at its best.
 - 中文谚语: 科学是简单常识的精华。
 - 英文谚语作者: Thomas Huxley
@@ -1092,9 +1092,9 @@
 - Level 9.6
 - ![9.6](images/level/divide3.png) 
 - 英文标题: Segment Trisection
-- 中文标题: 线段三等分
+- 中文标题: 三等分线段
 - 英文描述: Construct two points that divide the segment into 3 equal parts.
-- 中文描述: 求作两点，将线段平分成 3 个长度相等的部分。
+- 中文描述: 求作两点，将线段分成3个相等部分。
 - 英文谚语: Three Rules of Work: Out of clutter find simplicity; From discord find harmony; In the middle of difficulty lies opportunity.
 - 中文谚语: 工作三大准则：繁中求简，乱中求序，难中求胜。
 - 英文谚语作者: Albert Einstein
@@ -1105,7 +1105,7 @@
 - Level 9.7
 - ![9.7](images/level/l-divide3.png) 
 - 英文标题: Segment Trisection*
-- 中文标题: 线段三等分*
+- 中文标题: 三等分线段*
 - 英文描述: Construct points that divide the segment into three equal parts using only a straightedge. To help you, a line parallel to the segment is given.
 - 中文描述: 仅使用直尺，作出两点将线段平分为长度相等的三段。提供一条与该线段平行的直线作为辅助。
 - 英文谚语: Beauty is the first test: there is no permanent place in the world for ugly mathematics.
@@ -1118,7 +1118,7 @@
 - Level 9.8
 - ![9.8](images/level/chord3.png) 
 - 英文标题: Chord Trisection
-- 中文标题: 弦三等分
+- 中文标题: 三等分弦
 - 英文描述: Construct a chord of the larger circle through the given point that is divided into three equal segments by the smaller circle.
 - 中文描述: 过给定点作大圆的一条弦，使其被小圆平分成三条长度相等的线段。
 - 英文谚语: Mathematics is the door and key to the sciences.
