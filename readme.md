@@ -340,7 +340,7 @@
 - 英文描述: Construct a point C on the line AB such that |AC|=2|AB| using only a compass.
 - 中文描述: 仅使用圆规在直线 AB 上构造点 C，使得 |AC|=2|AB|。
 - 英文谚语: A mathematical truth is neither simple nor complicated in itself, it is.
-- 中文谚语: 数学事实本身既不简单，也不复杂，它就是事实。
+- 中文谚语: 数学事实本身既不简单，也不复杂，事实就是事实。
 - 英文谚语作者: Emile Lemoine
 - 中文谚语作者: 埃米尔·勒穆瓦纳（法国数学家、土木工程师）
 
@@ -444,7 +444,7 @@
 - 英文描述: Construct a square, given two midpoints of opposite sides.
 - 中文描述: 已给定两条对边的中点，构造一个正方形。
 - 英文谚语: For the first condition to be fulfilled in Mathematics is to be exact; the second is to be as clear and simple as possible.
-- 中文谚语: 要在数学中有所成就的首要条件是精确无误；次要条件则是尽量简洁明了。
+- 中文谚语: 要在数学中有所成就的首要条件应是精确无误；次要条件则是尽量简明。
 - 英文谚语作者: Lazare Carnot
 - 中文谚语作者: 拉扎尔·卡诺（法国数学家、政治家、工程师）
 
