@@ -113,7 +113,7 @@
 - 英文描述: Inscribe a rhombus in the triangle so that they share the common angle A.
 - 中文描述: 在三角形中作一个内接菱形，使它们共享一个公共角 A。
 - 英文谚语: The moving power of mathematical invention is not reasoning but imagination.
-- 中文谚语: 推动数学前进的动力并非来自理性，而是来自想象力的发挥。
+- 中文谚语: 推动数学发现前进的动力并非来自理性，而是来自想象力的发挥。
 - 英文谚语作者: Augustus de Morgan
 - 中文谚语作者: 奥古斯都·德·摩根（英国数学家、逻辑学家）
 
@@ -126,7 +126,7 @@
 - 英文描述: Construct an angle of 30° with the given side.
 - 中文描述: 以给定射线为一边，构造一个 30° 角。
 - 英文谚语: Inspiration is needed in geometry, just as much as in poetry.
-- 中文谚语: 几何学与诗歌一样需要的是灵感。
+- 中文谚语: 几何与诗歌一样需要的是灵感。
 - 英文谚语作者: Alexander Pushkin
 - 中文谚语作者: 亚历山大·普希金（俄国诗人、散文家、剧作家）
 
@@ -178,7 +178,7 @@
 - 英文描述: Erect a perpendicular from the point on the line.
 - 中文描述: 由直线上的一个点构造该直线的垂线。
 - 英文谚语: What we know is not much. What we do not know is immense.
-- 中文谚语: 吾生也有涯，而知也无涯。
+- 中文谚语: 我们懂得的东西并不多。我们不明白的实在是难以计数。
 - 英文谚语作者: Pierre-Simon Laplace
 - 中文谚语作者: 皮埃尔-西蒙·拉普拉斯（法国数学家、天文学家）
 
@@ -217,7 +217,7 @@
 - 英文描述: Inscribe a circle in the rhombus.
 - 中文描述: 在菱形中作一个内切圆。
 - 英文谚语: The mathematician's patterns, like the painter's or the poet's must be beautiful; the ideas like the colours or the words, must fit together in a harmonious way.
-- 中文谚语: 数学家是款式的创造者，就如同画家和诗人设计的款式必须是美的；思维就像颜料或词藻，必须以和谐的方式相融合。
+- 中文谚语: 数学家的模式，就如同画家和诗人的模式一样必须是美的；思想就像颜料或词藻，必须以和谐的方式相融合。
 - 英文谚语作者: Godfrey Hardy
 - 中文谚语作者: 高德菲·哈代（英国数学家）
 
