@@ -1133,7 +1133,7 @@
 - 英文标题: Ratio 1 to 5
 - 中文标题: 1:5的比例
 - 英文描述: Construct a point on the line segment that divides it in the ratio 1 : 5.
-- 中文描述: 求作一点，使其将给定线段分为1:5的两段。
+- 中文描述: 求作一点，使其以1:5的比例分割给定线段。
 - 英文谚语: In mathematics the art of proposing a question must be held of higher value than solving it.
 - 中文谚语: 在数学中，提问的艺术，其价值肯定比解题能力要来得更高。
 - 英文谚语作者: Georg Cantor
@@ -1214,7 +1214,7 @@
 - 英文标题: Golden Section
 - 中文标题: 黄金分割
 - 英文描述: Construct a point that divides the segment in the "golden section".
-- 中文描述: 求作一点，使其将给定线段“黄金分割”。
+- 中文描述: 求作一点，使其“黄金分割”给定线段。
 - 英文谚语: The Golden ratio has inspired thinkers of all disciplines like no other number in the history of mathematics.
 - 中文谚语: 在数学史中没有任何别的数像黄金分割比那样启发了那么多学科的思想者们。
 - 英文谚语作者: Mario Livio
