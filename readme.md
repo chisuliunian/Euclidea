@@ -246,7 +246,7 @@
 - 英文描述: Construct a segment connecting the sides of the angle to get a triangle whose orthocenter is in the point O.
 - 中文描述: 构造一条线段，使其连接已知角的两边，从而获得一个垂心为点 O 的三角形。
 - 英文谚语: A mathematician is a machine for turning coffee into theorems.
-- 中文谚语: 所谓数学家就是化咖啡为理论的机器。
+- 中文谚语: 所谓数学家就是化咖啡为定理的机器。
 - 英文谚语作者: Alfred Rényi
 - 中文谚语作者: 阿尔弗雷德·瑞尼（匈牙利数学家）
 
@@ -272,7 +272,7 @@
 - 英文描述: Given an angle ABC and a point M inside it, find points D on BA and E on BC and construct segments DM and ME such that BD = DM = ME.
 - 中文描述: 已知角 ABC 和其内一点 M，在 BA 和 BC 上分别求点 D 和 E，构造线段 DM 和 ME，使 BD = DM = ME。
 - 英文谚语: All knowledge degenerates into probability.
-- 中文谚语: 所有知识都会退化为概率。
+- 中文谚语: 所有知识都会简化为概率。
 - 英文谚语作者: David Hume
 - 中文谚语作者: 大卫·休谟（苏格兰哲学家）
 
