@@ -217,7 +217,7 @@
 - 英文描述: Inscribe a circle in the rhombus.
 - 中文描述: 在菱形中作一个内切圆。
 - 英文谚语: The mathematician's patterns, like the painter's or the poet's must be beautiful; the ideas like the colours or the words, must fit together in a harmonious way.
-- 中文谚语: 数学家的模式，就如同画家和诗人的模式一样必须是美的；思想就像颜料或词藻，必须以和谐的方式相融合。
+- 中文谚语: 数学家的风格，就如同画家和诗人的风格一样必须是美的；思想就像颜料或词藻，必须以和谐的方式相融合。
 - 英文谚语作者: Godfrey Hardy
 - 中文谚语作者: 高德菲·哈代（英国数学家）
 
@@ -1268,7 +1268,7 @@
 - 英文描述: Construct a line segment that is parallel to the bases of the trapezoid and whose length is equal to the geometric mean of their length.
 - 中文描述: 构造一条平行于梯形底边的线段，使其长度等于两条底边的几何平均数。
 - 英文谚语: Mathematics is a language plus reasoning; it is like a language plus logic.
-- 中文谚语: 数学是赋予理性的语言，是增添了逻辑的表达。
+- 中文谚语: 数学是赋予理性的语言，是增添了逻辑的表达方式。
 - 英文谚语作者: Richard Feynman
 - 中文谚语作者: 理查德·费曼（美国物理学家）
 
@@ -1511,7 +1511,7 @@
 - 英文描述: Construct the intersection of the circle and the line defined by the two given points using only a compass.
 - 中文描述: 仅使用圆规，构造由两个给定点定义的直线与已知圆的交点。
 - 英文谚语: A mathematician, like a painter or a poet, is a maker of patterns. If his patterns are more permanent than theirs, it is because they are made with ideas.
-- 中文谚语: 一名数学家，就像画家或诗人，是模式的创造者。如果他的模式比其他人流传更长久，那是因为它们是用思想锤炼出来的。
+- 中文谚语: 一名数学家，就像画家或诗人，是风格的创造者。如果他的风格比其他人流传更长久，那是因为它们是用思想锤炼出来的。
 - 英文谚语作者: Godfrey Hardy
 - 中文谚语作者: 高德菲·哈罗德·哈代（英国数学家）
 
