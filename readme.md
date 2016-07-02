@@ -737,9 +737,9 @@
 - 英文标题: Annulus
 - 中文标题: 环形
 - 英文描述: Construct a circle that is concentric with the given one and divides it into 2 parts of equal area.
-- 中文描述: 构造一个给定圆的同心圆，使其平分成 2 个面积相等的部分。
+- 中文描述: 构造一个给定圆的同心圆，使其平分给定圆为 2 个面积相等的部分。
 - 英文谚语: We must know, we will know!
-- 中文谚语: 我们必须了解，我们将知晓一切！
+- 中文谚语: 我们必须了解，我们必将了解！
 - 英文谚语作者: David Hilbert
 - 中文谚语作者: 大卫·希尔伯特（德国数学家）
 
@@ -752,7 +752,7 @@
 - 英文描述: Construct an angle of 75° with the given side.
 - 中文描述: 以给定射线为一边，构造一个 75° 角。
 - 英文谚语: The human mind has first to construct forms, independently, before we can find them in things.
-- 中文谚语: 在从万物中发现形状之前，人类早就在脑中独立创造出了形状。
+- 中文谚语: 在从万物中发现结构之前，人类早就在脑中独立创造出了结构。
 - 英文谚语作者: Albert Einstein
 - 中文谚语作者: 阿尔伯特·爱因斯坦（德国物理学家）
 
@@ -791,7 +791,7 @@
 - 英文描述: Construct the circumcircle of the triangle.
 - 中文描述: 构造给定三角形的外接圆。
 - 英文谚语: I should almost therefore put forward the proposal that the third hypothesis (angle sum of a triangle less than two right angles) holds on the surface of an imaginary sphere.
-- 中文谚语: 我几乎就此要发表第三假设（三角形内角和小于180°）在假想球面上也同样成立的提案了。
+- 中文谚语: 我几乎就此要发表第三假设（三角形内角和小于180°）在假想球面上也同样成立的建议了。
 - 英文谚语作者: Johann Lambert
 - 中文谚语作者: 约翰·兰伯特（德国数学家）
 
@@ -828,7 +828,7 @@
 - 英文标题: Angle Isosceles
 - 中文标题: 等腰角
 - 英文描述: Construct a line through the given point such that it cuts off equal segments on the sides of the angle.
-- 中文描述: 经过给定点构造一条直线，使直线在角的两边上切割的线段长度相等。
+- 中文描述: 经过给定点构造一条直线，使其在角的两边上切割的线段长度相等。
 - 英文谚语: There are two ways to do great mathematics. The first is to be smarter than everybody else. The second way is to be stupider than everybody else — but persistent.
 - 中文谚语: 有两种方法可以学好数学。一种是比其他人都聪明。第二种是虽比其他人都笨，但锲而不舍。
 - 英文谚语作者: Raoul Bott
@@ -854,9 +854,9 @@
 - 英文标题: Excircle
 - 中文标题: 旁切圆
 - 英文描述: Construct an excircle of the triangle formed by the three given lines.
-- 中文描述: 构造由三条已知直线组成的三角形的旁切圆。
+- 中文描述: 构造由三条给定直线组成的三角形的旁切圆。
 - 英文谚语: It is easy to go from the house of reality to the forest of mathematics, but only few know how to go back.
-- 中文谚语: 从现实的房子走向数学的森林容易，但很少有人知道怎么走回头路。
+- 中文谚语: 从现实的房子走向数学的森林相对容易，但很少有人知道怎么走回头路。
 - 英文谚语作者: Hugo Steinhaus
 - 中文谚语作者: 雨果·斯廷豪斯（波兰数学家）
 
@@ -867,7 +867,7 @@
 - 英文标题: Perimeter Bisector
 - 中文标题: 周长平分线
 - 英文描述: Construct a straight line through a vertex of the triangle that divides its perimeter in half.
-- 中文描述: 经过三角形的顶点构造一条直线，使其周长平分成相等的两部分。
+- 中文描述: 经过三角形的顶点构造一条直线，使其周长被平分成相等的两部分。
 - 英文谚语: He became a poet, he lacked imagination for a mathematician.
 - 中文谚语: 他成了诗人，是因为他缺乏成为数学家的想象力。
 - 英文谚语作者: David Hilbert
