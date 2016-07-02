@@ -1467,7 +1467,7 @@
 - 英文标题: Triangle by Tangent Point on Hypotenuse
 - 中文标题: 由斜边上的切点构造三角形
 - 英文描述: Construct a right triangle with the given hypotenuse and the tangent point of its incircle.
-- 中文描述: 由给定的斜边和其上内切圆的切点，构造一个直角三角形。
+- 中文描述: 由给定的斜边及其与内切圆的切点，构造一个直角三角形。
 - 英文谚语: Since we cannot know all that there is to be known about anything, we ought to know a little about everything.
 - 中文谚语: 既然我们无法了解有关任何东西的所有事，我们就尽量去了解有关所有东西的些许事吧。
 - 英文谚语作者: Blaise Pascal
