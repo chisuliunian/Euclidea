@@ -246,7 +246,7 @@
 - 英文描述: Construct a segment connecting the sides of the angle to get a triangle whose orthocenter is in the point O.
 - 中文描述: 构造一条线段，使其连接已知角的两边，从而获得一个垂心为点 O 的三角形。
 - 英文谚语: A mathematician is a machine for turning coffee into theorems.
-- 中文谚语: 所谓数学家就是化咖啡为定理的机器。
+- 中文谚语: 所谓数学家就是一部化咖啡为定理的机器。
 - 英文谚语作者: Alfred Rényi
 - 中文谚语作者: 阿尔弗雷德·瑞尼（匈牙利数学家）
 
@@ -285,7 +285,7 @@
 - 英文描述: Construct a circle through the point A that is tangent to the given line at the point B.
 - 中文描述: 构造一个圆，使其经过点 A，并与给定直线相切于点 B。
 - 英文谚语: Knowledge comes, but wisdom lingers.
-- 中文谚语: 知识来了，智慧却裹足不前。
+- 中文谚语: 知识闪亮登场，智慧却姗姗来迟。
 - 英文谚语作者: Alfred Tennyson
 - 中文谚语作者: 阿尔弗雷德·丁尼生（英国诗人）
 
@@ -311,7 +311,7 @@
 - 英文描述: Construct an angle of 45° with the given side.
 - 中文描述: 以给定射线为一边，构造一个 45° 角。
 - 英文谚语: He is unworthy of the name of man who is ignorant of the fact that the diagonal of a square is incommensurable with its side.
-- 中文谚语: 上帝真是徒有其名啊，他居然忽略了正方形的对角线根本不能与其边长通约的事实。
+- 中文谚语: 如果谁不知道正方形的对角线不能与其边长通约的事实，那他就不配拥有人的称呼。
 - 英文谚语作者: Plato
 - 中文谚语作者: 柏拉图（古希腊哲学家、数学家）
 
