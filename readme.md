@@ -1083,7 +1083,7 @@
 - 英文描述: Rotate the line segment 60° clockwise about the given point.
 - 中文描述: 以给定点为中心，将线段顺时针旋转 60°。
 - 英文谚语: Science is simply common sense at its best.
-- 中文谚语: 科学是简单常识的最佳部分。
+- 中文谚语: 科学是简单常识的精华。
 - 英文谚语作者: Thomas Huxley
 - 中文谚语作者: 托马斯·赫胥黎（英国博物学家）
 
