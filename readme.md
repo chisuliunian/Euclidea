@@ -937,7 +937,7 @@
 - 英文描述: Construct the midpoint of the segment using only a straightedge. To help you, a line parallel to the segment is given.
 - 中文描述: 仅使用直尺构造给定线段的中点。为了帮助你，我们提供了一条与该线段平行的直线。
 - 英文谚语: Everything should be made as simple as possible, but not simpler.
-- 中文谚语: 凡事都该弄得尽量简便，但绝不能简陋。
+- 中文谚语: 凡事都应该弄得尽量简便，但绝不能简陋。
 - 英文谚语作者: Albert Einstein
 - 中文谚语作者: 阿尔伯特·爱因斯坦（德国物理学家）
 
@@ -1013,7 +1013,7 @@
 - 英文标题: Triangle by Angle and Centroid
 - 中文标题: 由角和重心构造三角形
 - 英文描述: Construct a segment connecting the sides of the angle to get a triangle whose centroid is in the point O.
-- 中文描述: 构造一条线段，使其连接已知角的两边，并获得一个重心为点 O的三角形。
+- 中文描述: 构造一条线段，使其连接已知角的两边，并获得一个重心为点 O 的三角形。
 - 英文谚语: I think, therefore I am.
 - 中文谚语: 我思故我在。
 - 英文谚语作者: Rene Descartes
