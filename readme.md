@@ -1485,7 +1485,7 @@
 - 英文描述: Construct the midpoint between the given points using only a compass.
 - 中文描述: 仅使用圆规，构造给定两点的中点。
 - 英文谚语: Don't spoil my circles!
-- 中文谚语: 别踩坏我的圆啊！
+- 中文谚语: 别碰我的圆！（罗马士兵破门而入时，阿基米德还在醉心研究圆形，后被杀害）
 - 英文谚语作者: Archimedes
 - 中文谚语作者: 阿基米德（古希腊数学家、物理学家、发明家）
 
@@ -1576,7 +1576,7 @@
 - 英文描述: Construct the intersection of the circle and the line that goes through its center and the given point using only a compass.
 - 中文描述: 仅使用圆规，构造由圆心与给定点定义的直线与已知圆的交点。
 - 英文谚语: Do not ask whether a statement is true until you know what it means.
-- 中文谚语: 在充分理解一个陈述之前，请不要问它是真是假。
+- 中文谚语: 在充分理解一个陈述的意思之前，先别急着问它是真是假。
 - 英文谚语作者: Errett Bishop
 - 中文谚语作者: 艾利·毕晓普（美国数学家）
 
