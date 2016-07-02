@@ -1404,7 +1404,7 @@
 - 英文描述: Construct an equilateral triangle whose one vertex is given and two others lie on the two parallel lines.
 - 中文描述: 构造一个等边三角形，使其一个顶点是给定点，且另两个顶点位于两条平行线上。
 - 英文谚语: The only thing I am interested in using mathematics for is to have a good time and to help others do the same.
-- 中文谚语: 我有兴趣使用数学的唯一因素，是因为这样我能自娱自乐并娱乐他人。
+- 中文谚语: 令我有兴趣使用数学的唯一因素，是因为这样我能自娱自乐并娱乐他人。
 - 英文谚语作者: Paul Lockhart
 - 中文谚语作者: 保罗·洛克哈特（美国宇航员）
 
@@ -1443,7 +1443,7 @@
 - 英文描述: Construct a circle that is tangent to the two given circles and touches one of them in the given point.
 - 中文描述: 构造一个圆，使其与两个已知圆相切，并与其中一个圆相切于给定点。
 - 英文谚语: There is still a difference between something and nothing, but it is purely geometrical and there is nothing behind the geometry.
-- 中文谚语: 在“有一些”和“什么都没有”之间仍有不同，但这是纯几何意义上的，除去几何再无他物。
+- 中文谚语: 在“有啥”和“没啥”之间仍有个不同点，但这是纯几何意义上的，除去几何再无他物。
 - 英文谚语作者: Martin Gardner
 - 中文谚语作者: 马丁·加德纳（美国科普作家）
 
