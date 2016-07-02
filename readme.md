@@ -19,7 +19,7 @@
 - 英文描述: Construct the perpendicular bisector of the segment.
 - 中文描述: 作给定线段的垂直平分线。
 - 英文谚语: Education is what remains after one has forgotten everything he learned in school.
-- 中文谚语: 所谓教育，就是一个人抛开在学校所学之后保留下来的东西。
+- 中文谚语: 所谓教育，就是一个人忘掉在学校所学之后保留下来的东西。
 - 英文谚语作者: Albert Einstein
 - 中文谚语作者: 阿尔伯特·爱因斯坦（德国物理学家）
 
