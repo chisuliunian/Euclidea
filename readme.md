@@ -178,7 +178,7 @@
 - 英文描述: Erect a perpendicular from the point on the line.
 - 中文描述: 由直线上的一个点构造该直线的垂线。
 - 英文谚语: What we know is not much. What we do not know is immense.
-- 中文谚语: 我们懂得的东西并不多。我们不明白的实在是难以计数。
+- 中文谚语: 我们知道的东西是有限的，我们不知道的东西则是无穷的。
 - 英文谚语作者: Pierre-Simon Laplace
 - 中文谚语作者: 皮埃尔-西蒙·拉普拉斯（法国数学家、天文学家）
 
@@ -191,7 +191,7 @@
 - 英文描述: Construct a tangent to the circle at the given point.
 - 中文描述: 构造一条切线，使其与圆在给定点相切。
 - 英文谚语: If a man's wit be wandering, let him study the mathematics.
-- 中文谚语: 如果有人精神涣散，那就让他去学习数学吧。
+- 中文谚语: 假若一个人心神散乱，最好让他学习数学。（因为在演算时必须全神贯注，否则注意力稍一分散，就得从头做起）
 - 英文谚语作者: Francis Bacon
 - 中文谚语作者: 弗朗西斯·培根（英国哲学家）
 
