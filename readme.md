@@ -632,7 +632,7 @@
 - 英文描述: Construct a segment from the given point that is equal to the given segment and lies on the same line with it.
 - 中文描述: 以给定一点为端点，作一条与已知线段长度相等的线段，且两条线段共线。
 - 英文谚语: Let no man who is not a Mathematician read the elements of my work.
-- 中文谚语: 我才不要让不是数学家的人来看懂我作品的原理呢。（外行请走开）
+- 中文谚语: 我要让不是数学家的人看不懂我作品的原理。
 - 英文谚语作者: Leonardo da Vinci
 - 中文谚语作者: 莱奥纳多·达·芬奇（意大利科学家、艺术家）
 
@@ -671,7 +671,7 @@
 - 英文描述: Construct a segment from the given point parallel and equal to the given segment.
 - 中文描述: 以给定点为端点，作一条与已知线段平行且相等的线段。
 - 英文谚语: Mathematics is a game played according to certain rules with meaningless marks on paper.
-- 中文谚语: 数学是一种按照特定规则在纸上作着各种无聊标记的游戏。
+- 中文谚语: 数学是一种按照特定规则在纸上作着各种无意义标记的游戏。
 - 英文谚语作者: David Hilbert
 - 中文谚语作者: 大卫·希尔伯特（德国数学家）
 
@@ -830,7 +830,7 @@
 - 英文描述: Construct a line through the given point such that it cuts off equal segments on the sides of the angle.
 - 中文描述: 过给定点作一条直线，使其在角的两边上截的线段长度相等。
 - 英文谚语: There are two ways to do great mathematics. The first is to be smarter than everybody else. The second way is to be stupider than everybody else — but persistent.
-- 中文谚语: 有两种方法可以学好数学。一种是比其他人都聪明。第二种是虽比其他人都笨，但锲而不舍。
+- 中文谚语: 有两种方法可以学好数学。第一种是比其他人都聪明。第二种是虽比其他人都笨，但锲而不舍。
 - 英文谚语作者: Raoul Bott
 - 中文谚语作者: 拉乌尔·伯特（匈牙利数学家）
 
@@ -843,7 +843,7 @@
 - 英文描述: Construct two rays that divide the given angle of 54° into three equal parts.
 - 中文描述: 作两条射线，将给定的54°角分为三个相等的部分。
 - 英文谚语: If I feel unhappy, I do mathematics to become happy. If I am happy, I do mathematics to keep happy.
-- 中文谚语: 如果我不快乐，我会钻研数学令自己快乐起来。如果我快乐，我会钻研数学让自己快乐下去。
+- 中文谚语: 如果我不快乐，我会钻研数学令自己快乐起来。如果我快乐，我会钻研数学让自己一直快乐下去。
 - 英文谚语作者: Alfred Rényi
 - 中文谚语作者: 阿尔弗雷德·瑞尼（匈牙利数学家）
 
@@ -1310,7 +1310,7 @@
 - 英文描述: Construct a triangle given the midpoints of its sides.
 - 中文描述: 给定各边中点，作一个三角形。
 - 英文谚语: "Obvious" is the most dangerous word in mathematics.
-- 中文谚语: "显然"是数学中最危险的词汇。
+- 中文谚语: “显然”是数学中最危险的词汇。
 - 英文谚语作者: Eric Bell
 - 中文谚语作者: 埃里克·贝尔（苏格兰数学家）
 
