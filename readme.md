@@ -534,7 +534,7 @@
 - Level 5.6
 - ![5.6](images/level/hash.png) 
 - 英文标题: Hash
-- 中文标题: 切细
+- 中文标题: 井号#
 - 英文描述: Construct a line through the given point on which two pairs of parallel lines cut off equal line segments.
 - 中文描述: 过给定点构造一条直线，使其被已知的两对平行线所切割的线段相等。
 - 英文谚语: No other science than mathematics strengthens so much our faith in the power of the human mind.
@@ -590,7 +590,7 @@
 - 英文描述: Construct a regular hexagon with the given side.
 - 中文描述: 以给定线段为一边，构造一个正六边形。
 - 英文谚语: If only I had the theorems! Then I should find the proofs easily enough.
-- 中文谚语: 要是我早知道这个定理就好了！这样我就能很容易找到证明啦。
+- 中文谚语: 我要是早知道这个定理就好了！这样我就能很容易找到证明啦。
 - 英文谚语作者: Bernard Riemann
 - 中文谚语作者: 伯纳德·黎曼（德国数学家）
 
