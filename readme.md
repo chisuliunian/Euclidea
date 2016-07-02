@@ -1031,7 +1031,7 @@
 - 英文描述: Construct a tangent to the circle from the external point.
 - 中文描述: 由圆外一点构造圆的一条切线。
 - 英文谚语: Nothing is more important than to see the sources of invention which are, in my opinion more interesting than the inventions themselves.
-- 中文谚语: 没有什么比看到创意的源泉更重要，在我看来这比创意本身有意思得多。
+- 中文谚语: 没有什么比看到创意的源泉更重要，这在我看来这比创意本身更具趣味。
 - 英文谚语作者: Gottfried Leibniz
 - 中文谚语作者: 戈特弗莱德·莱布尼茨（德国数学家）
 
@@ -1083,7 +1083,7 @@
 - 英文描述: Rotate the line segment 60° clockwise about the given point.
 - 中文描述: 以给定点为中心，将线段顺时针旋转 60°。
 - 英文谚语: Science is simply common sense at its best.
-- 中文谚语: 科学是以己所能让人通俗易懂的简单常识。
+- 中文谚语: 科学是简单常识的最佳部分。
 - 英文谚语作者: Thomas Huxley
 - 中文谚语作者: 托马斯·赫胥黎（英国博物学家）
 
@@ -1107,9 +1107,9 @@
 - 英文标题: Segment Trisection*
 - 中文标题: 线段三等分*
 - 英文描述: Construct points that divide the segment into three equal parts using only a straightedge. To help you, a line parallel to the segment is given.
-- 中文描述: 仅使用直尺，构造将线段平分为长度相等三段的点。为了帮助你，我们提供了一条与该线段平行的直线。
+- 中文描述: 仅使用直尺，作出两点将线段平分为长度相等的三段。为了帮助你，我们提供了一条与该线段平行的直线。
 - 英文谚语: Beauty is the first test: there is no permanent place in the world for ugly mathematics.
-- 中文谚语: 美是首要的标准：世上是没有留给丑陋数学的永久容身之地的。
+- 中文谚语: 美是首要的标准：世上没有留给丑陋数学的永久容身之地。
 - 英文谚语作者: Godfrey Hardy
 - 中文谚语作者: 高德菲·哈代（英国数学家）
 
@@ -1122,7 +1122,7 @@
 - 英文描述: Construct a chord of the larger circle through the given point that is divided into three equal segments by the smaller circle.
 - 中文描述: 过给定点构造大圆的一条弦，使其被小圆平分成三条长度相等的线段。
 - 英文谚语: Mathematics is the door and key to the sciences.
-- 中文谚语: 数学是通往其他科学的入口和钥匙。
+- 中文谚语: 数学是通往科学的入口和钥匙。
 - 英文谚语作者: Roger Bacon
 - 中文谚语作者: 罗吉尔·培根（英国思想家、科学家）
 
