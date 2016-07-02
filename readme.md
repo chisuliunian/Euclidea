@@ -379,7 +379,7 @@
 - 英文描述: Inscribe an equilateral triangle in the circle using the given point as a vertex. The center of the circle is not given.
 - 中文描述: 圆心未知，以给定点为顶点，在圆中作一个内接等边三角形。
 - 英文谚语: We do not choose mathematics as our profession; it chooses us.
-- 中文谚语: 并非是我们选择了数学作为职业，而是她选择了我们。
+- 中文谚语: 并非是我们选择了数学作为职业，而是它选择了我们。
 - 英文谚语作者: Yuri Manin
 - 中文谚语作者: 尤里·曼宁（俄国数学家）
 
@@ -431,7 +431,7 @@
 - 英文描述: Construct an angle of 15° with the given side.
 - 中文描述: 以给定射线为一边，构造一个 15° 角。
 - 英文谚语: If we know anything we know it by mathematics.
-- 中文谚语: 如果某一天我们达成了无所不知的成就，那也是因为我们使用了数学。
+- 中文谚语: 如果某一天我们无所不知，那也是因为使用了数学。
 - 英文谚语作者: Pierre Gassendi
 - 中文谚语作者: 皮埃尔·伽桑狄（法国哲学家、数学家）
 
