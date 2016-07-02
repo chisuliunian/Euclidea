@@ -989,7 +989,7 @@
 - 英文描述: Inscribe a triangle into the given whose perimeter is the minimum possible.
 - 中文描述: 在已知三角形中作一个内接三角形，使其周长尽可能最短。
 - 英文谚语: The roots of education are bitter, but the fruit is sweet.
-- 中文谚语: 教育的根是苦涩的，但结出的果却实是甜蜜的。
+- 中文谚语: 教育的根是苦涩的，但结出的果却是甜蜜的。
 - 英文谚语作者: Aristotle
 - 中文谚语作者: 亚里士多德（古希腊哲学家、数学家）
 
