@@ -606,7 +606,7 @@
 - 英文描述: Reflect the segment across the point.
 - 中文描述: 作已知线段关于定点对称的线段。
 - 英文谚语: Symmetry is one of the ideas by which man through the ages has tried to comprehend and create order, beauty, and perfection.
-- 中文谚语: 对称是人类从古至今试图理解和创造秩序、美丽和完美的法则。
+- 中文谚语: 对称是人类从古至今试图理解和创造秩序、美丽及完美的法则。
 - 英文谚语作者: Hermann Weyl
 - 中文谚语作者: 赫尔曼·威尔（德国数学家）
 
@@ -619,7 +619,7 @@
 - 英文描述: Reflect the segment across the line.
 - 中文描述: 作关于定直线轴对称的线段。
 - 英文谚语: Symmetry is what we see at a glance; based on the fact that there is no reason for any difference...
-- 中文谚语: 我们看到了对称的惊鸿一瞥，它让任何差异失去了存在的理由。
+- 中文谚语: 向对称的惊鸿一瞥，让任何差异失去了存在的理由。
 - 英文谚语作者: Blaise Pascal
 - 中文谚语作者: 布莱士·帕斯卡（法国哲学家、数学家，概率论奠基人）
 
@@ -645,7 +645,7 @@
 - 英文描述: Construct two straight lines through the two given points respectively so that the given line is a bisector of the angle that they make.
 - 中文描述: 分别过两个定点构造两条直线，使由新直线构成的角被给定直线所平分。
 - 英文谚语: I would live to study, and not study to live.
-- 中文谚语: 我要为钻研而活着，而不是为谋生而钻研。
+- 中文谚语: 我要为钻研而生存，而不是为生存而钻研。
 - 英文谚语作者: Francis Bacon
 - 中文谚语作者: 弗朗西斯·培根（英国哲学家）
 
@@ -684,7 +684,7 @@
 - 英文描述: Construct a triangle with the side AB and the two other sides equal to the given segments.
 - 中文描述: 以 AB为一边，构造一个三角形，使其另外两边分别与两给定线段长度相等。
 - 英文谚语: One geometry cannot be more true than another; it can only be more convenient.
-- 中文谚语: 任何一种几何学并不显得比其他的更正确，它可能只是更方便。
+- 中文谚语: 任何一种几何学并不显得比其他的更正确，它只能是更方便。
 - 英文谚语作者: Henri Poincaré
 - 中文谚语作者: 昂立·庞加莱（法国数学家）
 
