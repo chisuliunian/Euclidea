@@ -1402,9 +1402,9 @@
 - 英文标题: Equilateral Triangle - 2
 - 中文标题: 等边三角形 - 2
 - 英文描述: Construct an equilateral triangle whose one vertex is given and two others lie on the two parallel lines.
-- 中文描述: 给定一个顶点，另两个顶点位于两条平行线上，构造一个等边三角形。
+- 中文描述: 构造一个等边三角形，使其一个顶点是给定点，且另两个顶点位于两条平行线上。
 - 英文谚语: The only thing I am interested in using mathematics for is to have a good time and to help others do the same.
-- 中文谚语: 在使用数学时令我唯一感兴趣的一点是自娱自乐并娱乐他人。
+- 中文谚语: 我有兴趣使用数学的唯一因素，是因为这样我能自娱自乐并娱乐他人。
 - 英文谚语作者: Paul Lockhart
 - 中文谚语作者: 保罗·洛克哈特（美国宇航员）
 
@@ -1415,7 +1415,7 @@
 - 英文标题: Square in Triangle
 - 中文标题: 三角形的内接正方形
 - 英文描述: Inscribe a square in the acute triangle ABC so that one of its sides lies on AC.
-- 中文描述: 在锐角三角形 ABC 中作一个内接正方形，使正方形的一条边位于 AC 上。
+- 中文描述: 在锐角三角形 ABC 中作一个内接正方形，使其一条边位于 AC 上。
 - 英文谚语: The line of life is a ragged diagonal between duty and desire.
 - 中文谚语: 生活的路线是责任与欲望之间的一条不规则的对角线。
 - 英文谚语作者: William Alger
@@ -1426,7 +1426,7 @@
 - Level 12.4
 - ![12.4](images/level/equidistant2.png) 
 - 英文标题: Point Equidistant from Side of Angle and Point
-- 中文标题: 与定点和角边等距的点
+- 中文标题: 与定点和角的边等距的点
 - 英文描述: Given an angle ABC and a point M inside it, find points D on BA and E on BC and construct segments MD and DE of equal length so that DE is perpendicular to BC.
 - 中文描述: 已知角 ABC 和其内一点 M，在 BA 和 BC 上分别找到点 D 和 E，构造长度相等的线段 MD 和 DE，使 DE 垂直于 BC。
 - 英文谚语: You can't criticize geometry. It's never wrong.
@@ -1443,7 +1443,7 @@
 - 英文描述: Construct a circle that is tangent to the two given circles and touches one of them in the given point.
 - 中文描述: 构造一个圆，使其与两个已知圆相切，并与其中一个圆相切于给定点。
 - 英文谚语: There is still a difference between something and nothing, but it is purely geometrical and there is nothing behind the geometry.
-- 中文谚语: 在某物和无物之间还有个不同点，某物总是纯粹契合几何学的，然而几何学背后则是无物的。
+- 中文谚语: 在“有一些”和“什么都没有”之间仍有不同，但这是纯几何意义上的，除去几何再无他物。
 - 英文谚语作者: Martin Gardner
 - 中文谚语作者: 马丁·加德纳（美国科普作家）
 
@@ -1467,7 +1467,7 @@
 - 英文标题: Triangle by Tangent Point on Hypotenuse
 - 中文标题: 由斜边上的切点构造三角形
 - 英文描述: Construct a right triangle with the given hypotenuse and the tangent point of its incircle.
-- 中文描述: 由给定的斜边和其上一个内切圆的切点，构造一个直角三角形。
+- 中文描述: 由给定的斜边和其上内切圆的切点，构造一个直角三角形。
 - 英文谚语: Since we cannot know all that there is to be known about anything, we ought to know a little about everything.
 - 中文谚语: 既然我们无法了解有关任何东西的所有事，我们就尽量去了解有关所有东西的些许事吧。
 - 英文谚语作者: Blaise Pascal
