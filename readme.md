@@ -1443,7 +1443,7 @@
 - 英文描述: Construct a circle that is tangent to the two given circles and touches one of them in the given point.
 - 中文描述: 作一个圆，使其与两个已知圆相切，并与其中一个圆相切于给定点。
 - 英文谚语: There is still a difference between something and nothing, but it is purely geometrical and there is nothing behind the geometry.
-- 中文谚语: 在“有啥”和“没啥”之间仍有个不同点，但这是纯几何意义上的，除去几何再无他物。
+- 中文谚语: 在“实在”和“虚无”之间总有个不同点，但这是纯几何意义上的本质不同，除去几何以外再无他物。
 - 英文谚语作者: Martin Gardner
 - 中文谚语作者: 马丁·加德纳（美国科普作家）
 
