@@ -32,7 +32,7 @@
 - 英文描述: Construct the midpoint between two points.
 - 中文描述: 作给定两点的中点。
 - 英文谚语: Without geometry, life would be pointless.
-- 中文谚语: 没有几何，生活将毫无意义。（双关语。字面意思为：没有几何，生活就没有了“点”。）
+- 中文谚语: 没有了几何，生活就失去了一切看点。（双关语。字面意思为：没有几何，生活就没有了“点”。）
 - 英文谚语作者: Joke
 - 中文谚语作者: 俚语
 
