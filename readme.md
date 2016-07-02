@@ -32,7 +32,7 @@
 - 英文描述: Construct the midpoint between two points.
 - 中文描述: 作给定两点的中点。
 - 英文谚语: Without geometry, life would be pointless.
-- 中文谚语: 没有了几何，生活就失去了一切看点。（双关语。字面意思为：没有几何，生活就没有了“点”。）
+- 中文谚语: 没有了几何，生活就失去了一切看点。
 - 英文谚语作者: Joke
 - 中文谚语作者: 俚语
 
@@ -152,7 +152,7 @@
 - 英文描述: Construct a line through the given point that cuts the rectangle into two parts of equal area.
 - 中文描述: 过给定点作一条直线，将矩形分割成面积相等的两部分。
 - 英文谚语: Measure twice, cut once!
-- 中文谚语: 三思而后行。（大胆假设，小心求证）
+- 中文谚语: 三思而后行。
 - 英文谚语作者: Proverb
 - 中文谚语作者: 谚语
 
@@ -191,7 +191,7 @@
 - 英文描述: Construct a tangent to the circle at the given point.
 - 中文描述: 作一条切线，使其在给定点与圆相切。
 - 英文谚语: If a man's wit be wandering, let him study the mathematics.
-- 中文谚语: 假若一个人心神散乱，最好让他学习数学。（因为在演算时必须全神贯注，否则注意力稍一分散，就得从头做起）
+- 中文谚语: 假若一个人心神散乱，最好让他学习数学。
 - 英文谚语作者: Francis Bacon
 - 中文谚语作者: 弗朗西斯·培根（英国哲学家）
 
@@ -1133,7 +1133,7 @@
 - 英文标题: Ratio 1 to 5
 - 中文标题: 1:5的比例
 - 英文描述: Construct a point on the line segment that divides it in the ratio 1 : 5.
-- 中文描述: 求作一点，使其以1:5的比例分割给定线段。
+- 中文描述: 求作一点，使其将给定线段分为1:5的两段。
 - 英文谚语: In mathematics the art of proposing a question must be held of higher value than solving it.
 - 中文谚语: 在数学中，提问的艺术，其价值肯定比解题能力要来得更高。
 - 英文谚语作者: Georg Cantor
@@ -1214,7 +1214,7 @@
 - 英文标题: Golden Section
 - 中文标题: 黄金分割
 - 英文描述: Construct a point that divides the segment in the "golden section".
-- 中文描述: 求作一点，将线段以“黄金分割”比例分割。
+- 中文描述: 求作一点，使其将给定线段“黄金分割”。
 - 英文谚语: The Golden ratio has inspired thinkers of all disciplines like no other number in the history of mathematics.
 - 中文谚语: 在数学史中没有任何别的数像黄金分割比那样启发了那么多学科的思想者们。
 - 英文谚语作者: Mario Livio
