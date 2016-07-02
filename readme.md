@@ -6,7 +6,7 @@
 - 英文描述: Construct an angle of 60° with the given side.
 - 中文描述: 以给定射线为一边，作一个 60° 角。
 - 英文谚语: Let no one ignorant of geometry enter here.
-- 中文谚语: 几何启蒙，由此入门。（其实是：只有懂几何的人才能入我的门）
+- 中文谚语: 几何启蒙，由此入门。（其实是：不是几何人，不进一家门）
 - 英文谚语作者: Plato
 - 中文谚语作者: 柏拉图（古希腊哲学家、数学家）
 
@@ -71,7 +71,7 @@
 - 英文描述: Construct the center of the circle.
 - 中文描述: 构造给定圆的中心。
 - 英文谚语: Nature is an infinite sphere of which the center is everywhere and the circumference nowhere.
-- 中文谚语: 自然就像个无穷大的球体，中心到处都是，边界却无处可寻。
+- 中文谚语: 自然就像个无穷大的球体，明明到处都是中心，边界却无处可寻。
 - 英文谚语作者: Blaise Pascal
 - 中文谚语作者: 布莱士·帕斯卡（法国哲学家、数学家，概率论奠基人）
 
