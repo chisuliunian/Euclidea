@@ -1031,7 +1031,7 @@
 - 英文描述: Construct a tangent to the circle from the external point.
 - 中文描述: 由圆外一点构造圆的一条切线。
 - 英文谚语: Nothing is more important than to see the sources of invention which are, in my opinion more interesting than the inventions themselves.
-- 中文谚语: 没有什么比看到创意的源泉更重要，这在我看来这比创意本身更具趣味。
+- 中文谚语: 没有什么比看到创意的源泉更重要，这在我看来这比创意本身更有趣。
 - 英文谚语作者: Gottfried Leibniz
 - 中文谚语作者: 戈特弗莱德·莱布尼茨（德国数学家）
 
