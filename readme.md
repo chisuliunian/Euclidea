@@ -1483,9 +1483,9 @@
 - 英文标题: Midpoint*
 - 中文标题: 中点*
 - 英文描述: Construct the midpoint between the given points using only a compass.
-- 中文描述: 仅使用圆规构造给定两点的中点。
+- 中文描述: 仅使用圆规，构造给定两点的中点。
 - 英文谚语: Don't spoil my circles!
-- 中文谚语: 别糟蹋我的圆啊！
+- 中文谚语: 别踩坏我的圆啊！
 - 英文谚语作者: Archimedes
 - 中文谚语作者: 阿基米德（古希腊数学家、物理学家、发明家）
 
@@ -1509,9 +1509,9 @@
 - 英文标题: Line-Circle Intersection
 - 中文标题: 直线与圆的交点
 - 英文描述: Construct the intersection of the circle and the line defined by the two given points using only a compass.
-- 中文描述: 仅使用圆规构造由两个给定点定义的直线与已知圆的交点。
+- 中文描述: 仅使用圆规，构造由两个给定点定义的直线与已知圆的交点。
 - 英文谚语: A mathematician, like a painter or a poet, is a maker of patterns. If his patterns are more permanent than theirs, it is because they are made with ideas.
-- 中文谚语: 一名数学家，就像画家或诗人，是款式的创造者。如果他的款式比其他人流传更长久，那是因为它们是用思想锤炼出来的。
+- 中文谚语: 一名数学家，就像画家或诗人，是模式的创造者。如果他的模式比其他人流传更长久，那是因为它们是用思想锤炼出来的。
 - 英文谚语作者: Godfrey Hardy
 - 中文谚语作者: 高德菲·哈罗德·哈代（英国数学家）
 
@@ -1522,7 +1522,7 @@
 - 英文标题: Three Equal Segments
 - 中文标题: 三条相等的线段
 - 英文描述: Construct a segment whose ends lie on the sides of the angle such that three marked segments are equal.
-- 中文描述: 构造一条线段，端点分别位于角的两边上，使三条标记的线段相等。
+- 中文描述: 构造端点分别位于某角两边上的线段，使得三条标记的线段相等。
 - 英文谚语: We do not know a truth without knowing its cause.
 - 中文谚语: 不明缘由，就不知真相。
 - 英文谚语作者: Aristotle
@@ -1539,7 +1539,7 @@
 - 英文谚语: Projective geometry is all geometry.
 - 中文谚语: 射影几何即一切几何。
 - 英文谚语作者: Arthur Cayley
-- 中文谚语作者: 阿瑟・凯利（英国数学家）
+- 中文谚语作者: 阿瑟·凯利（英国数学家）
 
 
 #### Napoleon
@@ -1587,8 +1587,8 @@
 - 英文标题: Circle with Center on Line
 - 中文标题: 圆心在直线上的圆
 - 英文描述: Construct a circle with the center on the given line so that it passes through the given point and tangent to the given circle.
-- 中文描述: 构造一个圆，圆心位于给定直线上，并使其过给定点且与已知圆相切。
+- 中文描述: 构造圆心在给定直线上的圆，使其经过给定点并与给定圆相切。
 - 英文谚语: A mind is a fire to be kindled, not a vessel to be filled.
 - 中文谚语: 思想是待点燃的火苗，而不是待填满的容器。
 - 英文谚语作者: Plutarch
-- 中文谚语作者:普鲁塔克（希腊历史学家）
+- 中文谚语作者: 普鲁塔克（希腊历史学家）
