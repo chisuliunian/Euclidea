@@ -1190,7 +1190,7 @@
 - 英文描述: Construct a point D on the ray OC such that the segment OD is the fourth proportional to the given segments.
 - 中文描述: 在射线 OC 上构造点 D，使线段 OD 为已知线段的第四比例项。
 - 英文谚语: Mathematics is concerned only with the enumeration and comparison of relations.
-- 中文谚语: 数学所关注的只是数字的运算和关系的比较。
+- 中文谚语: 数学所关注的只是关系的枚举和比较。
 - 英文谚语作者: Friedrich Gauss
 - 中文谚语作者: 弗莱德里希·高斯（德国数学家）
 
@@ -1201,7 +1201,7 @@
 - 英文标题: Geometric Mean of Segments
 - 中文标题: 线段的几何平均数
 - 英文描述: Construct a point on the given ray to get a segment with length equal to the geometric mean of two adjacent segments.
-- 中文描述: 在给定射线上构造一个点，获得一条线段，使其长度等于两条相邻线段的几何平均数。
+- 中文描述: 在给定射线上构造一个点，以获得一条线段，使其长度等于两条相邻线段的几何平均数。
 - 英文谚语: Mathematics is the part of physics where experiments are cheap.
 - 中文谚语: 数学是物理的一部分，但在这儿做实验要便宜得多。
 - 英文谚语作者: Vladimir Arnold
@@ -1216,7 +1216,7 @@
 - 英文描述: Construct a point that divides the segment in the "golden section".
 - 中文描述: 构造一点，将线段以"黄金分割"比例分割。
 - 英文谚语: The Golden ratio has inspired thinkers of all disciplines like no other number in the history of mathematics.
-- 中文谚语: 在数学史中没有任何一个数字像黄金分割比那样启发了那么多学科的思想者们。
+- 中文谚语: 在数学史中没有任何别的数像黄金分割比那样启发了那么多学科的思想者们。
 - 英文谚语作者: Mario Livio
 - 中文谚语作者: 马里奥·利维奥（美国天文学界）
 
@@ -1279,7 +1279,7 @@
 - 英文标题: Regular Pentagon
 - 中文标题: 正五边形
 - 英文描述: Construct a regular pentagon inscribed in the circle. A vertex is given.
-- 中文描述: 以给定点为顶点，构造一个内接于圆的正五边形。
+- 中文描述: 构造一个内接于圆的正五边形，其中一个顶点已给出。
 - 英文谚语: Mighty is geometry; joined with art, resistless.
 - 中文谚语: 几何本已足够强大，若结合艺术，则更是如虎添翼，令人不可抗拒。
 - 英文谚语作者: Euripides
@@ -1296,7 +1296,7 @@
 - 英文谚语: Like all other sciences, mathematics arose out of the needs of men: from the measurement of land and the content of vessels, from the computation of time and from mechanics.
 - 中文谚语: 如同其他学科一样，数学升华于人类自身的需求：始于丈量土地和测量容积，始于计量时间，始于机械力学。
 - 英文谚语作者: Friedrich Engels
-- 中文谚语作者:弗莱德里希·恩格斯（德国哲学家）
+- 中文谚语作者: 弗莱德里希·恩格斯（德国哲学家）
 
 
 
