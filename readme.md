@@ -950,7 +950,7 @@
 - 英文描述: Construct a line through the point that crosses the two lines so that the interior angles are equal.
 - 中文描述: 经过给定点作一条与两已知直线相交的直线，并且使两个内角相等。
 - 英文谚语: I am ever more convinced that the necessity of our (Euclidean) geometry cannot be proved — at least not by human reason for human reason.
-- 中文谚语: 我曾经相信我们欧几里得几何的必要性是无法证明的，至少不能为了人类的原因而用人类的理性去证明。
+- 中文谚语: 我越发相信我们欧几里得几何的必要性是无法证明的，至少不能为了人类的原因而用人类的理性去证明。
 - 英文谚语作者: Carl Friedrich Gauss
 - 中文谚语作者: 卡尔·弗雷德里希·高斯（德国数学家、天文学家、物理学家）
 
@@ -989,7 +989,7 @@
 - 英文描述: Inscribe a triangle into the given whose perimeter is the minimum possible.
 - 中文描述: 在已知三角形中作一个内接三角形，使其周长尽可能最短。
 - 英文谚语: The roots of education are bitter, but the fruit is sweet.
-- 中文谚语: 教育的本质是苦涩的，但结出的果却实是甜蜜的。
+- 中文谚语: 教育的根是苦涩的，但结出的果却实是甜蜜的。
 - 英文谚语作者: Aristotle
 - 中文谚语作者: 亚里士多德（古希腊哲学家、数学家）
 
@@ -1000,7 +1000,7 @@
 - 英文标题: Harmonic Mean of Segments
 - 中文标题: 线段的调和平均数
 - 英文描述: Construct a point on the given ray to get a segment with length equal to the harmonic mean of the two adjacent segments.
-- 中文描述: 在给定射线上构造一个点，获得一条线段，其长度等于两条相邻线段的调和平均数。
+- 中文描述: 在给定射线上构造一个点，以获得一条线段，其长度等于两条相邻线段的调和平均数。
 - 英文谚语: Geometry is knowledge of the eternally existent.
 - 中文谚语: 几何学是关于不朽的知识。
 - 英文谚语作者: Pythagoras
