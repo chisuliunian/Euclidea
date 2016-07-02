@@ -641,7 +641,7 @@
 - Level 6.4
 - ![6.4](images/level/given-angle-bisector.png) 
 - 英文标题: Given Angle Bisector
-- 中文标题: 已知角平分线
+- 中文标题: 给定角平分线
 - 英文描述: Construct two straight lines through the two given points respectively so that the given line is a bisector of the angle that they make.
 - 中文描述: 分别过两个定点构造两条直线，使由新直线构成的角被给定直线所平分。
 - 英文谚语: I would live to study, and not study to live.
