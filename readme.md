@@ -473,7 +473,7 @@
 - 英文描述: Construct a line parallel to the given line through the given point.
 - 中文描述: 过给定点构造一条与已知直线平行的直线。
 - 英文谚语: It is ignorance alone that could lead anyone to try to prove the axiom.
-- 中文谚语: 只有无知才会让人试图去证明公理。
+- 中文谚语: 只有无知才会让人去试图证明公理。
 - 英文谚语作者: Aristotle
 - 中文谚语作者: 亚里士多德（古希腊哲学家、数学家）
 
@@ -486,7 +486,7 @@
 - 英文描述: Construct a parallelogram whose three of four vertices are given.
 - 中文描述: 已给定四个顶点中的三个，构造一个平行四边形。
 - 英文谚语: Logic is invincible, because in order to combat logic it is necessary to use logic.
-- 中文谚语: 逻辑是无敌的，因为若想要战胜逻辑，你还是不得不使用逻辑。
+- 中文谚语: 逻辑是无敌的，因为若想要战胜逻辑，你还是得使用逻辑。
 - 英文谚语作者: Pierre Boutroux
 - 中文谚语作者: 皮埃尔·布特鲁（法国数学家）
 
@@ -497,7 +497,7 @@
 - 英文标题: Line Equidistant from Two Points - 1
 - 中文标题: 两点的等距线 - 1
 - 英文描述: Construct a line through the point C and at equal distance from the points A and B but that does not pass between them.
-- 中文描述: 过点 C 构造一条直线，使其与点 A 和 B 的距离相等，但直线不通过点 A 和 B 之间。
+- 中文描述: 过点 C 构造一条直线，使其与点 A 和 B 的距离相等，但不通过点 A 和 B 之间。
 - 英文谚语: Mathematics is a tool for reasoning.
 - 中文谚语: 数学是理性的工具。
 - 英文谚语作者: Richard Feynman
@@ -534,7 +534,7 @@
 - Level 5.6
 - ![5.6](images/level/hash.png) 
 - 英文标题: Hash
-- 中文标题: 哈希
+- 中文标题: 切细
 - 英文描述: Construct a line through the given point on which two pairs of parallel lines cut off equal line segments.
 - 中文描述: 过给定点构造一条直线，使其被已知的两对平行线所切割的线段相等。
 - 英文谚语: No other science than mathematics strengthens so much our faith in the power of the human mind.
@@ -547,7 +547,7 @@
 - Level 5.7
 - ![5.7](images/level/shift-angle.png) 
 - 英文标题: Shift Angle
-- 中文标题: 移位角
+- 中文标题: 转移角
 - 英文描述: Construct an angle from the given point that is equal to the given angle so that their sides are parallel.
 - 中文描述: 以给定点构造一个角，使其与已知角相等且两边与已知角的两边平行。
 - 英文谚语: Geometry is the real life.
