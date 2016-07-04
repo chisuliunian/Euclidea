@@ -773,7 +773,7 @@
 - Level 6.5
 - ![6.5](images/level/circle-by-radius.png) 
 - 英文标题: Non-collapsing Compass
-- 中文标题: 圆规
+- 中文标题: 非闭合圆规
 - 英文描述: Construct a circle with the given center and the radius equal to the length of the given segment.
 - 中文描述: 以给定点为圆心，作一个半径和已知线段长度相等的圆。
 - 英文谚语: There is nothing strange in the circle being the origin of any and every marvel.
