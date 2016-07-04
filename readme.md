@@ -17,7 +17,7 @@
 - 英文描述: Construct a circle with center O through the point P. Select the Circle tool and click on the center, then on any point of the circle.
 - 中文描述: 以O为圆心，过点P构造一个圆。选择圆工具，并依次点击圆心和圆周上任意一点。您也可以将手指从圆心拖动到圆周上的点。
 - 英文谚语: Circles can only be drawn starting from two given points: the center and a point on the circle. The compass collapses when it is not drawing a circle.
-- 中文谚语: 圆只能由给定的两点作出：圆心及圆周上一点。不作圆时圆规是闭合的。
+- 中文谚语: 圆只能由给定的两点作出：圆心及圆周上一点。不作圆时的圆规是闭合的。
 - 英文谚语作者: Wikipedia
 - 中文谚语作者: 维基百科
 
@@ -125,7 +125,7 @@
 - 英文描述: Construct an angle of 60° with the given side.
 - 中文描述: 以给定射线为一边，作一个 60° 角。
 - 英文谚语: Let no one ignorant of geometry enter here.
-- 中文谚语: 不懂几何者勿入此门。
+- 中文谚语: 不懂几何者，请勿入此门。
 - 英文谚语作者: Plato
 - 中文谚语作者: 柏拉图（古希腊哲学家、数学家）
 
@@ -164,7 +164,7 @@
 - 英文描述: Inscribe a circle in the square.
 - 中文描述: 在给定正方形中作一个内切圆。
 - 英文谚语: You can't fit a round peg in a square hole.
-- 中文谚语: 你不能在一个正方形的洞里装一个圆钉。
+- 中文谚语: 圆的榫头和方的卯眼是没办法契合的。
 - 英文谚语作者: American proverb
 - 中文谚语作者: 美国谚语
 
