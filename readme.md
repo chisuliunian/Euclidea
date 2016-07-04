@@ -3,7 +3,7 @@
 - 英文标题: Tutorial: Line Tool
 - 中文标题: 教程：直线工具
 - 英文描述: Construct a triangle with the given vertices. To create a segment or a line, select the Line tool and click on one point, then on another one.
-- 中文标题: 以给定顶点构造一个三角形。要构造一条线段或直线，选择直线工具，然后点击一点，再点击另一点；或者在两点之间拖动您的手指。
+- 中文标题: 以给定顶点构造一个三角形。要作一条线段或直线，选择直线工具，点击一点，再点击另一点；或者在两点之间拖动您的手指。
 - 英文谚语: The idealized ruler, known as a straightedge, is assumed to be infinite in length, and has no markings on it and only one edge.
 - 中文谚语: 理想化的尺，称为直尺，是假定长度无限，没有刻度而且只有一条边。
 - 英文谚语作者: Wikipedia
@@ -15,7 +15,7 @@
 - 英文标题: Tutorial: Circle Tool
 - 中文标题: 教程：圆工具
 - 英文描述: Construct a circle with center O through the point P. Select the Circle tool and click on the center, then on any point of the circle.
-- 中文描述: 以O为圆心，过点P构造一个圆。选择圆工具，并依次点击圆心和圆周上任意一点。您也可以将手指从圆心拖动到圆周上的点。
+- 中文描述: 以O为圆心，过点P作一个圆。选择圆工具，并依次点击圆心和圆周上任意一点。您也可以将手指从圆心拖动到圆周上的点。
 - 英文谚语: Circles can only be drawn starting from two given points: the center and a point on the circle. The compass collapses when it is not drawing a circle.
 - 中文谚语: 圆只能由给定的两点作出：圆心及圆周上一点。不作圆时的圆规是闭合的。
 - 英文谚语作者: Wikipedia
@@ -27,7 +27,7 @@
 - 英文标题: Tutorial: Point Tool
 - 中文标题: 教程：点工具
 - 英文描述: Construct all the intersection points. Select the Point tool and click on the field to create a new point. Points are automatically stuck to the nearest intersection or line.
-- 中文描述: 构造所有的交点。选择点工具，随意点击画板，可构造一个新的点。手指点击时，距离最近的交点或直线将被选中。
+- 中文描述: 作出所有的交点。选择点工具，随意点击画板，可作出一个新的点。手指（或鼠标）点击时，距离最近的交点或直线将被选中。
 - 英文谚语: Euclid originally defined the point as “that which has no part”.
 - 中文谚语: 欧几里得原本一开始将点定义为“不能分割的东西”。
 - 英文谚语作者: Wikipedia
@@ -51,7 +51,7 @@
 - 英文标题: Tutorial: Angle Bisector
 - 中文标题: 教程：角平分线
 - 英文描述: You have discovered the Angle Bisector tool. Click on any point on a side, on the vertex, and on any point on the other side.
-- 中文描述: 您已解锁了角平分线工具。点击边上的任意一点、顶点和另一边上的任意一点。或者沿着两条边拖动您的手指。
+- 中文描述: 您已解锁了角平分线工具。依次点击边上的任意一点、顶点和另一边上的任意一点。或者沿着两条边拖动您的手指。
 - 英文谚语: Note that the Angle Bisector tool costs 4 elementary (E) moves.
 - 中文谚语: 注意使用角平分线工具将耗费4个基础（E）步骤。
 - 英文谚语作者: Euclidea Manual
@@ -87,7 +87,7 @@
 - 英文标题: Tutorial: Non-collapsing Compass
 - 中文标题: 教程：非闭合圆规
 - 英文描述: You have discovered the Non-collapsing Compass tool. Click on two points to set the radius length, then on the center of the circle.
-- 中文描述: 您已解锁了非闭合圆规工具。依次点击两个点设定半径长度，再点击圆心完成作圆。
+- 中文描述: 您已解锁了非闭合圆规工具。依次先点击两个点设定半径长度，再点击圆心完成圆的绘制。
 - 英文谚语: Note that the Compass tool costs 5 elementary (E) moves.
 - 中文谚语: 注意使用圆规工具将耗费5个基础（E）步骤。
 - 英文谚语作者: Euclidea Manual
@@ -98,7 +98,7 @@
 - 英文标题: Tutorial: Intersect Tool
 - 中文标题: 教程：相交工具
 - 英文描述: If it is hard to hit the required intersection since lines are too close to each other, use the Intersect tool. Select one object (a circle or a line), then the second one. To practice, construct the intersection of the given circles.
-- 中文描述: 如果线与线之间距离太近，难以一下选定所需的交点，可以使用相交工具。 选择一个对象（圆或直线），再选择第二个对象。 作为练习，请作出给定圆的交点。
+- 中文描述: 如果线与线之间距离太近，难以一下选定所需的交点，可以使用相交工具。 依次先选择一个对象（圆或直线），再选择第二个对象。 作为练习，请作出给定圆的交点。
 - 英文谚语: Every intersection has a story.
 - 中文谚语: 每一个交点都有一段故事。
 - 英文谚语作者: Katherine Dunn
