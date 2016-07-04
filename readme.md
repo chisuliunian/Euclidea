@@ -1,3 +1,122 @@
+##### T1_Line
+- Level Tutorial
+- 英文标题: Tutorial: Line Tool
+- 中文标题: 教程：直线工具
+- 英文描述: Construct a triangle with the given vertices. To create a segment or a line, select the Line tool and click on one point, then on another one.
+- 中文标题: 已知顶点构造一个三角形。要构造一条线段或直线，选择直线工具，然后点击一点，再点击另一点；或者在两点之间拖动你的手指。
+- 英文谚语: The idealized ruler, known as a straightedge, is assumed to be infinite in length, and has no markings on it and only one edge.
+- 中文谚语: 
+- 英文谚语作者: Wikipedia
+- 中文谚语作者: 
+
+
+##### T2_Circle
+- Level Tutorial
+- 英文标题: Tutorial: Circle Tool
+- 中文标题: 教程：圆工具
+- 英文描述: Construct a circle with center O through the point P. Select the Circle tool and click on the center, then on any point of the circle.
+- 中文描述: 以 O 为圆心，经过点 P 构造一个圆。选择圆工具，然后依次点击圆心、圆上任意一点。你也可以将手指从圆心拖动到点。
+- 英文谚语: Circles can only be drawn starting from two given points: the center and a point on the circle. The compass collapses when it is not drawing a circle.
+- 中文谚语: 
+- 英文谚语作者: Wikipedia
+- 中文谚语作者: 维基百科
+
+
+##### T3_Point
+- Level Tutorial
+- 英文标题: Tutorial: Point Tool
+- 中文标题: 教程：点工具
+- 英文描述: Construct all the intersection points. Select the Point tool and click on the field to create a new point. Points are automatically stuck to the nearest intersection or line.
+- 中文描述: 构造所有交点。选择点工具，点击屏幕，构造一个新点。点将自动与最近的交点或直线组合。
+- 英文谚语: Euclid originally defined the point as &quot;that which has no part&quot;.
+- 中文谚语: 
+- 英文谚语作者: Wikipedia
+- 中文谚语作者: 维基百科
+
+
+##### TPerpBisector
+- Level Tutorial
+- 英文标题: Tutorial: Perpendicular Bisector
+- 中文标题: 教程：垂直平分线
+- 英文描述: You have discovered the Perpendicular Bisector tool. Click sequentially on two points to see how it works.
+- 中文描述: 你已经发现了垂直平分线工具。连续点击两点查看如何使用这个工具。或者在两点之间拖动你的手指。
+- 英文谚语: Note that the Perpendicular Bisector tool costs 3 elementary (E) moves.
+- 中文谚语: 
+- 英文谚语作者: Euclidea Manual
+- 中文谚语作者: 游戏说明
+
+
+##### TBisectAngle
+- Level Tutorial
+- 英文标题: Tutorial: Angle Bisector
+- 中文标题: 教程：角平分线
+- 英文描述: You have discovered the Angle Bisector tool. Click on any point on a side, on the vertex, and on any point on the other side.
+- 中文描述: 你已经发现了角平分线工具。点击边上的任意一点、顶点和另一边上的任意一点。或者沿着两条边拖动你的手指。
+- 英文谚语: Note that the Angle Bisector tool costs 4 elementary (E) moves.
+- 中文谚语: 
+- 英文谚语作者: Euclidea Manual
+- 中文谚语作者: 游戏说明
+
+
+##### TDropPerp
+- Level Tutorial
+- 英文标题: Tutorial: Perpendicular
+- 中文标题: 教程：垂线段
+- 英文描述: You have discovered the Perpendicular tool. Click on the line, then on the point.
+- 中文描述: 你已经发现了垂线段工具。依次点击直线、点。或者将你的手指从直线拖动到点。
+- 英文谚语: Note that the Perpendicular tool costs 3 elementary (E) moves.
+- 中文谚语: 
+- 英文谚语作者: Euclidea Manual
+- 中文谚语作者: 游戏说明
+
+
+##### TParallel
+- Level Tutorial
+- 英文标题: Tutorial: Parallel Line
+- 中文标题: 教程：平行线
+- 英文描述: You have discovered the Parallel tool. Click on the line, then on the point.
+- 中文描述: 你已经发现了平行线工具。依次点击直线、点。或者将你的手指从直线拖动到点。
+- 英文谚语: Note that the Parallel tool costs 4 elementary (E) moves.
+- 中文谚语: 
+- 英文谚语作者: Euclidea Manual
+- 中文谚语作者: 游戏说明
+
+
+##### TCircleByRadius
+- Level Tutorial
+- 英文标题: Tutorial: Non-collapsing Compass
+- 中文标题: 教程：非折叠圆规
+- 英文描述: You have discovered the Non-collapsing Compass tool. Click on two points to set the radius length, then on the center of the circle.
+- 中文描述: 你已经发现了非折叠圆规工具。点击两个点，依次设置半径大小、圆心。
+- 英文谚语: Note that the Compass tool costs 5 elementary (E) moves.
+- 中文谚语: 
+- 英文谚语作者: Euclidea Manual
+- 中文谚语作者: 游戏说明
+
+
+##### TIntersect
+- 英文标题: Tutorial: Intersect Tool
+- 中文标题: 教程：相交工具
+- 英文描述: If it is hard to hit the required intersection since lines are too close to each other, use the Intersect tool. Select one object (a circle or a line), then the second one. To practice, construct the intersection of the given circles.
+- 中文描述: 如果直线之间距离太小，无法找到所需交点，可以使用相交工具。 选择一个对象（圆或直线），然后选择第二个对象。 要进行练习，请构造已知圆的交点。
+- 英文谚语: Every intersection has a story.
+- 中文谚语: 
+- 英文谚语作者: Katherine Dunn
+- 中文谚语作者: 凯瑟琳·邓恩
+
+
+##### TMove
+- Level Tutorial
+- 英文标题: Tutorial: Move Tool
+- 中文标题: 教程：移动工具
+- 英文描述: Pascal's theorem states that if a hexagon is inscribed in a circle, then three points of intersection of its opposite sides lie on a straight line. Use the Move tool to see how the theorem works: just drag the blue points.
+- 中文描述: 帕斯卡定理指出，如果六边形内接于圆，其三条对边的交点共线。 使用移动工具了解如何使用这个定理：只需拖动蓝色的点。
+- 英文谚语: Our nature consists in motion; complete rest is death.
+- 中文谚语: 
+- 英文谚语作者: Blaise Pascal
+- 中文谚语作者: 布莱士·帕斯卡（法国数学家、物理学家）
+
+
 #### Angle60
 - Level 1.1
 - ![1.1](images/level/angle60.png) 
