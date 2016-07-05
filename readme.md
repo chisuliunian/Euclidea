@@ -85,9 +85,9 @@
 ##### TCircleByRadius
 - Level Tutorial
 - 英文标题: Tutorial: Non-collapsing Compass
-- 中文标题: 教程：非闭合圆规
+- 中文标题: 教程：圆规
 - 英文描述: You have discovered the Non-collapsing Compass tool. Click on two points to set the radius length, then on the center of the circle.
-- 中文描述: 您已解锁了非闭合圆规工具。依次点击两个点设定半径长度，再点击圆心完成圆的绘制。
+- 中文描述: 您已解锁了圆规工具。依次点击两个点设定半径长度，再点击圆心完成圆的绘制。
 - 英文谚语: Note that the Compass tool costs 5 elementary (E) moves.
 - 中文谚语: 注意使用圆规工具将耗费5个基础（E）步骤。
 - 英文谚语作者: Euclidea Manual
@@ -773,7 +773,7 @@
 - Level 6.5
 - ![6.5](images/level/circle-by-radius.png) 
 - 英文标题: Non-collapsing Compass
-- 中文标题: 非闭合圆规
+- 中文标题: 圆规
 - 英文描述: Construct a circle with the given center and the radius equal to the length of the given segment.
 - 中文描述: 以给定点为圆心，作一个半径和已知线段长度相等的圆。
 - 英文谚语: There is nothing strange in the circle being the origin of any and every marvel.
