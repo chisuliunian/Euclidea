@@ -3,7 +3,7 @@
 - 英文标题: Tutorial: Line Tool
 - 中文标题: 教程：直线工具
 - 英文描述: Construct a triangle with the given vertices. To create a segment or a line, select the Line tool and click on one point, then on another one.
-- 中文标题: 以给定顶点构造一个三角形。要作一条线段或直线，选择直线工具，依次点击一点，再点击另一点；或者在两点之间拖动您的手指。
+- 中文标题: 以给定顶点作一个三角形。要作一条线段或直线，选择直线工具，先点击一点，再点击另一点；或者用手指在两点之间拖动。
 - 英文谚语: The idealized ruler, known as a straightedge, is assumed to be infinite in length, and has no markings on it and only one edge.
 - 中文谚语: 理想化的尺，称为直尺，是假定长度无限，没有刻度而且只有一条边。
 - 英文谚语作者: Wikipedia
@@ -15,7 +15,7 @@
 - 英文标题: Tutorial: Circle Tool
 - 中文标题: 教程：圆工具
 - 英文描述: Construct a circle with center O through the point P. Select the Circle tool and click on the center, then on any point of the circle.
-- 中文描述: 以O为圆心，过点P作一个圆。选择圆工具，并依次点击圆心和圆周上任意一点。您也可以将手指从圆心拖动到圆周上的点。
+- 中文描述: 以O为圆心，过点P作一个圆。选择圆工具，依次点击圆心和圆周上任意一点。也可以用手指从圆心拖动到圆周上的点。
 - 英文谚语: Circles can only be drawn starting from two given points: the center and a point on the circle. The compass collapses when it is not drawing a circle.
 - 中文谚语: 圆只能由给定的两点作出：圆心及圆周上一点。不作圆时的圆规是闭合的。
 - 英文谚语作者: Wikipedia
@@ -29,7 +29,7 @@
 - 英文描述: Construct all the intersection points. Select the Point tool and click on the field to create a new point. Points are automatically stuck to the nearest intersection or line.
 - 中文描述: 作出所有的交点。选择点工具，点击画板任意一处，即可新建一个点。手指点击时，距离最近的交点或直线将会被选中。
 - 英文谚语: Euclid originally defined the point as “that which has no part”.
-- 中文谚语: 欧几里得原本一开始将点定义为“不能分割的东西”。
+- 中文谚语: 欧几里德原本一开始将点定义为“不能分割的东西”。
 - 英文谚语作者: Wikipedia
 - 中文谚语作者: 维基百科
 
@@ -39,7 +39,7 @@
 - 英文标题: Tutorial: Perpendicular Bisector
 - 中文标题: 教程：垂直平分线
 - 英文描述: You have discovered the Perpendicular Bisector tool. Click sequentially on two points to see how it works.
-- 中文描述: 您已解锁了垂直平分线工具。依次点击两点查看这个工具的功能。或者在两点之间拖动你的手指。
+- 中文描述: 您已解锁了垂直平分线工具。依次点击两点查看这个工具的功能。或者用手指在两点之间拖动。
 - 英文谚语: Note that the Perpendicular Bisector tool costs 3 elementary (E) moves.
 - 中文谚语: 注意使用垂直平分线工具将耗费3个基础（E）步骤。
 - 英文谚语作者: Euclidea Manual
@@ -51,7 +51,7 @@
 - 英文标题: Tutorial: Angle Bisector
 - 中文标题: 教程：角平分线
 - 英文描述: You have discovered the Angle Bisector tool. Click on any point on a side, on the vertex, and on any point on the other side.
-- 中文描述: 您已解锁了角平分线工具。依次点击边上的任意一点、顶点和另一边上的任意一点。或者沿着两条边拖动您的手指。
+- 中文描述: 您已解锁了角平分线工具。依次点击边上的任意一点、顶点和另一边上的任意一点。或者用手指沿着两条边拖动。
 - 英文谚语: Note that the Angle Bisector tool costs 4 elementary (E) moves.
 - 中文谚语: 注意使用角平分线工具将耗费4个基础（E）步骤。
 - 英文谚语作者: Euclidea Manual
@@ -63,7 +63,7 @@
 - 英文标题: Tutorial: Perpendicular
 - 中文标题: 教程：垂线
 - 英文描述: You have discovered the Perpendicular tool. Click on the line, then on the point.
-- 中文描述: 您已解锁了垂线工具。依次点击直线和点。或者将您的手指从直线拖动到点。
+- 中文描述: 您已解锁了垂线工具。依次点击直线和点。或者用手指从直线拖动到点。
 - 英文谚语: Note that the Perpendicular tool costs 3 elementary (E) moves.
 - 中文谚语: 注意使用垂线工具将耗费3个基础（E）步骤。
 - 英文谚语作者: Euclidea Manual
@@ -75,7 +75,7 @@
 - 英文标题: Tutorial: Parallel Line
 - 中文标题: 教程：平行线
 - 英文描述: You have discovered the Parallel tool. Click on the line, then on the point.
-- 中文描述: 您已解锁了平行线工具。依次点击直线和点。或者将你的手指从直线拖动到点。
+- 中文描述: 您已解锁了平行线工具。依次点击直线和点。或者用手指从直线拖动到点。
 - 英文谚语: Note that the Parallel tool costs 4 elementary (E) moves.
 - 中文谚语: 注意使用平行线工具将耗费4个基础（E）步骤。
 - 英文谚语作者: Euclidea Manual
@@ -110,7 +110,7 @@
 - 英文标题: Tutorial: Move Tool
 - 中文标题: 教程：移动工具
 - 英文描述: Pascal's theorem states that if a hexagon is inscribed in a circle, then three points of intersection of its opposite sides lie on a straight line. Use the Move tool to see how the theorem works: just drag the blue points.
-- 中文描述: 帕斯卡定理指出，如果一个六边形内接于一个圆，则其三条对边的交点共线。 使用移动工具了解这个定理的原理：拖动蓝色的点即可。
+- 中文描述: 帕斯卡定理指出，如果一个六边形内接于一个圆，则其三条对边的交点共线。使用移动工具了解这个定理的原理：拖动蓝色的点并观察。
 - 英文谚语: Our nature consists in motion; complete rest is death.
 - 中文谚语: 我们的自然是由运动组成的。彻底的静止就是死亡。
 - 英文谚语作者: Blaise Pascal
@@ -151,7 +151,7 @@
 - 英文描述: Construct the midpoint between two points.
 - 中文描述: 作给定两点的中点。
 - 英文谚语: Without geometry, life would be pointless.
-- 中文谚语: 没有了几何，生活就失去了一切看点。
+- 中文谚语: 没有了几何，生活“一点”意思都没有了。（双关）
 - 英文谚语作者: Joke
 - 中文谚语作者: 俚语
 
@@ -1069,7 +1069,7 @@
 - 英文描述: Construct a line through the point that crosses the two lines so that the interior angles are equal.
 - 中文描述: 经过给定点作一条与两已知直线相交的直线，并且使两个内角相等。
 - 英文谚语: I am ever more convinced that the necessity of our (Euclidean) geometry cannot be proved — at least not by human reason for human reason.
-- 中文谚语: 我越发相信我们欧几里得几何的必要性是无法证明的，至少不能为了人类的原因而用人类的理性去证明。
+- 中文谚语: 我越发相信我们欧几里德几何的必要性是无法证明的，至少不能为了人类的原因而用人类的理性去证明。
 - 英文谚语作者: Carl Friedrich Gauss
 - 中文谚语作者: 卡尔·弗雷德里希·高斯（德国数学家、天文学家、物理学家）
 
@@ -1711,3 +1711,5 @@
 - 中文谚语: 思想是待点燃的火苗，而不是待填满的容器。
 - 英文谚语作者: Plutarch
 - 中文谚语作者: 普鲁塔克（希腊历史学家）
+
+
